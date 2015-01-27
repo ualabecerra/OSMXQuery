@@ -170,61 +170,6 @@ declare function osm:inSameWay($node1 as node(), $node2 as node(), $document as 
     return geo:equals($line1,$line2))) 
 };          
  
-(: Returns the shortest distance between two ways, 
-   where that distance is the distance between a point on each of the geometries :)
-   
-declare function osm:getDistance($oneway1 as node(), $oneway2 as node())
-{
-  let $mutliLineString1 := osm_gml:_osm2GmlLine($oneway1), 
-      $multiLineString2 := osm_gml:_osm2GmlLine($oneway2)
-  return
-    geo:distance($mutliLineString1,$multiLineString2)
-};
-
-declare function osm:getDistanceMbr($x1 as xs:float, $y1 as xs:float, 
-                                    $s1 as xs:float, $t1 as xs:float,
-                                    $x2 as xs:float, $y2 as xs:float, 
-                                    $s2 as xs:float, $t2 as xs:float)
-{
-  let $oneway1 := <oneway name = "node">
-                  <way name = "way"/>
-                  <node visible="true" lat = "{$x1}" lon = "{$y1}" />
-                  <node visible="true" lat = "{$s1}" lon = "{$y1}" />
-                  <node visible="true" lat = "{$s1}" lon = "{$t1}" />
-                  <node visible="true" lat = "{$x1}" lon = "{$t1}" />
-                  <node visible="true" lat = "{$x1}" lon = "{$y1}" />
-                  </oneway>
-  
-  let $oneway2 := <oneway name = "node">
-                  <way name = "way"/>
-                  <node visible="true" lat = "{$x2}" lon = "{$y2}" />
-                  <node visible="true" lat = "{$s2}" lon = "{$y2}" />
-                  <node visible="true" lat = "{$s2}" lon = "{$t2}" />
-                  <node visible="true" lat = "{$x2}" lon = "{$t2}" />
-                  <node visible="true" lat = "{$x2}" lon = "{$y2}" />
-                  </oneway> 
-                  
-  let $mutliLineString1 := osm_gml:_osm2GmlLine($oneway1), 
-      $multiLineString2 := osm_gml:_osm2GmlLine($oneway2)
-  return
-      geo:distance($mutliLineString1,$multiLineString2) 
-};
- 
-declare function osm:isIn($oneway1 as node(), $oneway2 as node())
-{
- (osm:getDistance($oneway1, $oneway2) < 0.0001)  
-};
-
-declare function osm:isNext($oneway1 as node(), $oneway2 as node())
-{
- (osm:getDistance($oneway1, $oneway2) < 0.001) 
-};
-
-declare function osm:isAway($oneway1 as node(), $oneway2 as node())
-{
- (osm:getDistance($oneway1, $oneway2) < 0.01) 
-};
- 
 (: Returns true whenever a way crosses another one :)
 
 declare function osm:isCrossing($oneway1 as node(), $oneway2 as node())
@@ -386,27 +331,67 @@ declare function osm:furtherNorthWays($oneway1 as node(), $oneway2 as node())
     then let $start_point2 := geo:start-point($multilineString2/*),
          $end_point2 := geo:end-point($multilineString2/*)
     return 
-       (osm:furtherNorthPoints( 
-       <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
-       lon = "{fn:substring-after($start_point1,',')}"/>, 
-        <node visible = 'true' lat = "{fn:substring-before($start_point2,',')}" 
-       lon = "{fn:substring-after($start_point2,',')}"/>) )
-       and (osm:furtherNorthPoints( 
-       <node visible = 'true' lat = "{fn:substring-before($end_point1,',')}" 
-       lon = "{fn:substring-after($end_point1,',')}"/>,
-       <node visible = 'true' lat = "{fn:substring-before($end_point2,',')}" 
-       lon = "{fn:substring-after($end_point2,',')}"/>)) 
+        if (
+        (osm:furtherNorthPoints( 
+         <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
+         lon = "{fn:substring-after($start_point1,',')}"/>, 
+         <node visible = 'true' lat = "{fn:substring-before($start_point2,',')}" 
+         lon = "{fn:substring-after($start_point2,',')}"/>) )
+         and (osm:furtherNorthPoints( 
+         <node visible = 'true' lat = "{fn:substring-before($end_point1,',')}" 
+         lon = "{fn:substring-after($end_point1,',')}"/>,
+         <node visible = 'true' lat = "{fn:substring-before($end_point2,',')}" 
+         lon = "{fn:substring-after($end_point2,',')}"/>))
+         )
+        then geo:distance($multiLineString1,$multilineString2) 
+        else -1 
    else 
-       (osm:furtherNorthPoints(
-       <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
-       lon = "{fn:substring-after($start_point1,',')}"/>,
-       <node visible = 'true' lat = "{geo:x($multilineString2)}" 
-       lon = "{geo:x($multilineString2)}"/>))
+       if (
+         (osm:furtherNorthPoints(
+         <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
+         lon = "{fn:substring-after($start_point1,',')}"/>,
+         <node visible = 'true' lat = "{geo:x($multilineString2)}" 
+         lon = "{geo:x($multilineString2)}"/>))
+       )
+       then geo:distance($multiLineString1,$multilineString2)
+       else -1
 };
 
-declare function osm:furtherSouthWays($node1 as node(), $node2 as node())
+declare function osm:furtherSouthWays($oneway1 as node(), $oneway2 as node())
 {
-  not(osm:furtherNorthWays($node1,$node2))
+  let $multiLineString1 := osm_gml:_osm2GmlLine($oneway1)
+  let $multilineString2 := osm_gml:_osm2GmlLine($oneway2)
+  let $start_point1 := geo:start-point($multiLineString1/*),
+      $end_point1 := geo:end-point($multiLineString1/*)
+  return 
+    if (geo:dimension($multilineString2) = 1)
+    then let $start_point2 := geo:start-point($multilineString2/*),
+         $end_point2 := geo:end-point($multilineString2/*)
+    return 
+        if (
+        (osm:furtherSouthPoints( 
+         <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
+         lon = "{fn:substring-after($start_point1,',')}"/>, 
+         <node visible = 'true' lat = "{fn:substring-before($start_point2,',')}" 
+         lon = "{fn:substring-after($start_point2,',')}"/>) )
+         and (osm:furtherSouthPoints( 
+         <node visible = 'true' lat = "{fn:substring-before($end_point1,',')}" 
+         lon = "{fn:substring-after($end_point1,',')}"/>,
+         <node visible = 'true' lat = "{fn:substring-before($end_point2,',')}" 
+         lon = "{fn:substring-after($end_point2,',')}"/>))
+         )
+        then geo:distance($multiLineString1,$multilineString2) 
+        else -1 
+   else 
+       if (
+         (osm:furtherSouthPoints(
+         <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
+         lon = "{fn:substring-after($start_point1,',')}"/>,
+         <node visible = 'true' lat = "{geo:x($multilineString2)}" 
+         lon = "{geo:x($multilineString2)}"/>))
+         )
+       then geo:distance($multiLineString1,$multilineString2) 
+       else -1
 };
 
 declare function osm:furtherEastWays($oneway1 as node(), $oneway2 as node())
@@ -420,6 +405,7 @@ declare function osm:furtherEastWays($oneway1 as node(), $oneway2 as node())
     then let $start_point2 := geo:start-point($multilineString2/*),
          $end_point2 := geo:end-point($multilineString2/*)
     return 
+      if (
        (osm:furtherEastPoints(
        <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
        lon = "{fn:substring-after($start_point1,',')}"/>, 
@@ -429,24 +415,138 @@ declare function osm:furtherEastWays($oneway1 as node(), $oneway2 as node())
        <node visible = 'true' lat = "{fn:substring-before($end_point1,',')}" 
        lon = "{fn:substring-after($end_point1,',')}"/>, 
        <node visible = 'true' lat = "{fn:substring-before($end_point2,',')}" 
-       lon = "{fn:substring-after($end_point2,',')}"/>) )      
+       lon = "{fn:substring-after($end_point2,',')}"/>) )  
+       )
+      then geo:distance($multiLineString1,$multilineString2)
+      else -1     
    else 
+      if (
        (osm:furtherEastPoints(
        <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
        lon = "{fn:substring-after($start_point1,',')}"/>,
        <node visible = 'true' lat = "{geo:x($multilineString2)}" 
        lon = "{geo:x($multilineString2)}"/>))
+       )
+      then geo:distance($multiLineString1,$multilineString2)
+      else -1
 };
 
-declare function osm:furtherWestWays($node1 as node(), $node2 as node())
+declare function osm:furtherWestWays($oneway1 as node(), $oneway2 as node())
 {
-  not(osm:furtherEastWays($node1,$node2))
+  let $multiLineString1 := osm_gml:_osm2GmlLine($oneway1)
+  let $multilineString2 := osm_gml:_osm2GmlLine($oneway2)
+  let $start_point1 := geo:start-point($multiLineString1/*),
+      $end_point1 := geo:end-point($multiLineString1/*)
+  return 
+    if (geo:dimension($multilineString2) = 1)
+    then let $start_point2 := geo:start-point($multilineString2/*),
+         $end_point2 := geo:end-point($multilineString2/*)
+    return 
+      if (
+       (osm:furtherWestPoints(
+       <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
+       lon = "{fn:substring-after($start_point1,',')}"/>, 
+       <node visible = 'true' lat = "{fn:substring-before($start_point2,',')}" 
+       lon = "{fn:substring-after($start_point2,',')}"/>) )
+       and (osm:furtherWestPoints(
+       <node visible = 'true' lat = "{fn:substring-before($end_point1,',')}" 
+       lon = "{fn:substring-after($end_point1,',')}"/>, 
+       <node visible = 'true' lat = "{fn:substring-before($end_point2,',')}" 
+       lon = "{fn:substring-after($end_point2,',')}"/>) )  
+       )
+      then geo:distance($multiLineString1,$multilineString2)
+      else -1     
+   else 
+      if (
+       (osm:furtherWestPoints(
+       <node visible = 'true' lat = "{fn:substring-before($start_point1,',')}" 
+       lon = "{fn:substring-after($start_point1,',')}"/>,
+       <node visible = 'true' lat = "{geo:x($multilineString2)}" 
+       lon = "{geo:x($multilineString2)}"/>))
+       )
+      then geo:distance($multiLineString1,$multilineString2)
+      else -1
 };
 
+(: Returns the shortest distance between two ways, 
+   where that distance is the distance between a point on each of the geometries :)
+   
+declare function osm:getDistance($oneway1 as node(), $oneway2 as node())
+{
+  let $mutliLineString1 := osm_gml:_osm2GmlLine($oneway1), 
+      $multiLineString2 := osm_gml:_osm2GmlLine($oneway2)
+  return
+    geo:distance($mutliLineString1,$multiLineString2)
+};
 
+declare function osm:getDistanceMbr($x1 as xs:float, $y1 as xs:float, 
+                                    $s1 as xs:float, $t1 as xs:float,
+                                    $x2 as xs:float, $y2 as xs:float, 
+                                    $s2 as xs:float, $t2 as xs:float)
+{
+  let $oneway1 := <oneway name = "node">
+                  <way name = "way"/>
+                  <node visible="true" lat = "{$x1}" lon = "{$y1}" />
+                  <node visible="true" lat = "{$s1}" lon = "{$y1}" />
+                  <node visible="true" lat = "{$s1}" lon = "{$t1}" />
+                  <node visible="true" lat = "{$x1}" lon = "{$t1}" />
+                  <node visible="true" lat = "{$x1}" lon = "{$y1}" />
+                  </oneway>
+  
+  let $oneway2 := <oneway name = "node">
+                  <way name = "way"/>
+                  <node visible="true" lat = "{$x2}" lon = "{$y2}" />
+                  <node visible="true" lat = "{$s2}" lon = "{$y2}" />
+                  <node visible="true" lat = "{$s2}" lon = "{$t2}" />
+                  <node visible="true" lat = "{$x2}" lon = "{$t2}" />
+                  <node visible="true" lat = "{$x2}" lon = "{$y2}" />
+                  </oneway> 
+                  
+  let $mutliLineString1 := osm_gml:_osm2GmlLine($oneway1), 
+      $multiLineString2 := osm_gml:_osm2GmlLine($oneway2)
+  return
+      geo:distance($mutliLineString1,$multiLineString2) 
+};
+ 
+declare function osm:isIn($oneway1 as node(), $oneway2 as node())
+{
+ let $distance := osm:getDistance($oneway1, $oneway2)
+ return 
+   if ($distance < 0.0001)
+   then $distance
+   else -1
+};
 
+declare function osm:isNext($oneway1 as node(), $oneway2 as node())
+{
+ let $distance := osm:getDistance($oneway1, $oneway2)
+ return 
+   if ($distance < 0.001 and $distance > 0.0001)
+   then $distance
+   else -1 
+};
 
+declare function osm:isAway($oneway1 as node(), $oneway2 as node())
+{
+ let $distance := osm:getDistance($oneway1,$oneway2)
+ return
+   if ($distance < 0.01 and $distance > 0.001)
+   then $distance
+   else -1
+    
+};
 
+(: Function Filter applied to intervals :)
 
-
-
+declare function osm:intervalFilter($seq, $tag, $i, $j) {
+  for-each(
+    $seq,
+    function($x) {
+      let $distance := $pred($x)
+      return
+         if($distance >= $i and $distance <= $j) then 
+             osm:addTag($x, "distance", $distance)
+         else ()
+    }
+  )
+};
