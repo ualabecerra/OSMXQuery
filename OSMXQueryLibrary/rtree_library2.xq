@@ -310,52 +310,57 @@ if ($document/node) then  for $node in $document/node
                                  
                                 return 
                                 
-				(:MODIFICACION:) 
+  (:MODIFICACION:) 
                                 
                                 if ($way/mbr/way) then 
-				let $object1 :=
+  let $object1 :=
 
                                 <oneway name="{($way/mbr/way)[1]/tag[@k="name"]/@v}"> 
                                 {let $node := for $each in $way/mbr/way/nd return
                                 $root/rtree/nodes/node[@id=$each/@ref] return $node}
                                 {$way/mbr/*} 
                                 </oneway> 
- 
-				let $object2 := $mbr/*
-
-				let $distance := osm:getDistance($object1,$object2)
-				
-
-				return
-
-				<oneway name="{($way/mbr/way)[1]/tag[@k="name"]/@v}" distance="{$distance}"> 
-                                {$object1/*} 
-                                </oneway> 
-				
-				(:MODIFICACION:)				
-
-                                else 
-
-				(:MODIFICACION:)
-                               
-				let $object1 :=
-                                <oneway  name="node"> 
-                                 {let $node := for $each in $way/mbr/way/nd return
+  
+  let $object2 :=               <oneway name="{($mbr/way)[1]/tag[@k="name"]/@v}"> 
+                                {let $node := for $each in $mbr/way/nd return
                                 $root/rtree/nodes/node[@id=$each/@ref] return $node}
-                                {$way/mbr/*}
-                                </oneway> 
+                                {$mbr/*} 
+                                </oneway>                        
 
-				let $object2 := $mbr/*
+  let $distance := osm:getDistance($object1,$object2)
 
-				let $distance:= osm:getDistance($object1,$object2)
-                                
-                                return
+      return
 
-				<oneway name="{($way/mbr/way)[1]/tag[@k="name"]/@v}" distance="{$distance}"> 
+      <oneway name="{($way/mbr/way)[1]/tag[@k="name"]/@v}" distance="{$distance}"> 
+                                {$object1/*} 
+      </oneway>
+
+(:MODIFICACION:)
+
+     else 
+
+(:MODIFICACION:)
+                               
+let $object1 :=
+                  <oneway  name="node"> 
+                  {let $node := for $each in $way/mbr/way/nd return
+                   $root/rtree/nodes/node[@id=$each/@ref] return $node}
+                   {$way/mbr/*}
+                   </oneway> 
+
+ let $object2 := <oneway>{$mbr/*}</oneway>
+
+ let $distance:= osm:getDistance($object1,$object2)                                
+  
+ return
+
+(: Aquí es donde está el problema. Debemos obtener todos los nodes :)
+
+ <oneway name="{($way/mbr/way)[1]/tag[@k="name"]/@v}" distance="{$distance}"> 
                                 {$object1/*} 
                                 </oneway>
-
-				(:MODIFICACION:)
+                               
+(:MODIFICACION:)
   
 };
 
