@@ -537,7 +537,7 @@ declare function osm:isAway($oneway1 as node(), $oneway2 as node())
 };
 
 (: Function Filter applied to intervals :)
-
+(:
 declare function osm:intervalFilter($seq, $tag, $i, $j) {
   for-each(
     $seq,
@@ -550,3 +550,4 @@ declare function osm:intervalFilter($seq, $tag, $i, $j) {
     }
   )
 };
+:)
