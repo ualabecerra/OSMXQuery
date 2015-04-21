@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-2267' visible='true' lat='36.8386115' lon='-2.4534251' />
+  <node id='-2266' visible='true' lat='36.8386136' lon='-2.4535266' />
+  <node id='-2265' visible='true' lat='36.838751' lon='-2.453548' />
+  <node id='-2264' visible='true' lat='36.83862' lon='-2.4546263' />
+  <node id='-2263' visible='true' lat='36.8384977' lon='-2.4545941' />
+  <node id='-2262' visible='true' lat='36.8385192' lon='-2.4543585' />
+  <node id='-2261' visible='true' lat='36.8379159' lon='-2.4542427' />
+  <node id='-2260' visible='true' lat='36.838004' lon='-2.4533469' />
+  <node id='-2235' visible='true' lat='36.8395487' lon='-2.45245' />
+  <node id='-2233' visible='true' lat='36.8395587' lon='-2.4519199' />
+  <node id='-2231' visible='true' lat='36.8389215' lon='-2.4518291' />
+  <node id='-2229' visible='true' lat='36.8389716' lon='-2.4517038' />
+  <node id='-2227' visible='true' lat='36.8383496' lon='-2.4516099' />
+  <node id='-2225' visible='true' lat='36.838279' lon='-2.4522988' />
+  <node id='-2203' visible='true' lat='36.8382919' lon='-2.4491153' />
+  <node id='-2201' visible='true' lat='36.8384292' lon='-2.4476476' />
+  <node id='-2199' visible='true' lat='36.8381064' lon='-2.4476905' />
+  <node id='-2197' visible='true' lat='36.8380102' lon='-2.447742' />
+  <node id='-2195' visible='true' lat='36.8379484' lon='-2.4478621' />
+  <node id='-2193' visible='true' lat='36.8377973' lon='-2.4483342' />
+  <node id='-2191' visible='true' lat='36.8377629' lon='-2.4483342' />
+  <node id='-2189' visible='true' lat='36.8377148' lon='-2.4484973' />
+  <node id='-2187' visible='true' lat='36.8379346' lon='-2.4486003' />
+  <node id='-2185' visible='true' lat='36.8378934' lon='-2.4490552' />
+  <node id='-2167' visible='true' lat='36.8394784' lon='-2.4527948' />
+  <node id='-2165' visible='true' lat='36.8394916' lon='-2.452561' />
+  <node id='-2163' visible='true' lat='36.8388354' lon='-2.4524852' />
+  <node id='-2161' visible='true' lat='36.8388116' lon='-2.4528112' />
+  <node id='-2159' visible='true' lat='36.8389461' lon='-2.4528277' />
+  <node id='-2157' visible='true' lat='36.8389592' lon='-2.452719' />
+  <node id='-2135' visible='true' lat='36.8389087' lon='-2.4533422' />
+  <node id='-2133' visible='true' lat='36.8385898' lon='-2.4533015' />
+  <node id='-2131' visible='true' lat='36.8386188' lon='-2.452783' />
+  <way id='-2259' visible='true'>
+    <nd ref='-2260' />
+    <nd ref='-2261' />
+    <nd ref='-2262' />
+    <nd ref='-2263' />
+    <nd ref='-2264' />
+    <nd ref='-2265' />
+    <nd ref='-2266' />
+    <nd ref='-2267' />
+    <nd ref='-2260' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Madre de la Luz' />
+  </way>
+  <way id='-2237' visible='true'>
+    <nd ref='-2235' />
+    <nd ref='-2225' />
+    <nd ref='-2227' />
+    <nd ref='-2229' />
+    <nd ref='-2231' />
+    <nd ref='-2233' />
+    <nd ref='-2235' />
+    <tag k='amenity' v='high school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='IES Alborán' />
+  </way>
+  <way id='-2205' action='modify' visible='true'>
+    <nd ref='-2203' />
+    <nd ref='-2185' />
+    <nd ref='-2187' />
+    <nd ref='-2189' />
+    <nd ref='-2191' />
+    <nd ref='-2193' />
+    <nd ref='-2195' />
+    <nd ref='-2197' />
+    <nd ref='-2199' />
+    <nd ref='-2201' />
+    <nd ref='-2203' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='public' />
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='CPC Divina Infantita' />
+  </way>
+  <way id='-2169' visible='true'>
+    <nd ref='-2167' />
+    <nd ref='-2157' />
+    <nd ref='-2159' />
+    <nd ref='-2161' />
+    <nd ref='-2163' />
+    <nd ref='-2165' />
+    <nd ref='-2167' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Real Conservatorio Profesional de Música' />
+    <tag k='website' v='http://www.conservatoriodealmeria.es/' />
+  </way>
+  <way id='-2137' action='modify' visible='true'>
+    <nd ref='-2135' />
+    <nd ref='-2159' />
+    <nd ref='-2161' />
+    <nd ref='-2131' />
+    <nd ref='-2133' />
+    <nd ref='-2135' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Escuela Infantil Los Ángeles' />
+  </way>
+</osm>

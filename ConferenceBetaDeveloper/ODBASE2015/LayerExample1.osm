@@ -1,0 +1,78 @@
+<osm version="0.6" upload="true" generator="JOSM">
+  <node id="252114539" timestamp="2012-04-11T07:50:56Z" uid="625069" user="andriu3" visible="true" version="4" changeset="11261569" lat="36.8385133" lon="-2.4633844"/>
+  <node id="252114540" timestamp="2012-04-11T07:50:56Z" uid="625069" user="andriu3" visible="true" version="4" changeset="11261569" lat="36.8386356" lon="-2.4623737"/>
+  <node id="252114542" timestamp="2012-04-11T07:50:56Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11261569" lat="36.8387189" lon="-2.4614138"/>
+  <node id="252114543" timestamp="2012-04-11T07:50:56Z" uid="625069" user="andriu3" visible="true" version="4" changeset="11261569" lat="36.8386848" lon="-2.461303"/>
+  <way id="89133445" timestamp="2013-02-05T18:04:43Z" uid="162411" user="kalh" visible="true" version="3" changeset="14924752">
+    <nd ref="252114539"/>
+    <nd ref="252114540"/>
+    <nd ref="252114542"/>
+    <nd ref="252114543"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Calle Mendez Nuñez"/>
+  </way>
+  <node id="252114543" timestamp="2012-04-11T07:50:56Z" uid="625069" user="andriu3" visible="true" version="4" changeset="11261569" lat="36.8386848" lon="-2.461303"/>
+  <node id="298004636" timestamp="2012-04-11T07:50:56Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11261569" lat="36.838993" lon="-2.4611195"/>
+  <node id="429809422" timestamp="2012-04-11T07:50:58Z" uid="625069" user="andriu3" visible="true" version="2" changeset="11261569" lat="36.8393002" lon="-2.4608776"/>
+  <node id="298004657" timestamp="2012-04-11T07:50:57Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11261569" lat="36.8394552" lon="-2.4607861"/>
+  <node id="298004662" timestamp="2013-04-01T08:51:12Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8396741" lon="-2.4605659"/>
+  <node id="298004213" timestamp="2012-04-11T07:50:57Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11261569" lat="36.8376101" lon="-2.4613939"/>
+  <node id="383452653" timestamp="2012-04-11T07:50:57Z" uid="625069" user="andriu3" visible="true" version="2" changeset="11261569" lat="36.8380032" lon="-2.4613703"/>
+  <node id="2142848409" timestamp="2013-02-05T18:04:41Z" uid="162411" user="kalh" visible="true" version="1" changeset="14924752" lat="36.8385574" lon="-2.4613156"/>
+  <node id="252114543" timestamp="2012-04-11T07:50:56Z" uid="625069" user="andriu3" visible="true" version="4" changeset="11261569" lat="36.8386848" lon="-2.461303"/>
+  <way id="89133447" timestamp="2013-02-05T18:04:43Z" uid="162411" user="kalh" visible="true" version="2" changeset="14924752">
+    <nd ref="252114543"/>
+    <nd ref="298004636"/>
+    <nd ref="429809422"/>
+    <nd ref="298004657"/>
+    <nd ref="298004662"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Javier Sanz"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="89133449" timestamp="2013-02-05T18:04:44Z" uid="162411" user="kalh" visible="true" version="2" changeset="14924752">
+    <nd ref="298004213"/>
+    <nd ref="383452653"/>
+    <nd ref="2142848409"/>
+    <nd ref="252114543"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Javier Sanz"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="324437798" timestamp="2012-04-11T11:37:03Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11263909" lat="36.8376518" lon="-2.4611446"/>
+  <node id="1711325255" timestamp="2012-04-11T11:37:03Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8382377" lon="-2.4607676"/>
+  <node id="324437799" timestamp="2012-04-11T11:37:03Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11263909" lat="36.8383404" lon="-2.4608089"/>
+  <node id="324437801" timestamp="2012-04-11T11:37:03Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11263909" lat="36.8384901" lon="-2.4611443"/>
+  <node id="324437802" timestamp="2012-04-11T09:08:33Z" uid="625069" user="andriu3" visible="true" version="2" changeset="11261569" lat="36.8384189" lon="-2.461298"/>
+  <node id="324437803" timestamp="2012-04-11T11:37:03Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11263909" lat="36.8376682" lon="-2.4613415"/>
+  <node id="324437798" timestamp="2012-04-11T11:37:03Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11263909" lat="36.8376518" lon="-2.4611446"/>
+  <way id="29436861" timestamp="2012-04-11T11:37:04Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11263909">
+    <nd ref="324437798"/>
+    <nd ref="1711325255"/>
+    <nd ref="324437799"/>
+    <nd ref="324437801"/>
+    <nd ref="324437802"/>
+    <nd ref="324437803"/>
+    <nd ref="324437798"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="IES Celia Viñas"/>
+  </way>
+  <node id="383452289" timestamp="2012-04-11T07:50:58Z" uid="625069" user="andriu3" visible="true" version="2" changeset="11261569" lat="36.8383052" lon="-2.4625036"/>
+  <node id="383452653" timestamp="2012-04-11T07:50:57Z" uid="625069" user="andriu3" visible="true" version="2" changeset="11261569" lat="36.8380032" lon="-2.4613703"/>
+  <way id="33570250" timestamp="2013-02-05T18:04:46Z" uid="162411" user="kalh" visible="true" version="3" changeset="14924752">
+    <nd ref="383452289"/>
+    <nd ref="383452653"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Calle Padre Santaella"/>
+  </way>
+  <node id="298004607" timestamp="2012-04-11T10:44:21Z" uid="625069" user="andriu3" visible="true" version="5" changeset="11263427" lat="36.8397091" lon="-2.4619437"/>
+  <node id="298004651" timestamp="2012-04-11T07:50:58Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11261569" lat="36.8393524" lon="-2.461855"/>
+  <node id="298004621" timestamp="2012-04-11T07:50:57Z" uid="625069" user="andriu3" visible="true" version="3" changeset="11261569" lat="36.8390035" lon="-2.4617829"/>
+  <way id="89134974" timestamp="2013-02-05T18:04:46Z" uid="162411" user="kalh" visible="true" version="2" changeset="14924752">
+    <nd ref="298004607"/>
+    <nd ref="298004651"/>
+    <nd ref="298004621"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Calle García Alix"/>
+  </way>
+</osm>

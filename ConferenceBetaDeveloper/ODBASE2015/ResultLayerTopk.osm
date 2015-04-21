@@ -1,0 +1,43 @@
+<osm version="0.6" upload="true" generator="JOSM">
+ <way id="159008540" timestamp="2014-06-06T13:11:46Z" uid="170106" user="sanchi" visible="true" version="3" changeset="22775053">
+    <nd ref="2902817094"/>
+    <nd ref="1711171537"/>
+    <nd ref="1711171534"/>
+    <nd ref="1711171533"/>
+    <nd ref="2902817095"/>
+    <nd ref="2902817094"/>
+    <tag k="amenity" v="theatre"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Teatro Cervantes"/>
+  </way>
+  <node id="2902817094" timestamp="2014-06-06T13:11:14Z" uid="170106" user="sanchi" visible="true" version="1" changeset="22775053" lat="36.837196" lon="-2.4640709"/>
+  <node id="1711171537" timestamp="2012-04-11T08:34:14Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11261569" lat="36.8368525" lon="-2.4640266"/>
+  <node id="1711171534" timestamp="2012-04-11T08:34:14Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11261569" lat="36.8368636" lon="-2.4637348"/>
+  <node id="1711171533" timestamp="2012-04-11T08:34:13Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11261569" lat="36.8369082" lon="-2.4632839"/>
+  <node id="2902817095" timestamp="2014-06-06T13:11:14Z" uid="170106" user="sanchi" visible="true" version="1" changeset="22775053" lat="36.8372607" lon="-2.4633463"/>
+  <node id="2902817094" timestamp="2014-06-06T13:11:14Z" uid="170106" user="sanchi" visible="true" version="1" changeset="22775053" lat="36.837196" lon="-2.4640709"/>
+  
+  <node id="2509500158" timestamp="2013-10-26T15:57:27Z" uid="1120480" user="mm81" visible="true" version="1" changeset="18553422" lat="36.8361661" lon="-2.4624878">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Cuentavinos"/>
+  </node>
+  <node id="2509500156" timestamp="2013-10-26T15:57:27Z" uid="1120480" user="mm81" visible="true" version="1" changeset="18553422" lat="36.838184" lon="-2.462622">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="spanish"/>
+    <tag k="name" v="La Tahona"/>
+  </node>
+  <node id="298019060" timestamp="2008-09-18T22:55:53Z" uid="20587" user="balrog-kun" visible="true" version="1" changeset="660054" lat="36.8382463" lon="-2.4650313">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pizzeria Da Bruno"/>
+  </node>
+  <node id="1711194690" timestamp="2012-04-11T09:13:22Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11261569" lat="36.8392169" lon="-2.4643082">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="spanish"/>
+    <tag k="name" v="El Ajolí"/>
+  </node>
+  <node id="298019071" timestamp="2013-10-26T15:57:28Z" uid="1120480" user="mm81" visible="true" version="2" changeset="18553422" lat="36.8351872" lon="-2.4618817">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Telepizza"/>
+    <tag k="operator" v="Telepizza"/>
+  </node>
+</osm>

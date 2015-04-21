@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-37030' visible='true' lat='36.837196' lon='-2.4640709' />
+  <node id='-37028' visible='true' lat='36.8368525' lon='-2.4640266' />
+  <node id='-37026' visible='true' lat='36.8368636' lon='-2.4637348' />
+  <node id='-37024' visible='true' lat='36.8369082' lon='-2.4632839' />
+  <node id='-37022' visible='true' lat='36.8372607' lon='-2.4633463' />
+  <node id='-37020' action='modify' visible='true' lat='36.83696277016' lon='-2.46366253897'>
+    <tag k='amenity' v='theatre' />
+    <tag k='name' v='Teatro Cervantes' />
+  </node>
+  <node id='-37018' action='modify' visible='true' lat='36.83722607059' lon='-2.46373412802' />
+  <node id='-37016' action='modify' visible='true' lat='36.83721671951' lon='-2.46383885435' />
+  <node id='-37014' action='modify' visible='true' lat='36.83689495295' lon='-2.46341782595' />
+  <node id='-37012' action='modify' visible='true' lat='36.8372414983' lon='-2.46356134725' />
+  <node id='298019060' timestamp='2008-09-18T22:55:53Z' uid='20587' user='balrog-kun' visible='true' version='1' changeset='660054' lat='36.8382463' lon='-2.4650313'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Pizzeria Da Bruno' />
+  </node>
+  <node id='298019071' timestamp='2013-10-26T15:57:28Z' uid='1120480' user='mm81' visible='true' version='2' changeset='18553422' lat='36.8351872' lon='-2.4618817'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Telepizza' />
+    <tag k='operator' v='Telepizza' />
+  </node>
+  <node id='1711194690' timestamp='2012-04-11T09:13:22Z' uid='625069' user='andriu3' visible='true' version='1' changeset='11261569' lat='36.8392169' lon='-2.4643082'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='El Ajolí' />
+  </node>
+  <node id='2509500156' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.838184' lon='-2.462622'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='La Tahona' />
+  </node>
+  <node id='2509500158' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.8361661' lon='-2.4624878'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Cuentavinos' />
+  </node>
+  <way id='-37047' action='modify' visible='true'>
+    <nd ref='-37030' />
+    <nd ref='-37028' />
+    <nd ref='-37026' />
+    <nd ref='-37014' />
+    <nd ref='-37024' />
+    <nd ref='-37022' />
+    <nd ref='-37012' />
+    <nd ref='-37018' />
+    <nd ref='-37016' />
+    <nd ref='-37030' />
+    <tag k='amenity' v='theatre' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Teatro Cervantes' />
+  </way>
+  <way id='-37045' action='modify' visible='true'>
+    <nd ref='1711194690' />
+    <nd ref='-37018' />
+    <tag k='highway' v='construction' />
+    <tag k='name' v='205 meters' />
+  </way>
+  <way id='-37043' action='modify' visible='true'>
+    <nd ref='298019060' />
+    <nd ref='-37016' />
+    <tag k='highway' v='construction' />
+    <tag k='name' v='150 meters' />
+  </way>
+  <way id='-37041' action='modify' visible='true'>
+    <nd ref='2509500158' />
+    <nd ref='-37014' />
+    <tag k='highway' v='construction' />
+    <tag k='name' v='108 meters' />
+  </way>
+  <way id='-37039' action='modify' visible='true'>
+    <nd ref='298019071' />
+    <nd ref='-37026' />
+    <tag k='highway' v='construction' />
+    <tag k='name' v='220 meters' />
+  </way>
+  <way id='-37037' action='modify' visible='true'>
+    <nd ref='2509500156' />
+    <nd ref='-37012' />
+    <tag k='highway' v='construction' />
+    <tag k='name' v='120 meters' />
+  </way>
+</osm>

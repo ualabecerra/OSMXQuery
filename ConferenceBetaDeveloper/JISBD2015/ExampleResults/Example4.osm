@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-4557' action='modify' visible='true' lat='36.83818095842' lon='-2.46333627902' />
+  <node id='-4520' action='modify' visible='true' lat='36.83979258836' lon='-2.46310466338'>
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='metricMode = spanish cuisine' />
+    <tag k='service' v='result' />
+  </node>
+  <node id='-4495' visible='true' lat='36.8354352' lon='-2.4629125' />
+  <node id='-4494' visible='true' lat='36.8361875' lon='-2.4630133'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-4493' visible='true' lat='36.8369197' lon='-2.4631307'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-4492' visible='true' lat='36.8373309' lon='-2.4632064'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-4491' visible='true' lat='36.8380264' lon='-2.4633139' />
+  <node id='-4490' visible='true' lat='36.8385133' lon='-2.4633844' />
+  <node id='-4489' visible='true' lat='36.8393886' lon='-2.4635327' />
+  <node id='-4488' visible='true' lat='36.8395391' lon='-2.4635448' />
+  <node id='-4487' visible='true' lat='36.8402372' lon='-2.4636695' />
+  <node id='-4486' visible='true' lat='36.8406542' lon='-2.4637314' />
+  <node id='-4485' visible='true' lat='36.8410818' lon='-2.4638177' />
+  <node id='-4484' visible='true' lat='36.8412682' lon='-2.4638404' />
+  <node id='-4483' visible='true' lat='36.8414324' lon='-2.4638206' />
+  <node id='-4482' visible='true' lat='36.8414624' lon='-2.4637755' />
+  <node id='-4481' visible='true' lat='36.8414694' lon='-2.4637225' />
+  <node id='-4480' visible='true' lat='36.8414301' lon='-2.4635974' />
+  <node id='298019057' action='modify' timestamp='2008-09-18T22:55:52Z' uid='20587' user='balrog-kun' visible='true' version='1' changeset='660054' lat='36.8383732' lon='-2.4660807'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='Bibelot' />
+  </node>
+  <node id='298019060' action='modify' timestamp='2008-09-18T22:55:53Z' uid='20587' user='balrog-kun' visible='true' version='1' changeset='660054' lat='36.8382463' lon='-2.4650313'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='italian' />
+    <tag k='name' v='Pizzeria Da Bruno' />
+  </node>
+  <node id='298019071' timestamp='2013-10-26T15:57:28Z' uid='1120480' user='mm81' visible='true' version='2' changeset='18553422' lat='36.8351872' lon='-2.4618817'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Telepizza' />
+    <tag k='operator' v='Telepizza' />
+  </node>
+  <node id='1711194690' timestamp='2012-04-11T09:13:22Z' uid='625069' user='andriu3' visible='true' version='1' changeset='11261569' lat='36.8392169' lon='-2.4643082'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='El Ajolí' />
+  </node>
+  <node id='2509500156' action='modify' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.838184' lon='-2.462622'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='La Tahona (spanish cuisine)' />
+  </node>
+  <node id='2509500157' timestamp='2014-03-19T12:26:02Z' uid='129035' user='jmaties' visible='true' version='2' changeset='21191277' lat='36.8387593' lon='-2.4615813'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='regional' />
+    <tag k='name' v='Cyrano' />
+  </node>
+  <node id='2509500158' action='modify' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.8361661' lon='-2.4624878'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='Cuentavinos' />
+  </node>
+  <node id='2509500160' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.8346205' lon='-2.4622733'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='italian' />
+    <tag k='name' v='La Tagliatella' />
+  </node>
+  <way id='-4558' action='modify' visible='true'>
+    <nd ref='2509500156' />
+    <nd ref='-4557' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='70 meters' />
+  </way>
+  <way id='-4479' action='modify' visible='true'>
+    <nd ref='-4480' />
+    <nd ref='-4481' />
+    <nd ref='-4482' />
+    <nd ref='-4483' />
+    <nd ref='-4484' />
+    <nd ref='-4485' />
+    <nd ref='-4486' />
+    <nd ref='-4487' />
+    <nd ref='-4488' />
+    <nd ref='-4489' />
+    <nd ref='-4490' />
+    <nd ref='-4557' />
+    <nd ref='-4491' />
+    <nd ref='-4492' />
+    <nd ref='-4493' />
+    <nd ref='-4494' />
+    <nd ref='-4495' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Paseo de Almería' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>

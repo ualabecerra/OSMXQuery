@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29018' action='modify' visible='true' lat='36.83916989019' lon='-2.46261399417'>
+    <tag k='name' v='Total Area 4630m2' />
+    <tag k='service' v='result' />
+  </node>
+  <node id='-28996' visible='true' lat='36.8354352' lon='-2.4629125' />
+  <node id='-28995' visible='true' lat='36.8361875' lon='-2.4630133'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-28994' visible='true' lat='36.8369197' lon='-2.4631307'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-28993' visible='true' lat='36.8373309' lon='-2.4632064'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-28992' visible='true' lat='36.8380264' lon='-2.4633139' />
+  <node id='-28991' visible='true' lat='36.8385133' lon='-2.4633844' />
+  <node id='-28990' visible='true' lat='36.8393886' lon='-2.4635327' />
+  <node id='-28989' visible='true' lat='36.8395391' lon='-2.4635448' />
+  <node id='-28988' visible='true' lat='36.8402372' lon='-2.4636695' />
+  <node id='-28987' visible='true' lat='36.8406542' lon='-2.4637314' />
+  <node id='-28986' visible='true' lat='36.8410818' lon='-2.4638177' />
+  <node id='-28985' visible='true' lat='36.8412682' lon='-2.4638404' />
+  <node id='-28984' visible='true' lat='36.8414324' lon='-2.4638206' />
+  <node id='-28983' visible='true' lat='36.8414624' lon='-2.4637755' />
+  <node id='-28982' visible='true' lat='36.8414694' lon='-2.4637225' />
+  <node id='-28981' visible='true' lat='36.8414301' lon='-2.4635974' />
+  <node id='-28836' action='modify' visible='true' lat='36.83440862178' lon='-2.46084578819'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Parque de Oliveros 482m2' />
+  </node>
+  <node id='-28835' action='modify' visible='true' lat='36.83450086666' lon='-2.46290753002'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Plaza de las Velas 837m2' />
+  </node>
+  <node id='-28833' action='modify' visible='true' lat='36.83661221901' lon='-2.46144766314'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Rambla Federico García Lorca 1685m2' />
+  </node>
+  <node id='-28832' action='modify' visible='true' lat='36.83872351309' lon='-2.4601030489'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Rambla Federico García Lorca 465m2' />
+  </node>
+  <node id='-28831' action='modify' visible='true' lat='36.84032231837' lon='-2.45897613411'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Rambla Federico García Lorca 1057m2' />
+  </node>
+  <node id='-28830' action='modify' visible='true' lat='36.84008659918' lon='-2.4650333011'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Parque San Pedro 107m2' />
+  </node>
+  <node id='-28706' action='modify' visible='true' lat='36.84023442875' lon='-2.46520836592' />
+  <node id='-28704' action='modify' visible='true' lat='36.84019703583' lon='-2.46482679469' />
+  <node id='-28702' action='modify' visible='true' lat='36.84006616045' lon='-2.46482679469' />
+  <node id='-28700' action='modify' visible='true' lat='36.83996021355' lon='-2.46491245354' />
+  <node id='-28698' action='modify' visible='true' lat='36.83996644573' lon='-2.46523951459' />
+  <node id='197351344' timestamp='2013-02-05T14:38:54Z' uid='162411' user='kalh' visible='true' version='6' changeset='14922693' lat='36.8338881' lon='-2.4629994'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='197351410' timestamp='2013-04-01T08:51:10Z' uid='1206264' user='mrfraneque' visible='true' version='6' changeset='15563713' lat='36.839906' lon='-2.4595437' />
+  <node id='197351411' timestamp='2013-04-01T08:51:10Z' uid='1206264' user='mrfraneque' visible='true' version='7' changeset='15563713' lat='36.8390702' lon='-2.4601032' />
+  <node id='197351413' timestamp='2013-02-05T14:38:54Z' uid='162411' user='kalh' visible='true' version='5' changeset='14922693' lat='36.834286' lon='-2.4635268'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='254386675' timestamp='2013-02-07T14:09:21Z' uid='162411' user='kalh' visible='true' version='7' changeset='14945484' lat='36.8376535' lon='-2.4605522' />
+  <node id='254386702' timestamp='2013-04-01T08:51:10Z' uid='1206264' user='mrfraneque' visible='true' version='4' changeset='15563713' lat='36.8376058' lon='-2.4610836' />
+  <node id='254386778' timestamp='2013-04-01T08:51:10Z' uid='1206264' user='mrfraneque' visible='true' version='5' changeset='15563713' lat='36.8370795' lon='-2.4614359' />
+  <node id='297916710' timestamp='2013-02-05T14:38:56Z' uid='162411' user='kalh' visible='true' version='3' changeset='14922693' lat='36.8341468' lon='-2.4636125'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='297916764' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='3' changeset='14922693' lat='36.8340637' lon='-2.4634614' />
+  <node id='297916823' timestamp='2013-02-05T14:38:58Z' uid='162411' user='kalh' visible='true' version='3' changeset='14922693' lat='36.8341187' lon='-2.4628543' />
+  <node id='297944383' timestamp='2013-02-05T14:38:55Z' uid='162411' user='kalh' visible='true' version='4' changeset='14922693' lat='36.834955' lon='-2.4629646' />
+  <node id='298004157' timestamp='2013-02-05T18:04:42Z' uid='162411' user='kalh' visible='true' version='3' changeset='14924752' lat='36.841122' lon='-2.458246' />
+  <node id='298004159' timestamp='2013-04-01T08:51:14Z' uid='1206264' user='mrfraneque' visible='true' version='5' changeset='15563713' lat='36.8412826' lon='-2.4586221' />
+  <node id='298004161' timestamp='2013-04-01T08:51:14Z' uid='1206264' user='mrfraneque' visible='true' version='3' changeset='15563713' lat='36.8393957' lon='-2.4598853'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='298004162' timestamp='2013-02-05T14:38:58Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8392068' lon='-2.4595162'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='298004163' timestamp='2013-02-05T14:38:56Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8390387' lon='-2.4596242' />
+  <node id='298004164' timestamp='2013-04-01T08:51:14Z' uid='1206264' user='mrfraneque' visible='true' version='4' changeset='15563713' lat='36.8392172' lon='-2.4600048' />
+  <node id='298004165' timestamp='2013-04-01T08:51:14Z' uid='1206264' user='mrfraneque' visible='true' version='3' changeset='15563713' lat='36.8384034' lon='-2.4605496'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='298004166' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8382289' lon='-2.4601718'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='298004182' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8380484' lon='-2.460287' />
+  <node id='298004183' timestamp='2013-04-01T08:51:13Z' uid='1206264' user='mrfraneque' visible='true' version='4' changeset='15563713' lat='36.8382201' lon='-2.4606723' />
+  <node id='298004192' timestamp='2013-04-01T08:51:13Z' uid='1206264' user='mrfraneque' visible='true' version='3' changeset='15563713' lat='36.8352787' lon='-2.4626414' />
+  <node id='298004194' timestamp='2013-02-05T14:38:56Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8351165' lon='-2.4622308' />
+  <node id='298004206' timestamp='2013-02-05T14:38:58Z' uid='162411' user='kalh' visible='true' version='4' changeset='14922693' lat='36.8349796' lon='-2.4623304' />
+  <node id='298004207' timestamp='2013-02-05T14:38:58Z' uid='162411' user='kalh' visible='true' version='4' changeset='14922693' lat='36.8351497' lon='-2.4627609' />
+  <node id='298004212' timestamp='2013-04-01T08:51:13Z' uid='1206264' user='mrfraneque' visible='true' version='5' changeset='15563713' lat='36.8375177' lon='-2.4611425' />
+  <node id='298004219' timestamp='2013-10-26T15:33:51Z' uid='1120480' user='mm81' visible='true' version='5' changeset='18553039' lat='36.836283' lon='-2.4619839' />
+  <node id='298004244' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='4' changeset='14922693' lat='36.8355386' lon='-2.4619426' />
+  <node id='298004482' timestamp='2013-02-07T14:09:22Z' uid='162411' user='kalh' visible='true' version='4' changeset='14945484' lat='36.840095' lon='-2.4589191' />
+  <node id='298004555' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='3' changeset='14922693' lat='36.840524' lon='-2.4586307' />
+  <node id='298262248' timestamp='2013-04-01T08:51:12Z' uid='1206264' user='mrfraneque' visible='true' version='4' changeset='15563713' lat='36.8403327' lon='-2.459258' />
+  <node id='298262268' timestamp='2013-04-01T08:51:15Z' uid='1206264' user='mrfraneque' visible='true' version='5' changeset='15563713' lat='36.840856' lon='-2.4589077' />
+  <node id='302522357' timestamp='2013-02-05T14:38:56Z' uid='162411' user='kalh' visible='true' version='5' changeset='14922693' lat='36.8348085' lon='-2.4631037' />
+  <node id='329417879' timestamp='2012-02-09T23:08:46Z' uid='600064' user='kikejunior' visible='true' version='2' changeset='10639258' lat='36.834108' lon='-2.4611213' />
+  <node id='329417882' timestamp='2012-02-09T23:08:46Z' uid='600064' user='kikejunior' visible='true' version='2' changeset='10639258' lat='36.8340194' lon='-2.4606944' />
+  <node id='329417885' timestamp='2012-02-09T23:08:46Z' uid='600064' user='kikejunior' visible='true' version='2' changeset='10639258' lat='36.8343381' lon='-2.4605897' />
+  <node id='329417890' timestamp='2012-02-09T23:08:46Z' uid='600064' user='kikejunior' visible='true' version='2' changeset='10639258' lat='36.8344816' lon='-2.4603343' />
+  <node id='329417895' timestamp='2009-01-06T18:20:55Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='749431' lat='36.8346923' lon='-2.4603934' />
+  <node id='329417899' timestamp='2009-01-06T18:20:55Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='749431' lat='36.8345343' lon='-2.4613805' />
+  <node id='329417902' timestamp='2009-01-06T18:20:55Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='749431' lat='36.8341633' lon='-2.4613032' />
+  <node id='329417905' timestamp='2009-01-06T18:20:55Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='749431' lat='36.834177' lon='-2.4611659' />
+  <node id='383896170' timestamp='2009-04-24T21:01:03Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='933268' lat='36.8352404' lon='-2.4625559' />
+  <node id='383896185' timestamp='2009-04-24T21:01:18Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='933268' lat='36.8381555' lon='-2.4605325' />
+  <node id='383896192' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8351485' lon='-2.4623008' />
+  <node id='383896203' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8380787' lon='-2.4603582' />
+  <node id='383896295' timestamp='2009-04-24T21:01:50Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='933268' lat='36.8383131' lon='-2.4604345' />
+  <node id='383896322' timestamp='2009-04-24T21:02:01Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='933268' lat='36.8391465' lon='-2.4598529' />
+  <node id='383896323' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8382372' lon='-2.4602565' />
+  <node id='383896338' timestamp='2013-02-05T14:38:58Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8390893' lon='-2.4597194' />
+  <node id='383896339' timestamp='2009-04-24T21:02:22Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='933268' lat='36.839295' lon='-2.459781' />
+  <node id='383896645' timestamp='2009-04-24T21:02:35Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='933268' lat='36.841228' lon='-2.4585058' />
+  <node id='383896665' timestamp='2013-02-05T14:38:57Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8392327' lon='-2.4596111' />
+  <node id='383896713' timestamp='2013-02-05T14:38:58Z' uid='162411' user='kalh' visible='true' version='2' changeset='14922693' lat='36.8411538' lon='-2.4583157' />
+  <node id='1626098879' timestamp='2012-02-09T23:07:41Z' uid='600064' user='kikejunior' visible='true' version='1' changeset='10639258' lat='36.8341129' lon='-2.4611459' />
+  <node id='1626098901' timestamp='2012-02-09T23:07:41Z' uid='600064' user='kikejunior' visible='true' version='1' changeset='10639258' lat='36.8341754' lon='-2.4606427' />
+  <node id='2283110805' timestamp='2013-04-27T13:14:12Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='15883547' lat='36.8345206' lon='-2.4633368' />
+  <way id='-28980' visible='true'>
+    <nd ref='-28981' />
+    <nd ref='-28982' />
+    <nd ref='-28983' />
+    <nd ref='-28984' />
+    <nd ref='-28985' />
+    <nd ref='-28986' />
+    <nd ref='-28987' />
+    <nd ref='-28988' />
+    <nd ref='-28989' />
+    <nd ref='-28990' />
+    <nd ref='-28991' />
+    <nd ref='-28992' />
+    <nd ref='-28993' />
+    <nd ref='-28994' />
+    <nd ref='-28995' />
+    <nd ref='-28996' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Paseo de Almería' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-28708' action='modify' visible='true'>
+    <nd ref='-28706' />
+    <nd ref='-28698' />
+    <nd ref='-28700' />
+    <nd ref='-28702' />
+    <nd ref='-28704' />
+    <nd ref='-28706' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Parque San Pedro 107m2' />
+  </way>
+  <way id='27161547' action='modify' timestamp='2009-04-24T21:02:44Z' uid='83942' user='Schumi4ever' visible='true' version='5' changeset='933268'>
+    <nd ref='298004157' />
+    <nd ref='383896713' />
+    <nd ref='383896645' />
+    <nd ref='298004159' />
+    <nd ref='298262268' />
+    <nd ref='298262248' />
+    <nd ref='197351410' />
+    <nd ref='298004161' />
+    <nd ref='383896339' />
+    <nd ref='383896665' />
+    <nd ref='298004162' />
+    <nd ref='298004482' />
+    <nd ref='298004555' />
+    <nd ref='298004157' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Rambla Federico García Lorca 1057m2' />
+  </way>
+  <way id='27161549' action='modify' timestamp='2009-04-24T21:02:19Z' uid='83942' user='Schumi4ever' visible='true' version='4' changeset='933268'>
+    <nd ref='298004163' />
+    <nd ref='383896338' />
+    <nd ref='383896322' />
+    <nd ref='298004164' />
+    <nd ref='197351411' />
+    <nd ref='298004165' />
+    <nd ref='383896295' />
+    <nd ref='383896323' />
+    <nd ref='298004166' />
+    <nd ref='298004163' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Rambla Federico García Lorca 465m2' />
+  </way>
+  <way id='27161551' action='modify' timestamp='2009-04-24T21:01:30Z' uid='83942' user='Schumi4ever' visible='true' version='4' changeset='933268'>
+    <nd ref='298004183' />
+    <nd ref='254386702' />
+    <nd ref='298004212' />
+    <nd ref='254386778' />
+    <nd ref='298004219' />
+    <nd ref='298004192' />
+    <nd ref='383896170' />
+    <nd ref='383896192' />
+    <nd ref='298004194' />
+    <nd ref='298004244' />
+    <nd ref='254386675' />
+    <nd ref='298004182' />
+    <nd ref='383896203' />
+    <nd ref='383896185' />
+    <nd ref='298004183' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Rambla Federico García Lorca 1685m2' />
+  </way>
+  <way id='27161552' action='modify' timestamp='2013-04-27T13:14:12Z' uid='83942' user='Schumi4ever' visible='true' version='5' changeset='15883547'>
+    <nd ref='298004206' />
+    <nd ref='298004207' />
+    <nd ref='297944383' />
+    <nd ref='302522357' />
+    <nd ref='2283110805' />
+    <nd ref='197351413' />
+    <nd ref='297916710' />
+    <nd ref='297916764' />
+    <nd ref='197351344' />
+    <nd ref='297916823' />
+    <nd ref='298004206' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Plaza de las Velas 837m2' />
+  </way>
+  <way id='29892817' action='modify' timestamp='2012-02-09T23:08:40Z' uid='600064' user='kikejunior' visible='true' version='2' changeset='10639258'>
+    <nd ref='329417879' />
+    <nd ref='329417882' />
+    <nd ref='1626098901' />
+    <nd ref='329417885' />
+    <nd ref='329417890' />
+    <nd ref='329417895' />
+    <nd ref='329417899' />
+    <nd ref='329417902' />
+    <nd ref='329417905' />
+    <nd ref='1626098879' />
+    <nd ref='329417879' />
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Parque de Oliveros 482m2' />
+  </way>
+</osm>

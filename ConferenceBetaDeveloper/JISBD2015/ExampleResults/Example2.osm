@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-29418' action='modify' visible='true' lat='36.84278414405' lon='-2.46272164467'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='stars' v='Hotel Sevillal (**)' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-29382' action='modify' visible='true' lat='36.83448778576' lon='-2.46377531'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='Gran Hotel Almería (****)' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-29379' action='modify' visible='true' lat='36.8407208273' lon='-2.46487831497'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='stars' v='AC Hotel Almeria (****)' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-29377' action='modify' visible='true' lat='36.84088203747' lon='-2.46538170139'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='stars' v='Nuevo Torreluz (****)' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-29375' action='modify' visible='true' lat='36.84049712282' lon='-2.46572789468'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='stars' v='Hotel Torreluz Centro (***)' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-29373' action='modify' visible='true' lat='36.83662421096' lon='-2.46330474831'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='stars' v='Hotel Costasol (***)' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-29342' action='modify' visible='true' lat='36.83823893331' lon='-2.46663755951'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='stars' v='Hotel Catedral (****)' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-29339' visible='true' lat='36.8354352' lon='-2.4629125' />
+  <node id='-29338' visible='true' lat='36.8361875' lon='-2.4630133'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-29337' visible='true' lat='36.8369197' lon='-2.4631307'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-29336' visible='true' lat='36.8373309' lon='-2.4632064'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-29335' visible='true' lat='36.8380264' lon='-2.4633139' />
+  <node id='-29334' visible='true' lat='36.8385133' lon='-2.4633844' />
+  <node id='-29333' visible='true' lat='36.8393886' lon='-2.4635327' />
+  <node id='-29332' visible='true' lat='36.8395391' lon='-2.4635448' />
+  <node id='-29331' visible='true' lat='36.8402372' lon='-2.4636695' />
+  <node id='-29330' visible='true' lat='36.8406542' lon='-2.4637314' />
+  <node id='-29329' visible='true' lat='36.8410818' lon='-2.4638177' />
+  <node id='-29328' visible='true' lat='36.8412682' lon='-2.4638404' />
+  <node id='-29327' visible='true' lat='36.8414324' lon='-2.4638206' />
+  <node id='-29326' visible='true' lat='36.8414624' lon='-2.4637755' />
+  <node id='-29325' visible='true' lat='36.8414694' lon='-2.4637225' />
+  <node id='-29324' visible='true' lat='36.8414301' lon='-2.4635974' />
+  <node id='-29291' visible='true' lat='36.8427804' lon='-2.4628646' />
+  <node id='-29289' visible='true' lat='36.8427875' lon='-2.4628529' />
+  <node id='-29287' visible='true' lat='36.842794' lon='-2.4628425' />
+  <node id='-29285' visible='true' lat='36.8427995' lon='-2.4628341' />
+  <node id='-29283' visible='true' lat='36.842804' lon='-2.4628258' />
+  <node id='-29281' visible='true' lat='36.8427922' lon='-2.4628124' />
+  <node id='-29279' visible='true' lat='36.8428162' lon='-2.4627807' />
+  <node id='-29277' visible='true' lat='36.8428005' lon='-2.4627615' />
+  <node id='-29275' visible='true' lat='36.8428231' lon='-2.4627318' />
+  <node id='-29273' visible='true' lat='36.8427252' lon='-2.4626098' />
+  <node id='-29271' visible='true' lat='36.8426481' lon='-2.4626943' />
+  <node id='-29265' action='modify' visible='true' lat='36.8384456764' lon='-2.46679887048' />
+  <node id='-29263' action='modify' visible='true' lat='36.83836456878' lon='-2.46643910367' />
+  <node id='-29261' action='modify' visible='true' lat='36.83815774395' lon='-2.46648724148' />
+  <node id='-29259' action='modify' visible='true' lat='36.83810299611' lon='-2.46662152064' />
+  <node id='-29257' action='modify' visible='true' lat='36.83792050302' lon='-2.46667725916' />
+  <node id='-29255' action='modify' visible='true' lat='36.83802188813' lon='-2.46684954187' />
+  <node id='-29253' action='modify' visible='true' lat='36.83822871332' lon='-2.46676593408' />
+  <node id='-29251' action='modify' visible='true' lat='36.83824493488' lon='-2.46682673974' />
+  <node id='-29249' action='modify' visible='true' lat='36.83831793185' lon='-2.46686220971' />
+  <node id='-29243' action='modify' visible='true' lat='36.84076067621' lon='-2.46572564222' />
+  <node id='-29241' action='modify' visible='true' lat='36.84067208036' lon='-2.46575804296' />
+  <node id='-29239' action='modify' visible='true' lat='36.84065371292' lon='-2.46563789021' />
+  <node id='-29237' action='modify' visible='true' lat='36.84072286092' lon='-2.46562033981' />
+  <node id='-29235' action='modify' visible='true' lat='36.84071745873' lon='-2.46557578879' />
+  <node id='-29233' action='modify' visible='true' lat='36.8407282631' lon='-2.4655717387' />
+  <node id='-29227' action='modify' visible='true' lat='36.84089140891' lon='-2.46527878199' />
+  <node id='-29225' action='modify' visible='true' lat='36.84084062847' lon='-2.46534223344' />
+  <node id='-29223' action='modify' visible='true' lat='36.84086115674' lon='-2.46538003431' />
+  <node id='-29221' action='modify' visible='true' lat='36.84080389365' lon='-2.46545428601' />
+  <node id='-29219' action='modify' visible='true' lat='36.84084603064' lon='-2.46552718768' />
+  <node id='-29217' action='modify' visible='true' lat='36.84085251326' lon='-2.46561088959' />
+  <node id='-29215' action='modify' visible='true' lat='36.84079308929' lon='-2.46561088959' />
+  <node id='-29213' action='modify' visible='true' lat='36.8407369066' lon='-2.46531253276' />
+  <node id='-29211' action='modify' visible='true' lat='36.84077580232' lon='-2.4653057826' />
+  <node id='-29209' action='modify' visible='true' lat='36.84086331761' lon='-2.46522613078' />
+  <node id='-29203' action='modify' visible='true' lat='36.84085575456' lon='-2.46493992422' />
+  <node id='-29201' action='modify' visible='true' lat='36.84073705199' lon='-2.46480568697' />
+  <node id='-29199' action='modify' visible='true' lat='36.84088816761' lon='-2.46478872076' />
+  <node id='-29197' action='modify' visible='true' lat='36.84086439804' lon='-2.46471986918' />
+  <node id='-29195' action='modify' visible='true' lat='36.84071313698' lon='-2.46472526931' />
+  <node id='-29193' action='modify' visible='true' lat='36.84067748255' lon='-2.46472526931' />
+  <node id='-29191' action='modify' visible='true' lat='36.84067424124' lon='-2.46505872695' />
+  <node id='-29185' action='modify' visible='true' lat='36.83675103768' lon='-2.46330484359' />
+  <node id='-29183' action='modify' visible='true' lat='36.83662115841' lon='-2.46332051186' />
+  <node id='-29180' action='modify' visible='true' lat='36.83675909914' lon='-2.46320411896' />
+  <node id='1028406830' timestamp='2010-12-08T18:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='6588162' lat='36.8366275' lon='-2.4631756'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='1242577046' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346872' lon='-2.4637108' />
+  <node id='1242577047' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346142' lon='-2.4635204' />
+  <node id='1242577050' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347095' lon='-2.4639036' />
+  <node id='1242577052' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.834524' lon='-2.4640407' />
+  <node id='1242577055' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346722' lon='-2.4636733' />
+  <node id='1242577057' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347237' lon='-2.4637832' />
+  <node id='1242577060' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346487' lon='-2.4639486' />
+  <node id='1242577066' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.83464' lon='-2.4639388' />
+  <node id='1242577068' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347219' lon='-2.4637454' />
+  <node id='1242577070' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346335' lon='-2.4636357' />
+  <node id='1242577071' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346135' lon='-2.4639607' />
+  <node id='1242577072' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347516' lon='-2.4638637' />
+  <node id='1242577073' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347043' lon='-2.4637094' />
+  <node id='1242577074' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346217' lon='-2.4639709' />
+  <node id='1242577079' timestamp='2012-04-11T08:56:56Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8342752' lon='-2.4637269' />
+  <node id='1242577080' timestamp='2012-04-11T08:56:56Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8344237' lon='-2.4639908' />
+  <node id='1242577083' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8345677' lon='-2.4639766' />
+  <node id='1242577084' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346871' lon='-2.4636717' />
+  <node id='1242577088' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8345906' lon='-2.4639951' />
+  <node id='1242577091' timestamp='2012-04-11T08:56:57Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8345008' lon='-2.4635165' />
+  <node id='1242577092' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347001' lon='-2.4638932' />
+  <node id='1242577093' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347065' lon='-2.4637457' />
+  <node id='1242577094' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347423' lon='-2.463782' />
+  <node id='1242577095' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346657' lon='-2.4639179' />
+  <node id='1242577097' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346802' lon='-2.4639314' />
+  <node id='1242577104' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346679' lon='-2.463633' />
+  <node id='2509500167' action='delete' timestamp='2013-10-26T15:57:28Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.8366848' lon='-2.4632487'>
+    <tag k='name' v='Hotel Costasol' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <way id='-29323' visible='true'>
+    <nd ref='-29324' />
+    <nd ref='-29325' />
+    <nd ref='-29326' />
+    <nd ref='-29327' />
+    <nd ref='-29328' />
+    <nd ref='-29329' />
+    <nd ref='-29330' />
+    <nd ref='-29331' />
+    <nd ref='-29332' />
+    <nd ref='-29333' />
+    <nd ref='-29334' />
+    <nd ref='-29335' />
+    <nd ref='-29336' />
+    <nd ref='-29337' />
+    <nd ref='-29338' />
+    <nd ref='-29339' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Paseo de Almería' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-29293' action='modify' visible='true'>
+    <nd ref='-29291' />
+    <nd ref='-29271' />
+    <nd ref='-29273' />
+    <nd ref='-29275' />
+    <nd ref='-29277' />
+    <nd ref='-29279' />
+    <nd ref='-29281' />
+    <nd ref='-29283' />
+    <nd ref='-29285' />
+    <nd ref='-29287' />
+    <nd ref='-29289' />
+    <nd ref='-29291' />
+    <tag k='building' v='hotel' />
+    <tag k='name' v='Hotel Sevilla' />
+    <tag k='stars' v='2' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-29267' action='modify' visible='true'>
+    <nd ref='-29265' />
+    <nd ref='-29249' />
+    <nd ref='-29251' />
+    <nd ref='-29253' />
+    <nd ref='-29255' />
+    <nd ref='-29257' />
+    <nd ref='-29259' />
+    <nd ref='-29261' />
+    <nd ref='-29263' />
+    <nd ref='-29265' />
+    <tag k='name' v='Hotel Catedral' />
+    <tag k='source' v='survey' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-29245' action='modify' visible='true'>
+    <nd ref='-29243' />
+    <nd ref='-29233' />
+    <nd ref='-29235' />
+    <nd ref='-29237' />
+    <nd ref='-29239' />
+    <nd ref='-29241' />
+    <nd ref='-29243' />
+    <tag k='name' v='Torreluz Centro Hotel' />
+    <tag k='stars' v='3' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-29229' action='modify' visible='true'>
+    <nd ref='-29227' />
+    <nd ref='-29209' />
+    <nd ref='-29211' />
+    <nd ref='-29213' />
+    <nd ref='-29215' />
+    <nd ref='-29217' />
+    <nd ref='-29219' />
+    <nd ref='-29221' />
+    <nd ref='-29223' />
+    <nd ref='-29225' />
+    <nd ref='-29227' />
+    <tag k='name' v='Nuevo Torreluz Hotel' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-29205' action='modify' visible='true'>
+    <nd ref='-29203' />
+    <nd ref='-29191' />
+    <nd ref='-29193' />
+    <nd ref='-29195' />
+    <nd ref='-29197' />
+    <nd ref='-29199' />
+    <nd ref='-29201' />
+    <nd ref='-29203' />
+    <tag k='name' v='AC Hotel Almeria' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-29187' action='modify' visible='true'>
+    <nd ref='-29185' />
+    <nd ref='-29180' />
+    <nd ref='1028406830' />
+    <nd ref='-29183' />
+    <nd ref='-29185' />
+    <tag k='name' v='Hotel Costasol' />
+    <tag k='stars' v='3' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='108273587' action='modify' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311'>
+    <nd ref='1242577080' />
+    <nd ref='1242577079' />
+    <nd ref='1242577091' />
+    <nd ref='1242577047' />
+    <nd ref='1242577070' />
+    <nd ref='1242577104' />
+    <nd ref='1242577055' />
+    <nd ref='1242577084' />
+    <nd ref='1242577046' />
+    <nd ref='1242577073' />
+    <nd ref='1242577093' />
+    <nd ref='1242577068' />
+    <nd ref='1242577057' />
+    <nd ref='1242577094' />
+    <nd ref='1242577072' />
+    <nd ref='1242577050' />
+    <nd ref='1242577092' />
+    <nd ref='1242577097' />
+    <nd ref='1242577095' />
+    <nd ref='1242577060' />
+    <nd ref='1242577066' />
+    <nd ref='1242577074' />
+    <nd ref='1242577071' />
+    <nd ref='1242577088' />
+    <nd ref='1242577083' />
+    <nd ref='1242577052' />
+    <nd ref='1242577080' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Gran Hotel Almería' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+  </way>
+</osm>

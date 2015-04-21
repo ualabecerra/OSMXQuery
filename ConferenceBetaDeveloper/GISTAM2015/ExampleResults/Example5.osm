@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-12671' visible='true' lat='36.8386225' lon='-2.4513403' />
+  <node id='-12670' visible='true' lat='36.8386791' lon='-2.4508322' />
+  <node id='-12669' visible='true' lat='36.8387291' lon='-2.450358' />
+  <node id='-12668' visible='true' lat='36.8387796' lon='-2.4498565' />
+  <node id='-12667' visible='true' lat='36.8388333' lon='-2.4493874' />
+  <node id='-12524' visible='true' lat='36.8372808' lon='-2.4511991' />
+  <node id='-12522' visible='true' lat='36.8373494' lon='-2.4501782' />
+  <node id='-12508' visible='true' lat='36.8383646' lon='-2.4533564' />
+  <node id='-12506' visible='true' lat='36.8384662' lon='-2.452359' />
+  <node id='-12502' visible='true' lat='36.8385271' lon='-2.4476073' />
+  <node id='-12500' visible='true' lat='36.8377069' lon='-2.4556232' />
+  <node id='-12476' visible='true' lat='36.8379572' lon='-2.4491401' />
+  <node id='-12474' visible='true' lat='36.8378963' lon='-2.4497275' />
+  <node id='-12472' visible='true' lat='36.8382964' lon='-2.4497878' />
+  <node id='-12470' visible='true' lat='36.8387796' lon='-2.4498565' />
+  <node id='-12468' visible='true' lat='36.8392166' lon='-2.4499586' />
+  <node id='-12444' visible='true' lat='36.8395956' lon='-2.4514339' />
+  <node id='-12442' visible='true' lat='36.8390677' lon='-2.4514011' />
+  <node id='-12440' visible='true' lat='36.8386225' lon='-2.4513403' />
+  <node id='-12438' visible='true' lat='36.8381393' lon='-2.4512729' />
+  <node id='-12436' visible='true' lat='36.8376331' lon='-2.4512239' />
+  <node id='-12430' visible='true' lat='36.8396083' lon='-2.4525018' />
+  <node id='-12428' visible='true' lat='36.8372036' lon='-2.4522051' />
+  <node id='-12424' visible='true' lat='36.8396194' lon='-2.4494966' />
+  <node id='-12422' visible='true' lat='36.8392761' lon='-2.4494661' />
+  <node id='-12414' visible='true' lat='36.8388333' lon='-2.4493874' />
+  <node id='-12410' visible='true' lat='36.8383474' lon='-2.4493058' />
+  <node id='-12370' visible='true' lat='36.8379405' lon='-2.4533034' />
+  <node id='-12366' visible='true' lat='36.8396123' lon='-2.4535124' />
+  <node id='-12362' visible='true' lat='36.8371582' lon='-2.4532407' />
+  <node id='-12356' visible='true' lat='36.8377349' lon='-2.4502163' />
+  <node id='-12354' visible='true' lat='36.8376924' lon='-2.4506816' />
+  <node id='-12352' visible='true' lat='36.8381949' lon='-2.4507477' />
+  <node id='-12350' visible='true' lat='36.8386791' lon='-2.4508322' />
+  <node id='-12348' visible='true' lat='36.8391109' lon='-2.4509168' />
+  <node id='-12344' visible='true' lat='36.8383995' lon='-2.4488139' />
+  <node id='-12342' visible='true' lat='36.838881' lon='-2.4488933' />
+  <node id='-12340' visible='true' lat='36.8393301' lon='-2.4489682' />
+  <node id='-12320' visible='true' lat='36.8391648' lon='-2.4504442' />
+  <node id='-12318' visible='true' lat='36.8387291' lon='-2.450358' />
+  <node id='-12316' visible='true' lat='36.8382443' lon='-2.4502809' />
+  <way id='-12666' visible='true'>
+    <nd ref='-12667' />
+    <nd ref='-12668' />
+    <nd ref='-12669' />
+    <nd ref='-12670' />
+    <nd ref='-12671' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Francisco García Góngora' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12504' visible='true'>
+    <nd ref='-12506' />
+    <nd ref='-12508' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Hermanos Calatrava' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12498' action='modify' visible='true'>
+    <nd ref='-12500' />
+    <nd ref='-12502' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Calle Calzada de Castro' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12466' visible='true'>
+    <nd ref='-12468' />
+    <nd ref='-12470' />
+    <nd ref='-12472' />
+    <nd ref='-12474' />
+    <nd ref='-12476' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Cristóbal López Lupiáñez' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12432' visible='true'>
+    <nd ref='-12524' />
+    <nd ref='-12436' />
+    <nd ref='-12438' />
+    <nd ref='-12440' />
+    <nd ref='-12442' />
+    <nd ref='-12444' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Alcázar' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12426' visible='true'>
+    <nd ref='-12428' />
+    <nd ref='-12430' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Guadarrama' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12404' visible='true'>
+    <nd ref='-12422' />
+    <nd ref='-12424' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lope de Rueda' />
+  </way>
+  <way id='-12400' visible='true'>
+    <nd ref='-12414' />
+    <nd ref='-12422' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lope de Rueda' />
+  </way>
+  <way id='-12398' visible='true'>
+    <nd ref='-12410' />
+    <nd ref='-12414' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lope de Rueda' />
+  </way>
+  <way id='-12360' visible='true'>
+    <nd ref='-12366' />
+    <nd ref='-12508' />
+    <nd ref='-12370' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Carrera de los Limoneros' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12358' visible='true'>
+    <nd ref='-12362' />
+    <nd ref='-12370' />
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Carrera de los Limoneros' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12346' visible='true'>
+    <nd ref='-12348' />
+    <nd ref='-12350' />
+    <nd ref='-12352' />
+    <nd ref='-12354' />
+    <nd ref='-12356' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Juan Valverde Domínguez' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12338' visible='true'>
+    <nd ref='-12340' />
+    <nd ref='-12342' />
+    <nd ref='-12344' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Torres Naharro' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-12310' visible='true'>
+    <nd ref='-12522' />
+    <nd ref='-12356' />
+    <nd ref='-12316' />
+    <nd ref='-12318' />
+    <nd ref='-12320' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Antonio González Vizcaíno' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>

@@ -1,0 +1,696 @@
+<node x="-2.4561704" y="36.8362645" z="-2.4473768" t="36.8404835">
+  <node x="-2.4556232" y="36.8362645" z="-2.4476073" t="36.8397242">
+    <leaf x="-2.4544423" y="36.8390677" z="-2.4494661" t="36.8397242">
+      <mbr x="-2.4514011" y="36.8390677" z="-2.4494661" t="36.8392761">
+        <mbr x="-2.4514011" y="36.8390677" z="-2.4494661" t="36.8392761">
+          <way id="89344558" timestamp="2013-02-08T10:10:46Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290106"/>
+            <nd ref="298290177"/>
+            <nd ref="298290150"/>
+            <nd ref="298290233"/>
+            <nd ref="298290238"/>
+            <tag k="highway" v="pedestrian"/>
+            <tag k="name" v="Calle Gil Vicente"/>
+          </way>
+          <node id="298290106" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8390677" lon="-2.4514011"/>
+          <node id="298290177" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8391109" lon="-2.4509168"/>
+          <node id="298290150" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8391648" lon="-2.4504442"/>
+          <node id="298290233" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8392166" lon="-2.4499586"/>
+          <node id="298290238" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="8" changeset="14954158" lat="36.8392761" lon="-2.4494661"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4544423" y="36.8395896" z="-2.4500044" t="36.8397242">
+        <mbr x="-2.4544423" y="36.8395896" z="-2.4500044" t="36.8397242">
+          <way id="89344640" timestamp="2013-02-08T10:10:48Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158">
+            <nd ref="298004545"/>
+            <nd ref="298004549"/>
+            <nd ref="1888317745"/>
+            <nd ref="1888317753"/>
+            <nd ref="1888317742"/>
+            <tag k="highway" v="tertiary"/>
+            <tag k="name" v="Calle Padre Méndez"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="204638680" timestamp="2013-02-08T10:10:37Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158">
+            <nd ref="2146314019"/>
+            <nd ref="298004521"/>
+            <nd ref="298290392"/>
+            <nd ref="298004540"/>
+            <nd ref="298004545"/>
+            <tag k="highway" v="tertiary"/>
+            <tag k="lanes" v="3"/>
+            <tag k="maxspeed" v="50"/>
+            <tag k="name" v="Calle Padre Méndez"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298004545" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158" lat="36.8396083" lon="-2.4525018"/>
+          <node id="298004549" timestamp="2013-01-21T12:34:54Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8396123" lon="-2.4535124"/>
+          <node id="1888317745" timestamp="2012-08-29T14:41:53Z" uid="83942" user="Schumi4ever" visible="true" version="1" changeset="12906095" lat="36.8396138" lon="-2.4541139"/>
+          <node id="1888317753" timestamp="2012-08-29T14:41:53Z" uid="83942" user="Schumi4ever" visible="true" version="1" changeset="12906095" lat="36.8396352" lon="-2.4542158"/>
+          <node id="1888317742" timestamp="2013-02-07T14:09:22Z" uid="162411" user="kalh" visible="true" version="2" changeset="14945484" lat="36.8397242" lon="-2.4544423"/>
+          <node id="2146314019" timestamp="2013-02-08T10:10:35Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8396085" lon="-2.4500044"/>
+          <node id="298004521" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158" lat="36.8395965" lon="-2.4505854"/>
+          <node id="298290392" timestamp="2013-02-08T10:53:13Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158" lat="36.8395896" lon="-2.4512581"/>
+          <node id="298004540" timestamp="2009-02-24T22:11:09Z" uid="83942" user="Schumi4ever" visible="true" version="3" changeset="657768" lat="36.8395956" lon="-2.4514339"/>
+          <node id="298004545" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158" lat="36.8396083" lon="-2.4525018"/>
+        </mbr>
+      </mbr>
+    </leaf>
+    <leaf x="-2.4535074" y="36.8362645" z="-2.4484577" t="36.8375365">
+      <mbr x="-2.4507465" y="36.8362734" z="-2.4484577" t="36.8375365">
+        <mbr x="-2.4507465" y="36.8362734" z="-2.4484577" t="36.8375365">
+          <way id="27161533" timestamp="2013-02-08T10:10:50Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158">
+            <nd ref="298003973"/>
+            <nd ref="298003977"/>
+            <nd ref="298003978"/>
+            <nd ref="298003979"/>
+            <nd ref="2146314048"/>
+            <nd ref="298003980"/>
+            <nd ref="298003981"/>
+            <nd ref="298003982"/>
+            <nd ref="298003973"/>
+            <tag k="leisure" v="common"/>
+            <tag k="name" v="Parque Gloria Fuertes"/>
+          </way>
+          <node id="298003973" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="7" changeset="14954158" lat="36.8372617" lon="-2.4507465"/>
+          <node id="298003977" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8362734" lon="-2.4506028"/>
+          <node id="298003978" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8368309" lon="-2.4484577"/>
+          <node id="298003979" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="6" changeset="14954158" lat="36.8375365" lon="-2.4487427"/>
+          <node id="2146314048" timestamp="2013-02-08T10:10:36Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8374528" lon="-2.4490654"/>
+          <node id="298003980" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8373969" lon="-2.4493355"/>
+          <node id="298003981" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8373398" lon="-2.4496155"/>
+          <node id="298003982" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8373037" lon="-2.4500646"/>
+          <node id="298003973" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="7" changeset="14954158" lat="36.8372617" lon="-2.4507465"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4535074" y="36.8362645" z="-2.4519827" t="36.836622">
+        <mbr x="-2.4535074" y="36.8362645" z="-2.4519827" t="36.836622">
+          <way id="27161534" timestamp="2013-02-08T10:10:50Z" uid="162411" user="kalh" visible="true" version="6" changeset="14954158">
+            <nd ref="2016636839"/>
+            <nd ref="2016636841"/>
+            <nd ref="2016636837"/>
+            <nd ref="2016636833"/>
+            <nd ref="2146314059"/>
+            <nd ref="2016636835"/>
+            <nd ref="298004144"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Elio Antonio de Nebrija"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="2016636839" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.836606" lon="-2.4535074"/>
+          <node id="2016636841" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.836622" lon="-2.4533993"/>
+          <node id="2016636837" timestamp="2013-01-21T12:34:54Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.8366136" lon="-2.4533171"/>
+          <node id="2016636833" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.8365673" lon="-2.4531135"/>
+          <node id="2146314059" timestamp="2013-02-08T10:10:36Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8365488" lon="-2.4530357"/>
+          <node id="2016636835" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.8364813" lon="-2.4527511"/>
+          <node id="298004144" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8362645" lon="-2.4519827"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4507465" y="36.8362734" z="-2.4506028" t="36.8372617">
+        <mbr x="-2.4507465" y="36.8362734" z="-2.4506028" t="36.8372617">
+          <way id="27161543" timestamp="2013-02-08T10:10:50Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298003973"/>
+            <nd ref="298003977"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Ana María Matute"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298003973" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="7" changeset="14954158" lat="36.8372617" lon="-2.4507465"/>
+          <node id="298003977" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8362734" lon="-2.4506028"/>
+        </mbr>
+      </mbr>
+    </leaf>
+    <leaf x="-2.4556232" y="36.8362645" z="-2.4476073" t="36.8385271">
+      <mbr x="-2.4520739" y="36.8362645" z="-2.4519827" t="36.8370502">
+        <mbr x="-2.4520739" y="36.8362645" z="-2.4519827" t="36.8370502">
+          <way id="27161544" timestamp="2013-02-08T10:10:50Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158">
+            <nd ref="298004144"/>
+            <nd ref="648215096"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle José Ortega y Gasset"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298004144" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8362645" lon="-2.4519827"/>
+          <node id="648215096" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="3" changeset="14732443" lat="36.8370502" lon="-2.4520739"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4528201" y="36.8371583" z="-2.4527384" t="36.8379838">
+        <mbr x="-2.4528201" y="36.8371583" z="-2.4527384" t="36.8379838">
+          <way id="27185386" timestamp="2013-02-08T10:10:42Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158">
+            <nd ref="298290018"/>
+            <nd ref="298004064"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Azahar"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298290018" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8379838" lon="-2.4528201"/>
+          <node id="298004064" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="7" changeset="14732443" lat="36.8371583" lon="-2.4527384"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4518482" y="36.8372354" z="-2.4517682" t="36.8380785">
+        <mbr x="-2.4518482" y="36.8372354" z="-2.4517682" t="36.8380785">
+          <way id="27185387" timestamp="2013-02-08T10:10:44Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158">
+            <nd ref="298290060"/>
+            <nd ref="298290045"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Bidasoa"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298290060" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8380785" lon="-2.4518482"/>
+          <node id="298290045" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8372354" lon="-2.4517682"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4556232" y="36.8377069" z="-2.4476073" t="36.8385271">
+        <mbr x="-2.4556232" y="36.8377069" z="-2.4476073" t="36.8385271">
+          <way id="89344541" timestamp="2013-02-08T10:10:46Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290101"/>
+            <nd ref="298290005"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Calzada de Castro"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="89344622" timestamp="2013-02-08T10:10:48Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290005"/>
+            <nd ref="298290018"/>
+            <nd ref="298290007"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Calzada de Castro"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="89344631" timestamp="2013-02-08T10:10:48Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290007"/>
+            <nd ref="298290060"/>
+            <nd ref="298290103"/>
+            <nd ref="298290167"/>
+            <nd ref="298290143"/>
+            <nd ref="298290217"/>
+            <nd ref="298290234"/>
+            <nd ref="298462969"/>
+            <nd ref="298463327"/>
+            <nd ref="298463316"/>
+            <nd ref="298290102"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Calzada de Castro"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298290101" timestamp="2012-08-31T10:00:37Z" uid="83942" user="Schumi4ever" visible="true" version="3" changeset="12928817" lat="36.8377069" lon="-2.4556232"/>
+          <node id="298290005" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8379405" lon="-2.4533034"/>
+          <node id="298290005" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8379405" lon="-2.4533034"/>
+          <node id="298290018" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8379838" lon="-2.4528201"/>
+          <node id="298290007" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8380309" lon="-2.452298"/>
+          <node id="298290007" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8380309" lon="-2.452298"/>
+          <node id="298290060" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8380785" lon="-2.4518482"/>
+          <node id="298290103" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8381393" lon="-2.4512729"/>
+          <node id="298290167" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8381949" lon="-2.4507477"/>
+          <node id="298290143" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8382443" lon="-2.4502809"/>
+          <node id="298290217" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8382964" lon="-2.4497878"/>
+          <node id="298290234" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="10" changeset="15563713" lat="36.8383474" lon="-2.4493058"/>
+          <node id="298462969" timestamp="2013-04-01T08:51:13Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8383591" lon="-2.4491952"/>
+          <node id="298463327" timestamp="2013-04-01T08:51:13Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8383995" lon="-2.4488139"/>
+          <node id="298463316" timestamp="2013-04-01T08:51:13Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8384498" lon="-2.4483377"/>
+          <node id="298290102" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8385271" lon="-2.4476073"/>
+        </mbr>
+      </mbr>
+    </leaf>
+  </node>
+  <node x="-2.4561704" y="36.8365659" z="-2.4473768" t="36.8396123">
+    <leaf x="-2.4526671" y="36.8370387" z="-2.4473768" t="36.8395956">
+      <mbr x="-2.4514339" y="36.8372808" z="-2.4511991" t="36.8395956">
+        <mbr x="-2.4514339" y="36.8372808" z="-2.4511991" t="36.8395956">
+          <way id="27185389" timestamp="2013-02-08T10:10:43Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158">
+            <nd ref="298004023"/>
+            <nd ref="298290126"/>
+            <nd ref="298290103"/>
+            <nd ref="298290104"/>
+            <nd ref="298290106"/>
+            <nd ref="298004540"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Alcázar"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298004023" timestamp="2013-02-08T10:10:38Z" uid="162411" user="kalh" visible="true" version="6" changeset="14954158" lat="36.8372808" lon="-2.4511991"/>
+          <node id="298290126" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8376331" lon="-2.4512239"/>
+          <node id="298290103" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8381393" lon="-2.4512729"/>
+          <node id="298290104" timestamp="2013-02-08T10:10:39Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8386225" lon="-2.4513403"/>
+          <node id="298290106" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8390677" lon="-2.4514011"/>
+          <node id="298004540" timestamp="2009-02-24T22:11:09Z" uid="83942" user="Schumi4ever" visible="true" version="3" changeset="657768" lat="36.8395956" lon="-2.4514339"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4504442" y="36.8373494" z="-2.4501782" t="36.8391648">
+        <mbr x="-2.4504442" y="36.8373494" z="-2.4501782" t="36.8391648">
+          <way id="27185393" timestamp="2013-02-08T10:10:43Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158">
+            <nd ref="298004022"/>
+            <nd ref="298290140"/>
+            <nd ref="298290143"/>
+            <nd ref="298290146"/>
+            <nd ref="298290150"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Antonio González Vizcaíno"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298004022" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="6" changeset="14732443" lat="36.8373494" lon="-2.4501782"/>
+          <node id="298290140" timestamp="2013-01-21T12:34:54Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8377349" lon="-2.4502163"/>
+          <node id="298290143" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8382443" lon="-2.4502809"/>
+          <node id="298290146" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8387291" lon="-2.450358"/>
+          <node id="298290150" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8391648" lon="-2.4504442"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4509168" y="36.8376924" z="-2.4502163" t="36.8391109">
+        <mbr x="-2.4509168" y="36.8376924" z="-2.4502163" t="36.8391109">
+          <way id="27185394" timestamp="2013-02-08T10:10:43Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158">
+            <nd ref="298290177"/>
+            <nd ref="298290175"/>
+            <nd ref="298290167"/>
+            <nd ref="298290153"/>
+            <nd ref="298290140"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Juan Valverde Domínguez"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298290177" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8391109" lon="-2.4509168"/>
+          <node id="298290175" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8386791" lon="-2.4508322"/>
+          <node id="298290167" timestamp="2013-04-01T08:51:11Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="15563713" lat="36.8381949" lon="-2.4507477"/>
+          <node id="298290153" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8376924" lon="-2.4506816"/>
+          <node id="298290140" timestamp="2013-01-21T12:34:54Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8377349" lon="-2.4502163"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4526671" y="36.8370387" z="-2.4473768" t="36.8379885">
+        <mbr x="-2.4526671" y="36.8370387" z="-2.4473768" t="36.8379885">
+          <way id="89344586" timestamp="2013-02-08T10:10:47Z" uid="162411" user="kalh" visible="true" version="6" changeset="14954158">
+            <nd ref="254397362"/>
+            <nd ref="298462967"/>
+            <nd ref="298004020"/>
+            <nd ref="298004021"/>
+            <nd ref="298004022"/>
+            <nd ref="298004023"/>
+            <nd ref="298290045"/>
+            <nd ref="1036391004"/>
+            <nd ref="2146314074"/>
+            <nd ref="2122459766"/>
+            <tag k="highway" v="primary"/>
+            <tag k="lanes" v="2"/>
+            <tag k="maxspeed" v="50"/>
+            <tag k="name" v="Avenida Nuestra Señora de Montserrat"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="124414559" timestamp="2013-03-06T17:00:55Z" uid="162411" user="kalh" visible="true" version="5" changeset="15273015">
+            <nd ref="1036391012"/>
+            <nd ref="2146314024"/>
+            <nd ref="2146314057"/>
+            <nd ref="2146314011"/>
+            <nd ref="298004001"/>
+            <nd ref="298004007"/>
+            <nd ref="298004012"/>
+            <nd ref="298003973"/>
+            <nd ref="298003982"/>
+            <nd ref="298003981"/>
+            <nd ref="298003980"/>
+            <nd ref="2146314048"/>
+            <nd ref="298003979"/>
+            <nd ref="648215194"/>
+            <nd ref="2188666534"/>
+            <tag k="highway" v="primary"/>
+            <tag k="lanes" v="2"/>
+            <tag k="maxspeed" v="50"/>
+            <tag k="name" v="Avenida Nuestra Señora de Montserrat"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="254397362" timestamp="2013-02-08T10:10:38Z" uid="162411" user="kalh" visible="true" version="9" changeset="14954158" lat="36.8376583" lon="-2.4485548"/>
+          <node id="298462967" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8375094" lon="-2.4490818"/>
+          <node id="298004020" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8374191" lon="-2.449511"/>
+          <node id="298004021" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8373588" lon="-2.4499696"/>
+          <node id="298004022" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="6" changeset="14732443" lat="36.8373494" lon="-2.4501782"/>
+          <node id="298004023" timestamp="2013-02-08T10:10:38Z" uid="162411" user="kalh" visible="true" version="6" changeset="14954158" lat="36.8372808" lon="-2.4511991"/>
+          <node id="298290045" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8372354" lon="-2.4517682"/>
+          <node id="1036391004" timestamp="2013-02-08T10:10:38Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158" lat="36.8372036" lon="-2.4522051"/>
+          <node id="2146314074" timestamp="2013-02-08T10:10:37Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8371731" lon="-2.452561"/>
+          <node id="2122459766" timestamp="2013-01-21T12:34:54Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.8371504" lon="-2.4526671"/>
+          <node id="1036391012" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="3" changeset="14732443" lat="36.8370387" lon="-2.452636"/>
+          <node id="2146314024" timestamp="2013-02-08T10:10:35Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8370808" lon="-2.4524966"/>
+          <node id="2146314057" timestamp="2013-02-08T10:10:36Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8371025" lon="-2.4524258"/>
+          <node id="2146314011" timestamp="2013-02-08T10:10:35Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8371261" lon="-2.4522649"/>
+          <node id="298004001" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="6" changeset="14732443" lat="36.837158" lon="-2.4519972"/>
+          <node id="298004007" timestamp="2013-01-21T12:34:54Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8371673" lon="-2.4518544"/>
+          <node id="298004012" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.837207" lon="-2.4514155"/>
+          <node id="298003973" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="7" changeset="14954158" lat="36.8372617" lon="-2.4507465"/>
+          <node id="298003982" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8373037" lon="-2.4500646"/>
+          <node id="298003981" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8373398" lon="-2.4496155"/>
+          <node id="298003980" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8373969" lon="-2.4493355"/>
+          <node id="2146314048" timestamp="2013-02-08T10:10:36Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8374528" lon="-2.4490654"/>
+          <node id="298003979" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="6" changeset="14954158" lat="36.8375365" lon="-2.4487427"/>
+          <node id="648215194" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.8377628" lon="-2.4480448"/>
+          <node id="2188666534" timestamp="2013-03-06T17:00:48Z" uid="162411" user="kalh" visible="true" version="1" changeset="15273015" lat="36.8379885" lon="-2.4473768"/>
+        </mbr>
+      </mbr>
+    </leaf>
+    <leaf x="-2.4561704" y="36.8365659" z="-2.4493874" t="36.8396123">
+      <mbr x="-2.4513403" y="36.8386225" z="-2.4493874" t="36.8388333">
+        <mbr x="-2.4513403" y="36.8386225" z="-2.4493874" t="36.8388333">
+          <way id="89344544" timestamp="2013-02-08T10:10:46Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290237"/>
+            <nd ref="298290218"/>
+            <nd ref="298290146"/>
+            <nd ref="298290175"/>
+            <nd ref="298290104"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Francisco García Góngora"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298290237" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="8" changeset="14954158" lat="36.8388333" lon="-2.4493874"/>
+          <node id="298290218" timestamp="2013-02-08T10:10:38Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8387796" lon="-2.4498565"/>
+          <node id="298290146" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8387291" lon="-2.450358"/>
+          <node id="298290175" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8386791" lon="-2.4508322"/>
+          <node id="298290104" timestamp="2013-02-08T10:10:39Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8386225" lon="-2.4513403"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4535124" y="36.8371582" z="-2.4532407" t="36.8396123">
+        <mbr x="-2.4535124" y="36.8371582" z="-2.4532407" t="36.8396123">
+          <way id="89344576" timestamp="2010-12-12T20:25:30Z" uid="22760" user="saimonx" visible="true" version="1" changeset="6641317">
+            <nd ref="298004070"/>
+            <nd ref="298290005"/>
+            <tag k="created_by" v="Potlatch 0.10f"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Carrera de los Limoneros"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="89344578" timestamp="2013-01-21T12:34:57Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443">
+            <nd ref="298004549"/>
+            <nd ref="1036391093"/>
+            <nd ref="298290005"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Carrera de los Limoneros"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298004070" timestamp="2013-02-08T10:10:39Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158" lat="36.8371582" lon="-2.4532407"/>
+          <node id="298290005" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8379405" lon="-2.4533034"/>
+          <node id="298004549" timestamp="2013-01-21T12:34:54Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8396123" lon="-2.4535124"/>
+          <node id="1036391093" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.8383646" lon="-2.4533564"/>
+          <node id="298290005" timestamp="2013-01-21T12:34:56Z" uid="1206264" user="mrfraneque" visible="true" version="4" changeset="14732443" lat="36.8379405" lon="-2.4533034"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4561704" y="36.8365659" z="-2.4529891" t="36.8371669">
+        <mbr x="-2.4561704" y="36.8365659" z="-2.4529891" t="36.8371669">
+          <way id="89344596" timestamp="2013-02-08T10:10:47Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298004114"/>
+            <nd ref="298004112"/>
+            <nd ref="2146314023"/>
+            <nd ref="298004105"/>
+            <nd ref="298004088"/>
+            <nd ref="298004084"/>
+            <nd ref="298004074"/>
+            <nd ref="298004073"/>
+            <nd ref="298004115"/>
+            <nd ref="298004128"/>
+            <nd ref="298004070"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Avenida de Nuestra Señora de Montserrat"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="89344611" timestamp="2013-02-08T10:10:48Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158">
+            <nd ref="2146314038"/>
+            <nd ref="298004070"/>
+            <tag k="highway" v="residential"/>
+            <tag k="lanes" v="2"/>
+            <tag k="maxspeed" v="30"/>
+            <tag k="name" v="Avenida de Nuestra Señora de Montserrat"/>
+            <tag k="oneway" v="no"/>
+          </way>
+          <node id="298004114" timestamp="2013-02-07T14:49:08Z" uid="162411" user="kalh" visible="true" version="5" changeset="14945484" lat="36.8365659" lon="-2.4561704"/>
+          <node id="298004112" timestamp="2012-08-31T10:00:39Z" uid="83942" user="Schumi4ever" visible="true" version="3" changeset="12928817" lat="36.8365715" lon="-2.456001"/>
+          <node id="2146314023" timestamp="2013-02-08T10:10:35Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8366023" lon="-2.4558209"/>
+          <node id="298004105" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8366895" lon="-2.4555074"/>
+          <node id="298004088" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8369125" lon="-2.4550318"/>
+          <node id="298004084" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8370107" lon="-2.4547381"/>
+          <node id="298004074" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8370703" lon="-2.4545008"/>
+          <node id="298004073" timestamp="2013-02-08T10:10:41Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8370984" lon="-2.4542806"/>
+          <node id="298004115" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8371152" lon="-2.4539978"/>
+          <node id="298004128" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="4" changeset="14954158" lat="36.8371347" lon="-2.4535568"/>
+          <node id="298004070" timestamp="2013-02-08T10:10:39Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158" lat="36.8371582" lon="-2.4532407"/>
+          <node id="2146314038" timestamp="2013-02-08T10:10:36Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8371669" lon="-2.4529891"/>
+          <node id="298004070" timestamp="2013-02-08T10:10:39Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158" lat="36.8371582" lon="-2.4532407"/>
+        </mbr>
+      </mbr>
+    </leaf>
+  </node>
+  <node x="-2.4546263" y="36.8372036" z="-2.4505854" t="36.8404835">
+    <leaf x="-2.4518987" y="36.83877516843" z="-2.4505854" t="36.8404835">
+      <mbr x="-2.4507306" y="36.8395965" z="-2.4505854" t="36.8404513">
+        <mbr x="-2.4507306" y="36.8395965" z="-2.4505854" t="36.8404513">
+          <way id="27185402" timestamp="2013-02-08T10:53:15Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158">
+            <nd ref="298004521"/>
+            <nd ref="2146361910"/>
+            <nd ref="2146361855"/>
+            <nd ref="298290399"/>
+            <nd ref="2146361906"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Catedrático Ignacio Cubillas"/>
+          </way>
+          <node id="298004521" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158" lat="36.8395965" lon="-2.4505854"/>
+          <node id="2146361910" timestamp="2013-02-08T10:53:09Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8398502" lon="-2.4506289"/>
+          <node id="2146361855" timestamp="2013-02-08T10:53:08Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8399573" lon="-2.4506472"/>
+          <node id="298290399" timestamp="2013-02-08T10:53:12Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158" lat="36.8403517" lon="-2.450712"/>
+          <node id="2146361906" timestamp="2013-02-08T10:53:09Z" uid="162411" user="kalh" visible="true" version="1" changeset="14954158" lat="36.8404513" lon="-2.4507306">
+            <tag k="highway" v="turning_circle"/>
+          </node>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4514186" y="36.8395896" z="-2.4512581" t="36.8404835">
+        <mbr x="-2.4514186" y="36.8395896" z="-2.4512581" t="36.8404835">
+          <way id="27185403" timestamp="2013-02-08T10:53:15Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290392"/>
+            <nd ref="298290398"/>
+            <tag k="highway" v="pedestrian"/>
+            <tag k="name" v="Calle Poeta Blas Otero"/>
+          </way>
+          <node id="298290392" timestamp="2013-02-08T10:53:13Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158" lat="36.8395896" lon="-2.4512581"/>
+          <node id="298290398" timestamp="2013-02-08T10:53:13Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158" lat="36.8404835" lon="-2.4514186"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4518987" y="36.838943" z="-2.4514318" t="36.8395616">
+        <mbr x="-2.4518987" y="36.838943" z="-2.4514318" t="36.8395616">
+          <way id="59546209" timestamp="2011-05-30T07:38:52Z" uid="129035" user="jmaties" visible="true" version="2" changeset="8289376">
+            <nd ref="738587724"/>
+            <nd ref="738587730"/>
+            <nd ref="738587732"/>
+            <nd ref="738587734"/>
+            <nd ref="738587724"/>
+            <tag k="amenity" v="school"/>
+            <tag k="name" v="Colegio Ciudad de Almeria"/>
+          </way>
+          <node id="738587724" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="2" changeset="8289376" lat="36.838943" lon="-2.4518178"/>
+          <node id="738587730" timestamp="2011-05-30T07:39:16Z" uid="129035" user="jmaties" visible="true" version="3" changeset="8289376" lat="36.8391169" lon="-2.4514318"/>
+          <node id="738587732" timestamp="2010-05-18T15:20:56Z" uid="129035" user="jmaties" visible="true" version="1" changeset="4739758" lat="36.8395599" lon="-2.4514625"/>
+          <node id="738587734" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="2" changeset="8289376" lat="36.8395616" lon="-2.4518987"/>
+          <node id="738587724" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="2" changeset="8289376" lat="36.838943" lon="-2.4518178"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.45151165914" y="36.83877516843" z="-2.45151165914" t="36.83877516843">
+        <mbr x="-2.45151165914" y="36.83877516843" z="-2.45151165914" t="36.83877516843">
+          <node id="-7514" action="modify" visible="true" lat="36.83877516843" lon="-2.45151165914">
+            <tag k="name" v="El Arbol"/>
+            <tag k="shop" v="supermarket"/>
+          </node>
+        </mbr>
+      </mbr>
+    </leaf>
+    <leaf x="-2.4546263" y="36.8372036" z="-2.4522051" t="36.8403695">
+      <mbr x="-2.4525018" y="36.8372036" z="-2.4522051" t="36.8396083">
+        <mbr x="-2.4525018" y="36.8372036" z="-2.4522051" t="36.8396083">
+          <way id="89344648" timestamp="2013-02-08T10:10:49Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="1036391004"/>
+            <nd ref="298290007"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Guadarrama"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="89344688" timestamp="2013-02-08T10:10:49Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290007"/>
+            <nd ref="298290010"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Guadarrama"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <way id="178486530" timestamp="2013-02-08T10:10:43Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290010"/>
+            <nd ref="298004545"/>
+            <tag k="highway" v="pedestrian"/>
+            <tag k="name" v="Calle Guadarrama"/>
+          </way>
+          <node id="1036391004" timestamp="2013-02-08T10:10:38Z" uid="162411" user="kalh" visible="true" version="3" changeset="14954158" lat="36.8372036" lon="-2.4522051"/>
+          <node id="298290007" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8380309" lon="-2.452298"/>
+          <node id="298290007" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="5" changeset="14732443" lat="36.8380309" lon="-2.452298"/>
+          <node id="298290010" timestamp="2010-12-12T20:25:52Z" uid="22760" user="saimonx" visible="true" version="3" changeset="6641317" lat="36.8384662" lon="-2.452359"/>
+          <node id="298290010" timestamp="2010-12-12T20:25:52Z" uid="22760" user="saimonx" visible="true" version="3" changeset="6641317" lat="36.8384662" lon="-2.452359"/>
+          <node id="298004545" timestamp="2013-02-08T10:10:40Z" uid="162411" user="kalh" visible="true" version="5" changeset="14954158" lat="36.8396083" lon="-2.4525018"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4533564" y="36.8383646" z="-2.452359" t="36.8384662">
+        <mbr x="-2.4533564" y="36.8383646" z="-2.452359" t="36.8384662">
+          <way id="89344654" timestamp="2013-02-08T10:10:49Z" uid="162411" user="kalh" visible="true" version="2" changeset="14954158">
+            <nd ref="298290010"/>
+            <nd ref="1036391093"/>
+            <tag k="highway" v="residential"/>
+            <tag k="name" v="Calle Hermanos Calatrava"/>
+            <tag k="oneway" v="yes"/>
+          </way>
+          <node id="298290010" timestamp="2010-12-12T20:25:52Z" uid="22760" user="saimonx" visible="true" version="3" changeset="6641317" lat="36.8384662" lon="-2.452359"/>
+          <node id="1036391093" timestamp="2013-01-21T12:34:55Z" uid="1206264" user="mrfraneque" visible="true" version="2" changeset="14732443" lat="36.8383646" lon="-2.4533564"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.45421" y="36.8397191" z="-2.4532557" t="36.8403695">
+        <mbr x="-2.45421" y="36.8397191" z="-2.4532557" t="36.8403695">
+          <way id="159028779" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909">
+            <nd ref="1711333062"/>
+            <nd ref="1711333067"/>
+            <nd ref="1711333065"/>
+            <nd ref="1711333063"/>
+            <nd ref="1711333058"/>
+            <nd ref="1711333066"/>
+            <nd ref="1711333061"/>
+            <nd ref="1711333059"/>
+            <nd ref="1711333062"/>
+            <tag k="amenity" v="courthouse"/>
+            <tag k="building" v="public"/>
+            <tag k="designation" v="Court of Justice"/>
+            <tag k="name" v="Ciudad de la Justicia de Almería"/>
+          </way>
+          <node id="1711333062" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8403223" lon="-2.4538994"/>
+          <node id="1711333067" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8403695" lon="-2.4533818"/>
+          <node id="1711333065" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8397362" lon="-2.4532557"/>
+          <node id="1711333063" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8397191" lon="-2.4541167"/>
+          <node id="1711333058" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8397341" lon="-2.4541676"/>
+          <node id="1711333066" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8397556" lon="-2.4541998"/>
+          <node id="1711333061" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8397922" lon="-2.45421"/>
+          <node id="1711333059" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8398329" lon="-2.4541912"/>
+          <node id="1711333062" timestamp="2012-04-11T11:43:53Z" uid="625069" user="andriu3" visible="true" version="1" changeset="11263909" lat="36.8403223" lon="-2.4538994"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4546263" y="36.8379159" z="-2.4533469" t="36.838751">
+        <mbr x="-2.4546263" y="36.8379159" z="-2.4533469" t="36.838751">
+          <way id="202271097" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443">
+            <nd ref="2122448757"/>
+            <nd ref="2122448758"/>
+            <nd ref="2122448754"/>
+            <nd ref="2122448752"/>
+            <nd ref="2122448756"/>
+            <nd ref="2122448753"/>
+            <nd ref="2122448755"/>
+            <nd ref="2122448759"/>
+            <nd ref="2122448757"/>
+            <tag k="amenity" v="school"/>
+            <tag k="name" v="Madre de la Luz"/>
+          </way>
+          <node id="2122448757" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.838004" lon="-2.4533469"/>
+          <node id="2122448758" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.8379159" lon="-2.4542427"/>
+          <node id="2122448754" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.8385192" lon="-2.4543585"/>
+          <node id="2122448752" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.8384977" lon="-2.4545941"/>
+          <node id="2122448756" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.83862" lon="-2.4546263"/>
+          <node id="2122448753" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.838751" lon="-2.453548"/>
+          <node id="2122448755" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.8386136" lon="-2.4535266"/>
+          <node id="2122448759" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.8386115" lon="-2.4534251"/>
+          <node id="2122448757" timestamp="2013-01-21T12:15:45Z" uid="1206264" user="mrfraneque" visible="true" version="1" changeset="14732443" lat="36.838004" lon="-2.4533469"/>
+        </mbr>
+      </mbr>
+    </leaf>
+    <leaf x="-2.4528277" y="36.838279" z="-2.4510658" t="36.8395587">
+      <mbr x="-2.451413" y="36.8390966" z="-2.4510658" t="36.839552">
+        <mbr x="-2.451413" y="36.8390966" z="-2.4510658" t="36.839552">
+          <way id="115594340" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="1" changeset="8289376">
+            <nd ref="1305561888"/>
+            <nd ref="1305561887"/>
+            <nd ref="298290196"/>
+            <nd ref="298290195"/>
+            <nd ref="1305561888"/>
+            <tag k="amenity" v="school"/>
+            <tag k="name" v="Colegio Ciudad de Almeria Infantil"/>
+          </way>
+          <node id="1305561888" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="1" changeset="8289376" lat="36.8395495" lon="-2.451413"/>
+          <node id="1305561887" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="1" changeset="8289376" lat="36.8390966" lon="-2.4513621"/>
+          <node id="298290196" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="2" changeset="8289376" lat="36.8391028" lon="-2.4510658"/>
+          <node id="298290195" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="2" changeset="8289376" lat="36.839552" lon="-2.4511195"/>
+          <node id="1305561888" timestamp="2011-05-30T07:38:08Z" uid="129035" user="jmaties" visible="true" version="1" changeset="8289376" lat="36.8395495" lon="-2.451413"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.45245" y="36.838279" z="-2.4516099" t="36.8395587">
+        <mbr x="-2.45245" y="36.838279" z="-2.4516099" t="36.8395587">
+          <way id="267209205" timestamp="2014-03-19T16:07:27Z" uid="129035" user="jmaties" visible="true" version="2" changeset="21194896">
+            <nd ref="2726789880"/>
+            <nd ref="2726789882"/>
+            <nd ref="2726789884"/>
+            <nd ref="2726789885"/>
+            <nd ref="2726789886"/>
+            <nd ref="2726789887"/>
+            <nd ref="2726789880"/>
+            <tag k="amenity" v="college"/>
+            <tag k="building" v="yes"/>
+            <tag k="name" v="IES Alborán"/>
+          </way>
+          <node id="2726789880" timestamp="2014-03-19T11:27:26Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190361" lat="36.8395487" lon="-2.45245"/>
+          <node id="2726789882" timestamp="2014-03-19T11:27:26Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190361" lat="36.838279" lon="-2.4522988"/>
+          <node id="2726789884" timestamp="2014-03-19T11:27:26Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190361" lat="36.8383496" lon="-2.4516099"/>
+          <node id="2726789885" timestamp="2014-03-19T11:27:26Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190361" lat="36.8389716" lon="-2.4517038"/>
+          <node id="2726789886" timestamp="2014-03-19T11:27:26Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190361" lat="36.8389215" lon="-2.4518291"/>
+          <node id="2726789887" timestamp="2014-03-19T11:27:26Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190361" lat="36.8395587" lon="-2.4519199"/>
+          <node id="2726789880" timestamp="2014-03-19T11:27:26Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190361" lat="36.8395487" lon="-2.45245"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4528277" y="36.8388116" z="-2.4524852" t="36.8394916">
+        <mbr x="-2.4528277" y="36.8388116" z="-2.4524852" t="36.8394916">
+          <way id="267209356" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409">
+            <nd ref="2726796708"/>
+            <nd ref="2726796710"/>
+            <nd ref="2726796713"/>
+            <nd ref="2726796715"/>
+            <nd ref="2726796718"/>
+            <nd ref="2726796720"/>
+            <nd ref="2726796708"/>
+            <tag k="amenity" v="school"/>
+            <tag k="building" v="yes"/>
+            <tag k="name" v="Real Conservatorio Profesional de Música"/>
+            <tag k="website" v="http://www.conservatoriodealmeria.es/"/>
+          </way>
+          <node id="2726796708" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8394784" lon="-2.4527948"/>
+          <node id="2726796710" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8389592" lon="-2.452719"/>
+          <node id="2726796713" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8389461" lon="-2.4528277"/>
+          <node id="2726796715" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8388116" lon="-2.4528112"/>
+          <node id="2726796718" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8388354" lon="-2.4524852"/>
+          <node id="2726796720" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8394916" lon="-2.452561"/>
+          <node id="2726796708" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8394784" lon="-2.4527948"/>
+        </mbr>
+      </mbr>
+    </leaf>
+    <leaf x="-2.4533422" y="36.8379046" z="-2.452783" t="36.8389461">
+      <mbr x="-2.4533422" y="36.8385898" z="-2.452783" t="36.8389461">
+        <mbr x="-2.4533422" y="36.8385898" z="-2.452783" t="36.8389461">
+          <way id="268202950" timestamp="2014-03-23T02:09:13Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21256459">
+            <nd ref="2735583936"/>
+            <nd ref="2726796713"/>
+            <nd ref="2726796715"/>
+            <nd ref="2735583935"/>
+            <nd ref="2735583934"/>
+            <nd ref="2735583936"/>
+            <tag k="amenity" v="kindergarten"/>
+            <tag k="name" v="Escuela Infantil Los Ángeles"/>
+          </way>
+          <node id="2735583936" timestamp="2014-03-23T02:09:13Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21256459" lat="36.8389087" lon="-2.4533422"/>
+          <node id="2726796713" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8389461" lon="-2.4528277"/>
+          <node id="2726796715" timestamp="2014-03-19T11:29:59Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21190409" lat="36.8388116" lon="-2.4528112"/>
+          <node id="2735583935" timestamp="2014-03-23T02:09:13Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21256459" lat="36.8386188" lon="-2.452783"/>
+          <node id="2735583934" timestamp="2014-03-23T02:09:13Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21256459" lat="36.8385898" lon="-2.4533015"/>
+          <node id="2735583936" timestamp="2014-03-23T02:09:13Z" uid="129035" user="jmaties" visible="true" version="1" changeset="21256459" lat="36.8389087" lon="-2.4533422"/>
+        </mbr>
+      </mbr>
+      <mbr x="-2.4528582" y="36.8379046" z="-2.4528582" t="36.8379046">
+        <mbr x="-2.4528582" y="36.8379046" z="-2.4528582" t="36.8379046">
+          <node id="1741304109" timestamp="2012-05-05T11:33:14Z" uid="674696" user="Megazone" visible="true" version="1" changeset="11506808" lat="36.8379046" lon="-2.4528582">
+            <tag k="addr:housename" v="Calzada de Castro"/>
+            <tag k="addr:housenumber" v="30"/>
+            <tag k="addr:postcode" v="04006"/>
+            <tag k="amenity" v="pharmacy"/>
+            <tag k="name" v="ACUYO IRIARTE"/>
+          </node>
+        </mbr>
+      </mbr>
+    </leaf>
+  </node>
+</node>

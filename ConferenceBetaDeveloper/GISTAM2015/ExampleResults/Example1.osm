@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-7220' visible='true' lat='36.8395487' lon='-2.45245' />
+  <node id='-7218' visible='true' lat='36.8395587' lon='-2.4519199' />
+  <node id='-7216' visible='true' lat='36.8389215' lon='-2.4518291' />
+  <node id='-7214' visible='true' lat='36.8389716' lon='-2.4517038' />
+  <node id='-7212' visible='true' lat='36.8383496' lon='-2.4516099' />
+  <node id='-7210' visible='true' lat='36.838279' lon='-2.4522988' />
+  <node id='-7204' visible='true' lat='36.8382919' lon='-2.4491153' />
+  <node id='-7202' visible='true' lat='36.8384292' lon='-2.4476476' />
+  <node id='-7200' visible='true' lat='36.8381064' lon='-2.4476905' />
+  <node id='-7198' visible='true' lat='36.8380102' lon='-2.447742' />
+  <node id='-7196' visible='true' lat='36.8379484' lon='-2.4478621' />
+  <node id='-7194' visible='true' lat='36.8377973' lon='-2.4483342' />
+  <node id='-7192' visible='true' lat='36.8377629' lon='-2.4483342' />
+  <node id='-7190' visible='true' lat='36.8377148' lon='-2.4484973' />
+  <node id='-7188' visible='true' lat='36.8379346' lon='-2.4486003' />
+  <node id='-7186' visible='true' lat='36.8378934' lon='-2.4490552' />
+  <node id='-7180' visible='true' lat='36.838004' lon='-2.4533469' />
+  <node id='-7178' visible='true' lat='36.8386115' lon='-2.4534251' />
+  <node id='-7176' visible='true' lat='36.8386136' lon='-2.4535266' />
+  <node id='-7174' visible='true' lat='36.838751' lon='-2.453548' />
+  <node id='-7172' visible='true' lat='36.83862' lon='-2.4546263' />
+  <node id='-7170' visible='true' lat='36.8384977' lon='-2.4545941' />
+  <node id='-7168' visible='true' lat='36.8385192' lon='-2.4543585' />
+  <node id='-7166' visible='true' lat='36.8379159' lon='-2.4542427' />
+  <way id='-7206' action='modify' visible='true'>
+    <nd ref='-7220' />
+    <nd ref='-7210' />
+    <nd ref='-7212' />
+    <nd ref='-7214' />
+    <nd ref='-7216' />
+    <nd ref='-7218' />
+    <nd ref='-7220' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='IES Alborán' />
+  </way>
+  <way id='-7182' visible='true'>
+    <nd ref='-7204' />
+    <nd ref='-7186' />
+    <nd ref='-7188' />
+    <nd ref='-7190' />
+    <nd ref='-7192' />
+    <nd ref='-7194' />
+    <nd ref='-7196' />
+    <nd ref='-7198' />
+    <nd ref='-7200' />
+    <nd ref='-7202' />
+    <nd ref='-7204' />
+    <tag k='amenity' v='school' />
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='CPC Divina Infantita' />
+  </way>
+  <way id='-7162' action='modify' visible='true'>
+    <nd ref='-7180' />
+    <nd ref='-7166' />
+    <nd ref='-7168' />
+    <nd ref='-7170' />
+    <nd ref='-7172' />
+    <nd ref='-7174' />
+    <nd ref='-7176' />
+    <nd ref='-7178' />
+    <nd ref='-7180' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Madre de la Luz' />
+  </way>
+</osm>

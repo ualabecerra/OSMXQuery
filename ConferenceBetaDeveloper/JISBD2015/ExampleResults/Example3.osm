@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-4298' action='modify' visible='true' lat='36.83452054704' lon='-2.46376713623'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='Gran Hotel Almería (275m2) ****' />
+    <tag k='stars' v='****' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-4278' action='modify' visible='true' lat='36.83831809154' lon='-2.46658812241'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='Hotel Catedral (244m2) ****' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-4249' action='modify' visible='true' lat='36.84038893539' lon='-2.46553714099'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='Nuevo Torreluz (135m2) ****' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-4234' action='modify' visible='true' lat='36.84076842288' lon='-2.46486244358'>
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='AC Hotel Almería (154m2) ****' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-4173' visible='true' lat='36.8354352' lon='-2.4629125' />
+  <node id='-4172' visible='true' lat='36.8361875' lon='-2.4630133'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-4171' visible='true' lat='36.8369197' lon='-2.4631307'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-4170' visible='true' lat='36.8373309' lon='-2.4632064'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-4169' visible='true' lat='36.8380264' lon='-2.4633139' />
+  <node id='-4168' visible='true' lat='36.8385133' lon='-2.4633844' />
+  <node id='-4167' visible='true' lat='36.8393886' lon='-2.4635327' />
+  <node id='-4166' visible='true' lat='36.8395391' lon='-2.4635448' />
+  <node id='-4165' visible='true' lat='36.8402372' lon='-2.4636695' />
+  <node id='-4164' visible='true' lat='36.8406542' lon='-2.4637314' />
+  <node id='-4163' visible='true' lat='36.8410818' lon='-2.4638177' />
+  <node id='-4162' visible='true' lat='36.8412682' lon='-2.4638404' />
+  <node id='-4161' visible='true' lat='36.8414324' lon='-2.4638206' />
+  <node id='-4160' visible='true' lat='36.8414624' lon='-2.4637755' />
+  <node id='-4159' visible='true' lat='36.8414694' lon='-2.4637225' />
+  <node id='-4158' visible='true' lat='36.8414301' lon='-2.4635974' />
+  <node id='1242577046' action='delete' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346872' lon='-2.4637108' />
+  <node id='1242577047' action='delete' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346142' lon='-2.4635204' />
+  <node id='1242577050' action='delete' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347095' lon='-2.4639036' />
+  <node id='1242577052' action='delete' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.834524' lon='-2.4640407' />
+  <node id='1242577055' action='delete' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346722' lon='-2.4636733' />
+  <node id='1242577057' action='delete' timestamp='2011-04-12T21:54:43Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347237' lon='-2.4637832' />
+  <node id='1242577060' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346487' lon='-2.4639486' />
+  <node id='1242577066' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.83464' lon='-2.4639388' />
+  <node id='1242577068' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347219' lon='-2.4637454' />
+  <node id='1242577070' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346335' lon='-2.4636357' />
+  <node id='1242577071' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346135' lon='-2.4639607' />
+  <node id='1242577072' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347516' lon='-2.4638637' />
+  <node id='1242577073' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347043' lon='-2.4637094' />
+  <node id='1242577074' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346217' lon='-2.4639709' />
+  <node id='1242577079' action='delete' timestamp='2012-04-11T08:56:56Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8342752' lon='-2.4637269' />
+  <node id='1242577080' action='delete' timestamp='2012-04-11T08:56:56Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8344237' lon='-2.4639908' />
+  <node id='1242577083' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8345677' lon='-2.4639766' />
+  <node id='1242577084' action='delete' timestamp='2011-04-12T21:54:44Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346871' lon='-2.4636717' />
+  <node id='1242577088' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8345906' lon='-2.4639951' />
+  <node id='1242577091' action='delete' timestamp='2012-04-11T08:56:57Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8345008' lon='-2.4635165' />
+  <node id='1242577092' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347001' lon='-2.4638932' />
+  <node id='1242577093' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347065' lon='-2.4637457' />
+  <node id='1242577094' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8347423' lon='-2.463782' />
+  <node id='1242577095' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346657' lon='-2.4639179' />
+  <node id='1242577097' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346802' lon='-2.4639314' />
+  <node id='1242577104' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311' lat='36.8346679' lon='-2.463633' />
+  <way id='-4157' visible='true'>
+    <nd ref='-4158' />
+    <nd ref='-4159' />
+    <nd ref='-4160' />
+    <nd ref='-4161' />
+    <nd ref='-4162' />
+    <nd ref='-4163' />
+    <nd ref='-4164' />
+    <nd ref='-4165' />
+    <nd ref='-4166' />
+    <nd ref='-4167' />
+    <nd ref='-4168' />
+    <nd ref='-4169' />
+    <nd ref='-4170' />
+    <nd ref='-4171' />
+    <nd ref='-4172' />
+    <nd ref='-4173' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Paseo de Almería' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='108273587' action='delete' timestamp='2011-04-12T21:54:45Z' uid='83942' user='Schumi4ever' visible='true' version='1' changeset='7847311'>
+    <tag k='building' v='yes' />
+    <tag k='name' v='Gran Hotel Almería (275m2)' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+  </way>
+</osm>

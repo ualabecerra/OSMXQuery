@@ -1,0 +1,324 @@
+meta{
+  title: "GISTAM 2015 Style";
+  icon: "icons/imagenescudogif.gif";
+  version: "1.0";
+  description: "Indexing Style for Ranking Queries";
+  author: "Jesus Manuel Almendros-Jimenez and Antonio Becerra-Teron";
+  min-josm-version: 6789;
+}
+
+way[highway=footway]{
+  text: name;
+  text-color: white;
+  font-size:14;
+  font-weight : bold;
+  text-offset-y: 300;
+  color: green;
+  width : 5;
+  fill-color:orange;
+  fill-opacity:0.3;
+  linecap : none;
+  linejoin: none;
+}
+
+way[building=church]{
+  text-color: white;
+  font-size:14;
+  font-weight : bold;
+  color: yellow;
+  fill-color:orange;
+  fill-opacity:0.7;
+  linecap : none;
+  linejoin: none;
+}
+
+way[amenity=theatre]{
+  text-color: white;
+  font-size:14;
+  font-weight : bold;
+  color: yellow;
+  fill-color:orange;
+  fill-opacity:0.7;
+  linecap : none;
+  linejoin: none;
+}
+
+way[amenity=school]{
+  text-color: white;
+  font-size:14;
+  font-weight : bold;
+  color: yellow;
+  fill-color:orange;
+  fill-opacity:0.7;
+  linecap : none;
+  linejoin: none;
+}
+
+way[leisure=park]{
+  font-size:14;
+  font-weight : bold;
+  color: yellow;
+  fill-color:orange;
+  fill-opacity:0.7;
+  linecap : none;
+  linejoin: none;
+}
+
+way[tourism=hotel]{
+  text-color: white;
+  font-size:14;
+  text-offset-y: 50;
+  text-offset-x: -20;
+  font-weight : bold;
+  color: yellow;
+  fill-color:green;
+  fill-opacity:0.7;
+  linecap : none;
+  linejoin: none;
+}
+
+node[service=result]{
+    text:name;
+    text-color: yellow;
+    font-size:16;
+    font-weight : bold; 
+    text-offset-x: -20;  
+}
+
+node[leisure=park]{
+    text:name;
+    text-color: white;
+    text-offset-y: 30;
+    text-offset-x: -20;
+    font-size:14;
+    font-weight : bold;   
+    icon-image: "icons/sport_leisure_centre.n.16.png";
+    icon-width: 20;
+    icon-height: 20;
+}
+
+node[amenity=theatre]{
+
+    icon-image: "icons/tourist_theatre.n.16.png";
+    icon-width: 20;
+    icon-height: 20;
+}
+
+node[amenity=place_of_worship]{
+    icon-image: "icons/place_of_worship_unknown.n.16.png";
+    icon-width: 15;
+    icon-height: 15;
+}
+
+node[tourism=hotel]{
+    text:name;
+    text-color: white;
+    text-offset-y: 20;
+    text-offset-x: -20;
+    font-size:14;
+    font-weight : bold;   
+    icon-image: "icons/accommodation_hotel.n.16.png";
+    icon-width: 15;
+    icon-height: 15;
+}
+
+node[stars="****"] {
+    text:name;
+    text-color: yellow;
+    text-offset-y: 20;
+    text-offset-x: -20;
+    font-size:14;
+    font-weight : bold;   
+    icon-image: "icons/accommodation_hotel.n.16.png";
+    icon-width: 15;
+    icon-height: 15;
+}
+
+node[name="0 meters"]{
+    text:name;
+    text-color: white;
+    text-offset-y: 0;
+    text-offset-x: -30;
+    font-size:13;
+    font-weight : bold;   
+}
+
+node[access]{
+    text:name;
+    text-color: white;
+    text-offset-y: 0;
+    text-offset-x: -30;
+    font-size:20;
+    font-weight : bold;   
+}
+
+node[name="10 meters"]{
+    text:name;
+    text-color: white;
+    text-offset-y: 0;
+    text-offset-x: -20;
+    font-size:12;
+    font-weight : bold;   
+}
+
+node[amenity=school]{
+    text:name;
+    text-color: white;
+    font-size:14;
+    font-weight : bold;
+    text-offset-x: -20;
+    icon-width: 20;
+    icon-height: 20;
+    
+}
+
+node[amenity=restaurant]{
+    text:cuisine;
+    text-color: white;
+    font-size:14;
+    font-weight : bold;
+    icon-image: "icons/food_restaurant.n.16.png";
+    icon-width: 20;
+    icon-height: 20;
+}
+
+node[shop=supermarket]{
+    text:name;
+    text-color: white;
+    font-size:14;
+    font-weight : bold;
+    icon-image: "icons/shopping_supermarket.n.16.png";
+    icon-width: 20;
+    icon-height: 20;
+}
+
+node[amenity=pharmacy]{
+    text:name;
+    text-color: white;
+    font-size:14;
+    font-weight : bold;
+    icon-image: "icons/health_pharmacy.n.16.png";
+    icon-width: 20;
+    icon-height: 20;
+}
+
+node[name="Cuentavinos (spanish cuisine)"]{
+    text:name;
+    text-color: yellow;
+    font-size:14;
+    font-weight : bold;
+    icon-image: "icons/food_restaurant.n.16.png";
+    icon-width: 20;
+    icon-height: 20;
+}
+
+way[highway=residential]{
+  text:name;
+  font-size:14;
+  text-color: orange;
+  font-weight : bold;
+  text-offset-y : 10;  
+  width: 3;
+  color: orange;
+  linecap : none;
+  linejoin: miter;
+}
+
+way[highway=construction]{
+  text:name;
+  font-size:12;
+  text-color: white;
+  font-weight : bold;
+  text-offset-y : 10;
+  text-position: line;
+  width: 5;
+  color: red;
+  linecap : none;
+  linejoin: none;
+}
+
+way[highway=road]{
+  text:name;
+  font-size:12;
+  text-color: white;
+  font-weight : bold;
+  text-offset-y : 10;
+  text-position: line;
+  width: 3;
+  color: yellow;
+  linecap : none;
+  linejoin: none;
+}
+
+way[highway=pedestrian]{
+  text:name;
+  font-size:14;
+  text-color: white;
+  font-weight : bold;
+  text-offset-y : 10;  
+  width: 3;
+  color: red;
+  linecap : none;
+  linejoin: miter;
+}
+
+area[leisure]{
+  width: 2;
+  fill-color: green;
+}
+
+
+
+area[landuse]{
+  width: 2;
+  fill-color: green;
+}
+
+area[amenity]{
+  width: 2;
+  fill-color: green;
+}
+
+way[access]::non_public_access_layer {
+  width: +5;
+  color: red;
+  dashes: 10;
+  object-z-index: -5.0;
+}
+
+way[highway=primary]
+{
+  text:name;
+  font-size:15;
+  font-family: DejaVu Sans Book;
+  text-color: white;
+  font-style : italic;
+  font-weight : bold;
+  text-offset-y : 5;
+  width: 7;
+  color: green;
+  }
+
+way[highway=tertiary]
+{
+  text:name;
+  font-size:8;
+  font-family: DejaVu Sans Book;
+  text-color: yellow;
+  font-style : italic;
+  font-weight : bold;
+  text-offset-y : 10; 
+  width: 3;
+  color: red;
+}
+
+way[name=mbr]{
+  opacity : 1;
+  text : "";
+  width: 1;
+  fill-color : #E6FFE6; 
+  fill-opacity: 0.4;
+/*  dashes: 15, 9;
+  dashes-background-color: red; */
+ }
+

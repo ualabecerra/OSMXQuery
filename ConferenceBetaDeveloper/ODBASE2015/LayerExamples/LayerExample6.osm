@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-37680' action='modify' visible='true' lat='36.83834870708' lon='-2.46681178657' />
+  <node id='-37678' action='modify' visible='true' lat='36.83721638935' lon='-2.463842552' />
+  <node id='-37633' action='modify' visible='true' lat='36.83965221182' lon='-2.46451518301'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Teatro Cervantes' />
+  </node>
+  <node id='-37631' visible='true' lat='36.83696277016' lon='-2.46366253897'>
+    <tag k='amenity' v='theatre' />
+    <tag k='name' v='Teatro Cervantes' />
+  </node>
+  <node id='-37577' visible='true' lat='36.8396842' lon='-2.4648493' />
+  <node id='-37576' visible='true' lat='36.8396603' lon='-2.4647507' />
+  <node id='-37575' visible='true' lat='36.8396112' lon='-2.4645528' />
+  <node id='-37574' visible='true' lat='36.8395889' lon='-2.4644614' />
+  <node id='-37573' visible='true' lat='36.8396461' lon='-2.4644459' />
+  <node id='-37572' visible='true' lat='36.8396848' lon='-2.4644432' />
+  <node id='-37571' visible='true' lat='36.839687' lon='-2.4644154' />
+  <node id='-37570' visible='true' lat='36.8396849' lon='-2.4643833' />
+  <node id='-37569' visible='true' lat='36.8397019' lon='-2.4643547' />
+  <node id='-37568' visible='true' lat='36.8397234' lon='-2.4643306' />
+  <node id='-37567' visible='true' lat='36.839745' lon='-2.4643296' />
+  <node id='-37566' visible='true' lat='36.8397728' lon='-2.464344' />
+  <node id='-37565' visible='true' lat='36.8398007' lon='-2.4644003' />
+  <node id='-37564' visible='true' lat='36.8398393' lon='-2.4644057' />
+  <node id='-37563' visible='true' lat='36.8398737' lon='-2.4647409' />
+  <node id='-37562' visible='true' lat='36.8398822' lon='-2.4648241' />
+  <node id='-37561' visible='true' lat='36.8398844' lon='-2.4648804' />
+  <node id='-37560' visible='true' lat='36.8397944' lon='-2.46492' />
+  <node id='-37559' visible='true' lat='36.8397086' lon='-2.4649532' />
+  <node id='-37558' visible='true' lat='36.8396957' lon='-2.4648981' />
+  <node id='-37535' visible='true' lat='36.8372607' lon='-2.4633463' />
+  <node id='-37534' visible='true' lat='36.8369082' lon='-2.4632839' />
+  <node id='-37533' visible='true' lat='36.8368636' lon='-2.4637348' />
+  <node id='-37532' visible='true' lat='36.8368525' lon='-2.4640266' />
+  <node id='-37531' visible='true' lat='36.837196' lon='-2.4640709' />
+  <node id='-37523' visible='true' lat='36.8383829' lon='-2.4668062'>
+    <tag k='name' v='Hotel Catedral' />
+    <tag k='source' v='survey' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.hotelcatedral.net/' />
+  </node>
+  <way id='-37681' action='modify' visible='true'>
+    <nd ref='-37678' />
+    <nd ref='-37680' />
+    <tag k='highway' v='construction' />
+    <tag k='name' v='298 meters' />
+  </way>
+  <way id='-37677' action='modify' visible='true'>
+    <nd ref='-37633' />
+    <nd ref='-37523' />
+    <tag k='highway' v='construction' />
+    <tag k='name' v='227 meters' />
+  </way>
+  <way id='-37557' visible='true'>
+    <nd ref='-37558' />
+    <nd ref='-37559' />
+    <nd ref='-37560' />
+    <nd ref='-37561' />
+    <nd ref='-37562' />
+    <nd ref='-37563' />
+    <nd ref='-37564' />
+    <nd ref='-37565' />
+    <nd ref='-37566' />
+    <nd ref='-37567' />
+    <nd ref='-37568' />
+    <nd ref='-37569' />
+    <nd ref='-37570' />
+    <nd ref='-37571' />
+    <nd ref='-37572' />
+    <nd ref='-37573' />
+    <nd ref='-37574' />
+    <nd ref='-37575' />
+    <nd ref='-37576' />
+    <nd ref='-37577' />
+    <nd ref='-37558' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='church' />
+    <tag k='denomination' v='catholic' />
+    <tag k='name' v='Parroquia San Pedro' />
+    <tag k='religion' v='christian' />
+  </way>
+  <way id='-37530' action='modify' visible='true'>
+    <nd ref='-37531' />
+    <nd ref='-37532' />
+    <nd ref='-37533' />
+    <nd ref='-37534' />
+    <nd ref='-37535' />
+    <nd ref='-37678' />
+    <nd ref='-37531' />
+    <tag k='amenity' v='theatre' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Teatro Cervantes' />
+  </way>
+</osm>

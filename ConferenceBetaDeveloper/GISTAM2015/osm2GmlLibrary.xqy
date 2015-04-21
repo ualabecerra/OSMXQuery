@@ -1,0 +1,71 @@
+module namespace osm_gml = "osm_gml";
+
+import module namespace geo = "http://expath.org/ns/geo";
+
+declare namespace gml='http://www.opengis.net/gml';
+
+(: Auxiliary Functions in order to transform OSM geometry into GML geometry :)
+(: ************************************************************************ :)
+
+(: Conversor from OSM to GML for Lines :)
+
+declare function osm_gml:_osm2GmlLine($oneway as node())
+{
+  let $name := $oneway/@name
+  return 
+    if ($name != 'node')
+    then 
+       <gml:MultiLineString>
+      {
+      <gml:LineString>
+      <gml:coordinates>
+      {
+       for $node in $oneway/node
+       return 
+         (concat(concat(data($node/@lat),','),data($node/@lon))) 
+      } 
+      </gml:coordinates>
+      </gml:LineString>
+      }
+    </gml:MultiLineString> 
+    else 
+     <gml:Point>
+      {
+      <gml:coordinates>
+      {
+       for $node in $oneway/node
+       return 
+         (concat(concat(data($node/@lat),','),data($node/@lon))) 
+      } 
+      </gml:coordinates>
+      }
+    </gml:Point> 
+};
+
+(: Conversor from OSM to GML for Points :)
+
+declare function osm_gml:_osm2GmlPoint($lat as xs:decimal, $lon as xs:decimal)
+{
+  <gml:Point>
+  <gml:coordinates>
+  {
+  (concat(concat(data($lat),','),data($lon)))
+  }
+  </gml:coordinates>
+  </gml:Point>  
+};
+
+
+declare function osm_gml:_result2Osm($document as node()*)
+{
+ <osm version='0.6' upload='true' generator='JOSM'>
+ {
+  let $document1 := $document
+  return 
+    if (exists($document1[name(.)='osm']))
+    then ($document[name(.) = 'node']) union ($document/*/*) 
+    else $document/*
+ }
+ </osm>
+};
+

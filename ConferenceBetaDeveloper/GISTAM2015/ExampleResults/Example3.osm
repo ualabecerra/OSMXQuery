@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-11849' action='modify' visible='true' lat='36.83919768312' lon='-2.45263296464'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Conservatorio Música' />
+  </node>
+  <node id='-11847' visible='true' lat='36.8367762' lon='-2.4561739' />
+  <node id='-11846' visible='true' lat='36.8374545' lon='-2.4557743' />
+  <node id='-11845' visible='true' lat='36.8377069' lon='-2.4556232' />
+  <node id='-11844' visible='true' lat='36.8382084' lon='-2.45535' />
+  <node id='-11843' visible='true' lat='36.8387685' lon='-2.4550117' />
+  <node id='-11842' visible='true' lat='36.8396764' lon='-2.4544749' />
+  <node id='-11841' visible='true' lat='36.8397242' lon='-2.4544423' />
+  <node id='-11840' visible='true' lat='36.8402032' lon='-2.4541732' />
+  <node id='-11839' visible='true' lat='36.8405641' lon='-2.4539678' />
+  <node id='-11838' visible='true' lat='36.84091' lon='-2.4537503' />
+  <node id='-11837' visible='true' lat='36.8410435' lon='-2.4536619' />
+  <node id='-11836' visible='true' lat='36.8417431' lon='-2.4532817' />
+  <node id='-11835' visible='true' lat='36.8422133' lon='-2.4530412' />
+  <node id='-11834' visible='true' lat='36.8425099' lon='-2.4529168' />
+  <node id='-11833' visible='true' lat='36.8429366' lon='-2.4527379' />
+  <node id='-11832' visible='true' lat='36.8430819' lon='-2.4526838' />
+  <node id='-11831' visible='true' lat='36.843439' lon='-2.4525623' />
+  <node id='-11830' visible='true' lat='36.8437509' lon='-2.4524767' />
+  <node id='-11829' visible='true' lat='36.8440093' lon='-2.452427' />
+  <node id='-11828' visible='true' lat='36.844138' lon='-2.4524049' />
+  <node id='-11827' visible='true' lat='36.8442886' lon='-2.4523673' />
+  <node id='-11826' visible='true' lat='36.8445295' lon='-2.4523401' />
+  <node id='-11801' visible='true' lat='36.8385271' lon='-2.4476073' />
+  <node id='-11800' visible='true' lat='36.8377069' lon='-2.4556232' />
+  <node id='-11793' visible='true' lat='36.838004' lon='-2.4533469' />
+  <node id='-11791' visible='true' lat='36.8386115' lon='-2.4534251' />
+  <node id='-11789' visible='true' lat='36.8386136' lon='-2.4535266' />
+  <node id='-11787' visible='true' lat='36.838751' lon='-2.453548' />
+  <node id='-11785' visible='true' lat='36.83862' lon='-2.4546263' />
+  <node id='-11783' visible='true' lat='36.8384977' lon='-2.4545941' />
+  <node id='-11781' visible='true' lat='36.8385192' lon='-2.4543585' />
+  <node id='-11779' visible='true' lat='36.8379159' lon='-2.4542427' />
+  <node id='-11773' visible='true' lat='36.8394784' lon='-2.4527948' />
+  <node id='-11771' visible='true' lat='36.8394916' lon='-2.452561' />
+  <node id='-11769' visible='true' lat='36.8388354' lon='-2.4524852' />
+  <node id='-11767' visible='true' lat='36.8388116' lon='-2.4528112' />
+  <node id='-11765' visible='true' lat='36.8389461' lon='-2.4528277' />
+  <node id='-11763' visible='true' lat='36.8389592' lon='-2.452719' />
+  <node id='-11757' visible='true' lat='36.8391146' lon='-2.4546641' />
+  <node id='-11755' visible='true' lat='36.839209' lon='-2.4538219' />
+  <node id='-11753' visible='true' lat='36.8387389' lon='-2.453728' />
+  <node id='-11751' visible='true' lat='36.8386359' lon='-2.4548224' />
+  <node id='-11749' visible='true' lat='36.8387453' lon='-2.4548438' />
+  <node id='-11747' visible='true' lat='36.8387689' lon='-2.4548894' />
+  <node id='-11745' visible='true' lat='36.8390244' lon='-2.4547526' />
+  <node id='-11739' visible='true' lat='36.8397599' lon='-2.4520897' />
+  <node id='-11737' visible='true' lat='36.8404968' lon='-2.4521883' />
+  <node id='-11735' visible='true' lat='36.8404351' lon='-2.4528856' />
+  <node id='-11733' visible='true' lat='36.8401086' lon='-2.4528829' />
+  <node id='-11731' visible='true' lat='36.8401067' lon='-2.4532571' />
+  <node id='-11729' visible='true' lat='36.8397523' lon='-2.4532097' />
+  <way id='-11825' visible='true'>
+    <nd ref='-11826' />
+    <nd ref='-11827' />
+    <nd ref='-11828' />
+    <nd ref='-11829' />
+    <nd ref='-11830' />
+    <nd ref='-11831' />
+    <nd ref='-11832' />
+    <nd ref='-11833' />
+    <nd ref='-11834' />
+    <nd ref='-11835' />
+    <nd ref='-11836' />
+    <nd ref='-11837' />
+    <nd ref='-11838' />
+    <nd ref='-11839' />
+    <nd ref='-11840' />
+    <nd ref='-11841' />
+    <nd ref='-11842' />
+    <nd ref='-11843' />
+    <nd ref='-11844' />
+    <nd ref='-11845' />
+    <nd ref='-11846' />
+    <nd ref='-11847' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Carretera de Ronda' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-11799' visible='true'>
+    <nd ref='-11800' />
+    <nd ref='-11801' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Calzada de Castro' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-11775' action='modify' visible='true'>
+    <nd ref='-11793' />
+    <nd ref='-11779' />
+    <nd ref='-11781' />
+    <nd ref='-11783' />
+    <nd ref='-11785' />
+    <nd ref='-11787' />
+    <nd ref='-11789' />
+    <nd ref='-11791' />
+    <nd ref='-11793' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Madre de la Luz' />
+  </way>
+  <way id='-11759' action='modify' visible='true'>
+    <nd ref='-11773' />
+    <nd ref='-11763' />
+    <nd ref='-11765' />
+    <nd ref='-11767' />
+    <nd ref='-11769' />
+    <nd ref='-11771' />
+    <nd ref='-11773' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Real Conservatorio Profesional de Música' />
+    <tag k='website' v='http://www.conservatoriodealmeria.es/' />
+  </way>
+  <way id='-11741' action='modify' visible='true'>
+    <nd ref='-11757' />
+    <nd ref='-11745' />
+    <nd ref='-11747' />
+    <nd ref='-11749' />
+    <nd ref='-11751' />
+    <nd ref='-11753' />
+    <nd ref='-11755' />
+    <nd ref='-11757' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Colegio Freinet' />
+  </way>
+  <way id='-11725' visible='true'>
+    <nd ref='-11739' />
+    <nd ref='-11729' />
+    <nd ref='-11731' />
+    <nd ref='-11733' />
+    <nd ref='-11735' />
+    <nd ref='-11737' />
+    <nd ref='-11739' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Colegio Público Padre Méndez' />
+  </way>
+</osm>

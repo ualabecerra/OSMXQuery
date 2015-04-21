@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-36977' action='modify' visible='true' lat='36.83956999489' lon='-2.46271140885'>
+    <tag k='name' v='0 meters' />
+  </node>
+  <node id='-36966' action='modify' visible='true' lat='36.83798693045' lon='-2.46362225167'>
+    <tag k='name' v='0 meters' />
+  </node>
+  <node id='-36892' action='modify' visible='true' lat='36.83769934817' lon='-2.46202539568'>
+    <tag k='name' v='0 meters' />
+  </node>
+  <node id='-36891' action='modify' visible='true' lat='36.83858309459' lon='-2.46234931464'>
+    <tag k='name' v='0 meters' />
+  </node>
+  <node id='-36889' action='modify' visible='true' lat='36.83956079124' lon='-2.46460991969'>
+    <tag k='name' v='0 meters' />
+  </node>
+  <node id='-36852' visible='true' lat='36.8354352' lon='-2.4629125' />
+  <node id='-36850' visible='true' lat='36.8361875' lon='-2.4630133'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-36848' visible='true' lat='36.8369197' lon='-2.4631307'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-36846' visible='true' lat='36.8373309' lon='-2.4632064'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-36844' visible='true' lat='36.8380264' lon='-2.4633139' />
+  <node id='-36842' visible='true' lat='36.8385133' lon='-2.4633844' />
+  <node id='-36840' visible='true' lat='36.8393886' lon='-2.4635327' />
+  <node id='-36838' visible='true' lat='36.8395391' lon='-2.4635448' />
+  <node id='-36836' visible='true' lat='36.8402372' lon='-2.4636695' />
+  <node id='-36834' visible='true' lat='36.8406542' lon='-2.4637314' />
+  <node id='-36832' visible='true' lat='36.8410818' lon='-2.4638177' />
+  <node id='-36830' visible='true' lat='36.8412682' lon='-2.4638404' />
+  <node id='-36828' visible='true' lat='36.8414324' lon='-2.4638206' />
+  <node id='-36826' visible='true' lat='36.8414624' lon='-2.4637755' />
+  <node id='-36824' visible='true' lat='36.8414694' lon='-2.4637225' />
+  <node id='-36822' visible='true' lat='36.8414301' lon='-2.4635974' />
+  <node id='252114539' timestamp='2012-04-11T07:50:56Z' uid='625069' user='andriu3' visible='true' version='4' changeset='11261569' lat='36.8385133' lon='-2.4633844' />
+  <node id='252114540' timestamp='2012-04-11T07:50:56Z' uid='625069' user='andriu3' visible='true' version='4' changeset='11261569' lat='36.8386356' lon='-2.4623737' />
+  <node id='252114542' timestamp='2012-04-11T07:50:56Z' uid='625069' user='andriu3' visible='true' version='3' changeset='11261569' lat='36.8387189' lon='-2.4614138' />
+  <node id='252114543' timestamp='2012-04-11T07:50:56Z' uid='625069' user='andriu3' visible='true' version='4' changeset='11261569' lat='36.8386848' lon='-2.461303' />
+  <node id='254386723' timestamp='2013-10-26T15:33:51Z' uid='1120480' user='mm81' visible='true' version='4' changeset='18553039' lat='36.8378102' lon='-2.4622277' />
+  <node id='257883202' timestamp='2012-04-11T07:50:56Z' uid='625069' user='andriu3' visible='true' version='5' changeset='11261569' lat='36.8396413' lon='-2.4625363' />
+  <node id='297943383' timestamp='2012-04-09T09:49:19Z' uid='625069' user='andriu3' visible='true' version='3' changeset='11234387' lat='36.8397781' lon='-2.4652693' />
+  <node id='297943396' timestamp='2012-04-11T08:34:17Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8380581' lon='-2.4639155' />
+  <node id='297943397' timestamp='2012-04-11T07:50:58Z' uid='625069' user='andriu3' visible='true' version='4' changeset='11261569' lat='36.8380264' lon='-2.4633139' />
+  <node id='297944400' timestamp='2012-04-09T09:49:18Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11234387' lat='36.8394385' lon='-2.4638872' />
+  <node id='297944431' timestamp='2012-04-09T09:49:18Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11234387' lat='36.8396276' lon='-2.4646351' />
+  <node id='297944432' timestamp='2012-04-09T09:49:18Z' uid='625069' user='andriu3' visible='true' version='3' changeset='11234387' lat='36.8394802' lon='-2.4640614' />
+  <node id='297944434' timestamp='2012-04-09T09:49:18Z' uid='625069' user='andriu3' visible='true' version='4' changeset='11234387' lat='36.8393886' lon='-2.4635327' />
+  <node id='298004212' timestamp='2013-04-01T08:51:13Z' uid='1206264' user='mrfraneque' visible='true' version='5' changeset='15563713' lat='36.8375177' lon='-2.4611425' />
+  <node id='298004213' timestamp='2012-04-11T07:50:57Z' uid='625069' user='andriu3' visible='true' version='3' changeset='11261569' lat='36.8376101' lon='-2.4613939' />
+  <node id='298004214' timestamp='2012-04-11T07:50:56Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8379143' lon='-2.4626548' />
+  <node id='298004597' timestamp='2012-04-11T07:50:58Z' uid='625069' user='andriu3' visible='true' version='5' changeset='11261569' lat='36.8395391' lon='-2.4635448' />
+  <node id='298004607' timestamp='2012-04-11T10:44:21Z' uid='625069' user='andriu3' visible='true' version='5' changeset='11263427' lat='36.8397091' lon='-2.4619437' />
+  <node id='474666577' timestamp='2012-04-11T08:34:20Z' uid='625069' user='andriu3' visible='true' version='2' changeset='11261569' lat='36.8380514' lon='-2.4637945' />
+  <node id='1709996787' timestamp='2012-04-10T12:52:55Z' uid='625069' user='andriu3' visible='true' version='1' changeset='11251905' lat='36.8395208' lon='-2.4642194' />
+  <node id='1711129948' timestamp='2012-04-11T07:50:54Z' uid='625069' user='andriu3' visible='true' version='1' changeset='11261569' lat='36.8397052' lon='-2.464962' />
+  <node id='2142663020' timestamp='2013-02-05T14:49:15Z' uid='162411' user='kalh' visible='true' version='1' changeset='14922693' lat='36.8396775' lon='-2.4648455' />
+  <node id='2142663023' timestamp='2013-02-05T14:49:15Z' uid='162411' user='kalh' visible='true' version='1' changeset='14922693' lat='36.8396563' lon='-2.4647561' />
+  <way id='-36877' visible='true'>
+    <nd ref='-36822' />
+    <nd ref='-36824' />
+    <nd ref='-36826' />
+    <nd ref='-36828' />
+    <nd ref='-36830' />
+    <nd ref='-36832' />
+    <nd ref='-36834' />
+    <nd ref='-36836' />
+    <nd ref='-36838' />
+    <nd ref='-36840' />
+    <nd ref='-36842' />
+    <nd ref='-36844' />
+    <nd ref='-36846' />
+    <nd ref='-36848' />
+    <nd ref='-36850' />
+    <nd ref='-36852' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Paseo de Almería' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='27162978' action='modify' timestamp='2012-09-11T13:58:32Z' uid='83942' user='Schumi4ever' visible='true' version='5' changeset='13069781'>
+    <nd ref='297943397' />
+    <nd ref='474666577' />
+    <nd ref='297943396' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lachambre' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='89133429' action='modify' timestamp='2013-02-05T18:04:43Z' uid='162411' user='kalh' visible='true' version='2' changeset='14924752'>
+    <nd ref='298004214' />
+    <nd ref='254386723' />
+    <nd ref='298004213' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Rueda López' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='89133435' action='modify' timestamp='2013-02-05T18:04:43Z' uid='162411' user='kalh' visible='true' version='3' changeset='14924752'>
+    <nd ref='257883202' />
+    <nd ref='298004597' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Navarro Rodrigo' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='89133443' timestamp='2013-02-05T18:04:43Z' uid='162411' user='kalh' visible='true' version='2' changeset='14924752'>
+    <nd ref='298004212' />
+    <nd ref='298004213' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Rueda López' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='89133445' action='modify' timestamp='2013-02-05T18:04:43Z' uid='162411' user='kalh' visible='true' version='3' changeset='14924752'>
+    <nd ref='252114539' />
+    <nd ref='252114540' />
+    <nd ref='252114542' />
+    <nd ref='252114543' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Mendez Nuñez' />
+  </way>
+  <way id='89133455' action='modify' timestamp='2013-02-05T18:04:44Z' uid='162411' user='kalh' visible='true' version='2' changeset='14924752'>
+    <nd ref='297943397' />
+    <nd ref='298004214' />
+    <tag k='highway' v='residential' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='89134977' action='modify' timestamp='2013-02-05T18:04:46Z' uid='162411' user='kalh' visible='true' version='2' changeset='14924752'>
+    <nd ref='298004607' />
+    <nd ref='257883202' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Navarro Rodrigo (k=2)' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='89138502' action='modify' timestamp='2013-02-05T14:49:16Z' uid='162411' user='kalh' visible='true' version='4' changeset='14922693'>
+    <nd ref='297943383' />
+    <nd ref='1711129948' />
+    <nd ref='2142663020' />
+    <nd ref='2142663023' />
+    <nd ref='297944431' />
+    <nd ref='1709996787' />
+    <nd ref='297944432' />
+    <nd ref='297944400' />
+    <nd ref='297944434' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Ricardos' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>

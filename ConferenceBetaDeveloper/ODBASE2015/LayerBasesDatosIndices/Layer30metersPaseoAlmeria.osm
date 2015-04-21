@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-15356' visible='true' lat='36.8354964' lon='-2.462685' />
+  <node id='-15355' visible='true' lat='36.835714' lon='-2.4624171' />
+  <node id='-15354' visible='true' lat='36.8346018' lon='-2.4645283' />
+  <node id='-15353' visible='true' lat='36.8354936' lon='-2.4649071' />
+  <node id='-15352' visible='true' lat='36.8368369' lon='-2.4642972' />
+  <node id='-15351' visible='true' lat='36.8379544' lon='-2.4647757' />
+  <node id='-15350' visible='true' lat='36.8352094' lon='-2.4626878' />
+  <node id='-15349' visible='true' lat='36.8384034' lon='-2.4605496'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-15348' visible='true' lat='36.8390702' lon='-2.4601032' />
+  <node id='-15347' visible='true' lat='36.839906' lon='-2.4595437' />
+  <node id='-15346' visible='true' lat='36.8356751' lon='-2.461214' />
+  <node id='-15345' visible='true' lat='36.8357609' lon='-2.4612938' />
+  <node id='-15344' visible='true' lat='36.8360102' lon='-2.4611727' />
+  <node id='-15343' visible='true' lat='36.8361328' lon='-2.4611752' />
+  <node id='-15342' visible='true' lat='36.8364694' lon='-2.4611201' />
+  <node id='-15341' visible='true' lat='36.8358094' lon='-2.4614198' />
+  <node id='-15340' visible='true' lat='36.8357461' lon='-2.4614606' />
+  <node id='-15339' visible='true' lat='36.8357649' lon='-2.4615051' />
+  <node id='-15338' visible='true' lat='36.835758' lon='-2.4615138' />
+  <node id='-15337' visible='true' lat='36.8371521' lon='-2.4646786' />
+  <node id='-15336' visible='true' lat='36.8372977' lon='-2.4645424' />
+  <node id='-15335' visible='true' lat='36.8373353' lon='-2.4641726' />
+  <node id='-15334' visible='true' lat='36.8371627' lon='-2.4647294' />
+  <node id='-15333' visible='true' lat='36.8381015' lon='-2.4645445' />
+  <node id='-15332' visible='true' lat='36.8380993' lon='-2.4649822' />
+  <node id='-15331' visible='true' lat='36.8374437' lon='-2.4648616' />
+  <node id='-15330' visible='true' lat='36.8374458' lon='-2.4647865' />
+  <node id='-15329' visible='true' lat='36.8374007' lon='-2.4645988' />
+  <node id='-15328' visible='true' lat='36.8373922' lon='-2.4645281' />
+  <node id='-15327' visible='true' lat='36.8371592' lon='-2.4646796' />
+  <node id='-15326' visible='true' lat='36.8371478' lon='-2.4647419' />
+  <node id='-15325' visible='true' lat='36.8371745' lon='-2.464932' />
+  <node id='-15324' visible='true' lat='36.8381024' lon='-2.4647094' />
+  <node id='-15323' visible='true' lat='36.8385585' lon='-2.464695' />
+  <node id='-15322' visible='true' lat='36.8386356' lon='-2.4623737' />
+  <node id='-15321' visible='true' lat='36.8390012' lon='-2.4624231' />
+  <node id='-15320' visible='true' lat='36.8396413' lon='-2.4625363' />
+  <node id='-15319' visible='true' lat='36.8359217' lon='-2.4630665'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Paseo de Almeria, 82' />
+    <tag k='ref' v='6' />
+    <tag k='route_ref' v='L1, L2, L6, L11, L18' />
+  </node>
+  <node id='-15318' visible='true' lat='36.8386983' lon='-2.4601082' />
+  <node id='-15317' visible='true' lat='36.8417055' lon='-2.458028' />
+  <node id='-15316' visible='true' lat='36.8425813' lon='-2.4578081' />
+  <node id='-15315' visible='true' lat='36.8430707' lon='-2.457733' />
+  <node id='-15314' visible='true' lat='36.8433755' lon='-2.4577383' />
+  <node id='-15313' visible='true' lat='36.8440324' lon='-2.4579314' />
+  <node id='-15312' visible='true' lat='36.8469945' lon='-2.4596105' />
+  <node id='-15311' visible='true' lat='36.8473765' lon='-2.4597714' />
+  <node id='-15310' visible='true' lat='36.8476384' lon='-2.4599699' />
+  <node id='-15309' visible='true' lat='36.8478444' lon='-2.4603025' />
+  <node id='-15308' visible='true' lat='36.8483287' lon='-2.4614795' />
+  <node id='-15307' visible='true' lat='36.8487974' lon='-2.4625019' />
+  <node id='-15306' visible='true' lat='36.8493469' lon='-2.4632851' />
+  <node id='-15305' visible='true' lat='36.8500165' lon='-2.4641112' />
+  <node id='-15304' visible='true' lat='36.8505222' lon='-2.4647893' />
+  <node id='-15303' visible='true' lat='36.8506537' lon='-2.4650106' />
+  <node id='-15302' visible='true' lat='36.8510339' lon='-2.4656508' />
+  <node id='-15301' visible='true' lat='36.8514022' lon='-2.4665006' />
+  <node id='-15300' visible='true' lat='36.8519688' lon='-2.4680187' />
+  <node id='-15299' visible='true' lat='36.8521319' lon='-2.4683674' />
+  <node id='-15298' visible='true' lat='36.8526299' lon='-2.4694188' />
+  <node id='-15297' visible='true' lat='36.8526318' lon='-2.4695092' />
+  <node id='-15296' visible='true' lat='36.852632' lon='-2.469554' />
+  <node id='-15295' visible='true' lat='36.8354352' lon='-2.4629125' />
+  <node id='-15294' visible='true' lat='36.8361875' lon='-2.4630133'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-15293' visible='true' lat='36.8373309' lon='-2.4632064'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-15292' visible='true' lat='36.8385133' lon='-2.4633844' />
+  <node id='-15291' visible='true' lat='36.8393886' lon='-2.4635327' />
+  <node id='-15290' visible='true' lat='36.8395391' lon='-2.4635448' />
+  <node id='-15289' visible='true' lat='36.8402372' lon='-2.4636695' />
+  <node id='-15288' visible='true' lat='36.8410818' lon='-2.4638177' />
+  <node id='-15287' visible='true' lat='36.8412682' lon='-2.4638404' />
+  <node id='-15286' visible='true' lat='36.8414624' lon='-2.4637755' />
+  <node id='-15285' visible='true' lat='36.8414694' lon='-2.4637225' />
+  <node id='-15284' visible='true' lat='36.8414301' lon='-2.4635974' />
+  <node id='-15283' visible='true' lat='36.8366219' lon='-2.4663702' />
+  <node id='-15282' visible='true' lat='36.8364523' lon='-2.4659525' />
+  <node id='-15281' visible='true' lat='36.8363689' lon='-2.4657475' />
+  <node id='-15280' visible='true' lat='36.8361751' lon='-2.4652284' />
+  <node id='-15279' visible='true' lat='36.835971' lon='-2.4646947' />
+  <node id='-15278' visible='true' lat='36.8356582' lon='-2.4638676' />
+  <node id='-15277' visible='true' lat='36.8353629' lon='-2.4630997' />
+  <node id='-15276' visible='true' lat='36.8353428' lon='-2.4630409' />
+  <node id='-15275' visible='true' lat='36.8379138' lon='-2.4639953' />
+  <node id='-15274' visible='true' lat='36.8380591' lon='-2.4639954' />
+  <node id='-15273' visible='true' lat='36.8370057' lon='-2.46274' />
+  <node id='-15272' visible='true' lat='36.8370207' lon='-2.4627454' />
+  <node id='-15271' visible='true' lat='36.8370185' lon='-2.4627642' />
+  <node id='-15270' visible='true' lat='36.8370293' lon='-2.462783' />
+  <node id='-15269' visible='true' lat='36.8370572' lon='-2.4627803' />
+  <node id='-15268' visible='true' lat='36.8370958' lon='-2.462799' />
+  <node id='-15267' visible='true' lat='36.8371044' lon='-2.4628178' />
+  <node id='-15266' visible='true' lat='36.8371237' lon='-2.4628205' />
+  <node id='-15265' visible='true' lat='36.8371237' lon='-2.46285' />
+  <node id='-15264' visible='true' lat='36.8372096' lon='-2.4627508' />
+  <node id='-15263' visible='true' lat='36.8371645' lon='-2.4627481' />
+  <node id='-15262' visible='true' lat='36.8371248' lon='-2.4627062' />
+  <node id='-15261' visible='true' lat='36.8371194' lon='-2.4627293' />
+  <node id='-15260' visible='true' lat='36.8369863' lon='-2.4627052' />
+  <node id='-15259' visible='true' lat='36.8380032' lon='-2.4613703' />
+  <node id='-15258' visible='true' lat='36.8383052' lon='-2.4625036' />
+  <node id='-15257' visible='true' lat='36.837271' lon='-2.4638869' />
+  <node id='-15256' visible='true' lat='36.8380514' lon='-2.4637945' />
+  <node id='-15255' visible='true' lat='36.8370074' lon='-2.4621043' />
+  <node id='-15254' visible='true' lat='36.8369752' lon='-2.4624933' />
+  <node id='-15253' visible='true' lat='36.8369197' lon='-2.4631307'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-15252' visible='true' lat='36.8379143' lon='-2.4626548' />
+  <node id='-15251' visible='true' lat='36.8380264' lon='-2.4633139' />
+  <node id='-15250' visible='true' lat='36.8387364' lon='-2.4638211' />
+  <node id='-15249' visible='true' lat='36.838519' lon='-2.4638601' />
+  <node id='-15248' visible='true' lat='36.8388181' lon='-2.4641127' />
+  <node id='-15247' visible='true' lat='36.8385311' lon='-2.4641514' />
+  <node id='-15246' visible='true' lat='36.8380821' lon='-2.4642149' />
+  <node id='-15245' visible='true' lat='36.8368401' lon='-2.4642916' />
+  <node id='-15244' visible='true' lat='36.837196' lon='-2.4640709' />
+  <node id='-15243' visible='true' lat='36.8372538' lon='-2.4640815' />
+  <node id='-15242' visible='true' lat='36.837246' lon='-2.4641938' />
+  <node id='-15241' visible='true' lat='36.8381555' lon='-2.4605325' />
+  <node id='-15240' visible='true' lat='36.8380787' lon='-2.4603582' />
+  <node id='-15239' visible='true' lat='36.8380484' lon='-2.460287' />
+  <node id='-15238' visible='true' lat='36.8376535' lon='-2.4605522' />
+  <node id='-15237' visible='true' lat='36.8351165' lon='-2.4622308' />
+  <node id='-15236' visible='true' lat='36.8351485' lon='-2.4623008' />
+  <node id='-15235' visible='true' lat='36.8352404' lon='-2.4625559' />
+  <node id='-15234' visible='true' lat='36.8352787' lon='-2.4626414' />
+  <node id='-15233' visible='true' lat='36.836283' lon='-2.4619839' />
+  <node id='-15232' visible='true' lat='36.8370795' lon='-2.4614359' />
+  <node id='-15231' visible='true' lat='36.8379244' lon='-2.4641441' />
+  <node id='-15230' visible='true' lat='36.8380682' lon='-2.4641236' />
+  <node id='-15227' visible='true' lat='36.8365654' lon='-2.4630072'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15226' visible='true' lat='36.8372616' lon='-2.4632842'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15225' visible='true' lat='36.8362515' lon='-2.4631121'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15224' visible='true' lat='36.836746' lon='-2.4630397'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15219' visible='true' lat='36.8358749' lon='-2.4622784'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15218' visible='true' lat='36.835444' lon='-2.4626294' />
+  <node id='-15217' visible='true' lat='36.8356491' lon='-2.4628691'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15216' visible='true' lat='36.8357638' lon='-2.4630469'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15215' visible='true' lat='36.8355283' lon='-2.4627657' />
+  <node id='-15214' visible='true' lat='36.8356768' lon='-2.4617353'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15213' visible='true' lat='36.8359432' lon='-2.4622397'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15212' visible='true' lat='36.8366895' lon='-2.4631803'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15211' visible='true' lat='36.835968' lon='-2.4629188'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15210' visible='true' lat='36.8385449' lon='-2.4644192' />
+  <node id='-15209' visible='true' lat='36.8360114' lon='-2.4621854'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15208' visible='true' lat='36.837114' lon='-2.4645397'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15207' visible='true' lat='36.836862' lon='-2.4632113'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15206' visible='true' lat='36.8368085' lon='-2.463049'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15205' visible='true' lat='36.8376345' lon='-2.4633397'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15204' visible='true' lat='36.8362956' lon='-2.4616653'>
+    <tag k='amenity' v='fountain' />
+  </node>
+  <node id='-15199' visible='true' lat='36.8356452' lon='-2.4616305'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='name' v='Unicaja' />
+  </node>
+  <node id='-15197' visible='true' lat='36.8373883' lon='-2.4632901'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15196' visible='true' lat='36.835703' lon='-2.4630221'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15195' visible='true' lat='36.8368024' lon='-2.4631942'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15194' visible='true' lat='36.8357744' lon='-2.4623544'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15193' visible='true' lat='36.8368809' lon='-2.4630544'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15192' visible='true' lat='36.8382539' lon='-2.4634427'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15191' visible='true' lat='36.8369811' lon='-2.4632315'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15189' visible='true' lat='36.8361672' lon='-2.4621071' />
+  <node id='-15187' visible='true' lat='36.8365021' lon='-2.4631555'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15185' visible='true' lat='36.8381119' lon='-2.4634228'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15184' visible='true' lat='36.8356409' lon='-2.463019'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15182' visible='true' lat='36.8359055' lon='-2.462783'>
+    <tag k='name' v='Zara' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='-15181' visible='true' lat='36.8363267' lon='-2.4629789'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15180' visible='true' lat='36.8358104' lon='-2.4616749'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15179' visible='true' lat='36.8371536' lon='-2.4632687'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15178' visible='true' lat='36.8372607' lon='-2.4633463' />
+  <node id='-15177' visible='true' lat='36.837975' lon='-2.4647133' />
+  <node id='-15176' visible='true' lat='36.8356615' lon='-2.4624319'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15175' visible='true' lat='36.8358377' lon='-2.4623063'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15174' visible='true' lat='36.8358929' lon='-2.4630609'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15172' visible='true' lat='36.8368599' lon='-2.4637354' />
+  <node id='-15169' visible='true' lat='36.8366927' lon='-2.4630319'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15168' visible='true' lat='36.8362586' lon='-2.4629559'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15167' visible='true' lat='36.8360889' lon='-2.4630904'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15166' visible='true' lat='36.8357528' lon='-2.4617151'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15164' visible='true' lat='36.8361212' lon='-2.4630888'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15163' visible='true' lat='36.8358799' lon='-2.4629064'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15162' visible='true' lat='36.8371047' lon='-2.4631064'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15161' visible='true' lat='36.835762' lon='-2.4628893'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15160' visible='true' lat='36.8356964' lon='-2.4624869'>
+    <tag k='amenity' v='bar' />
+    <tag k='designation' v='Restauarnt &amp; Cocktail Bar' />
+    <tag k='name' v='Bagua' />
+  </node>
+  <node id='-15159' visible='true' lat='36.8361455' lon='-2.4628683' />
+  <node id='-15158' visible='true' lat='36.8389546' lon='-2.4601806' />
+  <node id='-15157' visible='true' lat='36.8369814' lon='-2.4630787'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15156' visible='true' lat='36.8392172' lon='-2.4600048' />
+  <node id='-15155' visible='true' lat='36.8369082' lon='-2.4632839' />
+  <node id='-15154' visible='true' lat='36.8364581' lon='-2.4632357'>
+    <tag k='building' v='public' />
+    <tag k='name' v='Hacienda' />
+  </node>
+  <node id='-15152' visible='true' lat='36.836553' lon='-2.4631586'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15151' visible='true' lat='36.8362325' lon='-2.4645589' />
+  <node id='-15150' visible='true' lat='36.8350027' lon='-2.4651481' />
+  <node id='-15149' visible='true' lat='36.8361751' lon='-2.4621318' />
+  <node id='-15146' visible='true' lat='36.8380928' lon='-2.4644606' />
+  <node id='-15145' visible='true' lat='36.8359912' lon='-2.461564'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15144' visible='true' lat='36.8360263' lon='-2.4629265'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15143' visible='true' lat='36.8359943' lon='-2.4611282' />
+  <node id='-15142' visible='true' lat='36.8355132' lon='-2.4627245' />
+  <node id='-15141' visible='true' lat='36.8346481' lon='-2.4644888' />
+  <node id='-15140' visible='true' lat='36.8363669' lon='-2.4631322'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15139' visible='true' lat='36.8373878' lon='-2.464521' />
+  <node id='-15138' visible='true' lat='36.8360834' lon='-2.4629451'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15137' visible='true' lat='36.8377513' lon='-2.4648044' />
+  <node id='-15135' visible='true' lat='36.8374478' lon='-2.4633087'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15133' visible='true' lat='36.8374524' lon='-2.4645925' />
+  <node id='-15132' visible='true' lat='36.8341953' lon='-2.4648644'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-15131' visible='true' lat='36.8361466' lon='-2.4609725' />
+  <node id='-15130' visible='true' lat='36.8378739' lon='-2.4645512' />
+  <node id='-15129' visible='true' lat='36.8372107' lon='-2.4632795'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15128' visible='true' lat='36.8358715' lon='-2.4616418'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15127' visible='true' lat='36.8370357' lon='-2.4632408'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15126' visible='true' lat='36.8412826' lon='-2.4586221' />
+  <node id='-15124' visible='true' lat='36.836012' lon='-2.463078'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15123' visible='true' lat='36.8358203' lon='-2.46288'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15122' visible='true' lat='36.8377689' lon='-2.4633602'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15121' visible='true' lat='36.8375084' lon='-2.4633285'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15120' visible='true' lat='36.8361031' lon='-2.4611109' />
+  <node id='-15119' visible='true' lat='36.8377335' lon='-2.4645961' />
+  <node id='-15118' visible='true' lat='36.8356205' lon='-2.4616522' />
+  <node id='-15116' visible='true' lat='36.8363872' lon='-2.4629816'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15115' visible='true' lat='36.8366848' lon='-2.4632487'>
+    <tag k='name' v='Hotel Costasol' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-15114' visible='true' lat='36.8354642' lon='-2.462588' />
+  <node id='-15113' visible='true' lat='36.8381834' lon='-2.463429'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15112' visible='true' lat='36.8368525' lon='-2.4640266' />
+  <node id='-15111' visible='true' lat='36.8373149' lon='-2.4646256' />
+  <node id='-15110' visible='true' lat='36.8361179' lon='-2.4614806'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15109' visible='true' lat='36.8357086' lon='-2.4628738'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15108' visible='true' lat='36.8356264' lon='-2.4616744' />
+  <node id='-15107' visible='true' lat='36.8371694' lon='-2.4647382' />
+  <node id='-15106' visible='true' lat='36.8368636' lon='-2.4637348' />
+  <node id='-15105' visible='true' lat='36.8363098' lon='-2.4631291'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15104' visible='true' lat='36.8377029' lon='-2.4633509'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15103' visible='true' lat='36.8359055' lon='-2.4631771'>
+    <tag k='building' v='public' />
+    <tag k='name' v='Junta de Andalucía' />
+  </node>
+  <node id='-15101' visible='true' lat='36.8383305' lon='-2.4605984' />
+  <node id='-15099' visible='true' lat='36.8361783' lon='-2.4611406' />
+  <node id='-15098' visible='true' lat='36.8360697' lon='-2.4621513'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15093' visible='true' lat='36.8446591' lon='-2.4582801' />
+  <node id='-15090' visible='true' lat='36.8360603' lon='-2.4615209'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15089' visible='true' lat='36.8370928' lon='-2.4632516'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15088' visible='true' lat='36.8414037' lon='-2.458541' />
+  <node id='-15087' visible='true' lat='36.8368451' lon='-2.4643033' />
+  <node id='-15086' visible='true' lat='36.8361151' lon='-2.4628355'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='name' v='Cajamar' />
+  </node>
+  <node id='-15085' visible='true' lat='36.8366331' lon='-2.4630211'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15084' visible='true' lat='36.8437705' lon='-2.4578295' />
+  <node id='-15083' visible='true' lat='36.8371704' lon='-2.4631095'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15082' visible='true' lat='36.838184' lon='-2.462622'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='La Tahona' />
+  </node>
+  <node id='-15081' visible='true' lat='36.840856' lon='-2.4589077' />
+  <node id='-15080' visible='true' lat='36.837476' lon='-2.4647507' />
+  <node id='-15079' visible='true' lat='36.8357293' lon='-2.461232' />
+  <node id='-15078' visible='true' lat='36.8393118' lon='-2.4599415' />
+  <node id='-15076' visible='true' lat='36.835737' lon='-2.4624584' />
+  <node id='-15073' visible='true' lat='36.8357748' lon='-2.4615657' />
+  <node id='-15072' visible='true' lat='36.836452' lon='-2.462987'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15071' visible='true' lat='36.8378102' lon='-2.4622277' />
+  <node id='-15070' visible='true' lat='36.8406542' lon='-2.4637314' />
+  <node id='-15069' visible='true' lat='36.8369427' lon='-2.4647871' />
+  <node id='-15068' visible='true' lat='36.8361387' lon='-2.4610467' />
+  <node id='-15067' visible='true' lat='36.8359537' lon='-2.463078'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15066' visible='true' lat='36.8358585' lon='-2.4619705' />
+  <node id='-15065' visible='true' lat='36.8369361' lon='-2.4647956' />
+  <node id='-15063' visible='true' lat='36.8380581' lon='-2.4639155' />
+  <node id='-15062' visible='true' lat='36.8354717' lon='-2.4626528' />
+  <node id='-15061' visible='true' lat='36.8393529' lon='-2.4595783' />
+  <node id='-15060' visible='true' lat='36.8366275' lon='-2.4631756'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15059' visible='true' lat='36.8392897' lon='-2.4624706' />
+  <node id='-15058' visible='true' lat='36.8361119' lon='-2.4638217' />
+  <node id='-15056' visible='true' lat='36.8374278' lon='-2.4634855'>
+    <tag k='amenity' v='bank' />
+    <tag k='name' v='Deutsche Bank' />
+    <tag k='operator' v='Deutsche Bank' />
+  </node>
+  <node id='-15055' visible='true' lat='36.8358559' lon='-2.4615286' />
+  <node id='-15054' visible='true' lat='36.8341664' lon='-2.4631135' />
+  <node id='-15053' visible='true' lat='36.8373185' lon='-2.4633569' />
+  <node id='-15052' visible='true' lat='36.8370636' lon='-2.462799' />
+  <node id='-15051' visible='true' lat='36.8371881' lon='-2.4629519' />
+  <node id='-15050' visible='true' lat='36.8362129' lon='-2.4621394' />
+  <node id='-15049' visible='true' lat='36.8525964' lon='-2.4693094' />
+  <node id='-15048' visible='true' lat='36.8461316' lon='-2.4592672' />
+  <node id='-15047' visible='true' lat='36.8358333' lon='-2.4630562'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15045' visible='true' lat='36.83634' lon='-2.4608328' />
+  <node id='-15044' visible='true' lat='36.8376101' lon='-2.4613939' />
+  <node id='-15043' visible='true' lat='36.8356973' lon='-2.4627938' />
+  <node id='-15042' visible='true' lat='36.8331632' lon='-2.4637448' />
+  <node id='-15041' visible='true' lat='36.8373084' lon='-2.4646229' />
+  <node id='-15040' visible='true' lat='36.8363773' lon='-2.4628514'>
+    <tag k='name' v='Stradivarius' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='-15039' visible='true' lat='36.8370203' lon='-2.4630847'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15038' visible='true' lat='36.8393957' lon='-2.4598853'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-15037' visible='true' lat='36.845595' lon='-2.4589453' />
+  <node id='-15036' visible='true' lat='36.8379182' lon='-2.4643859' />
+  <node id='-15035' visible='true' lat='36.8525268' lon='-2.4691184' />
+  <node id='-15034' visible='true' lat='36.8375759' lon='-2.463331'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15033' visible='true' lat='36.8361454' lon='-2.4620924'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15032' visible='true' lat='36.8382201' lon='-2.4606723' />
+  <node id='-15030' visible='true' lat='36.8376414' lon='-2.4607851' />
+  <node id='-15029' visible='true' lat='36.8373042' lon='-2.4645496' />
+  <node id='-15028' visible='true' lat='36.8352082' lon='-2.4641146' />
+  <node id='-15027' visible='true' lat='36.8376058' lon='-2.4610836' />
+  <node id='-15026' visible='true' lat='36.8355386' lon='-2.4619426' />
+  <node id='-15025' visible='true' lat='36.8364376' lon='-2.4631431'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15024' visible='true' lat='36.8414324' lon='-2.4638206' />
+  <node id='-15023' visible='true' lat='36.8377688' lon='-2.463517'>
+    <tag k='amenity' v='bank' />
+    <tag k='name' v='Santander' />
+    <tag k='operator' v='Santander Bank' />
+  </node>
+  <node id='-15022' visible='true' lat='36.8403327' lon='-2.459258' />
+  <node id='-15021' visible='true' lat='36.8378876' lon='-2.4633782'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15020' visible='true' lat='36.8361484' lon='-2.462937'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15019' visible='true' lat='36.8357148' lon='-2.4623963'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15018' visible='true' lat='36.8410306' lon='-2.4584915' />
+  <node id='-15017' visible='true' lat='36.8361661' lon='-2.4624878'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Cuentavinos' />
+  </node>
+  <node id='-15016' visible='true' lat='36.837108' lon='-2.464459'>
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-15015' visible='true' lat='36.8368515' lon='-2.4640287' />
+  <node id='-15014' visible='true' lat='36.8375177' lon='-2.4611425' />
+  <way id='-15229' visible='true'>
+    <nd ref='-15294' />
+    <nd ref='-15233' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle General Segura' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15228' visible='true'>
+    <nd ref='-15065' />
+    <nd ref='-15352' />
+    <nd ref='-15172' />
+    <nd ref='-15253' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle General Tamayo' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-15223' visible='true'>
+    <nd ref='-15146' />
+    <nd ref='-15210' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Bordiú' />
+  </way>
+  <way id='-15222' visible='true'>
+    <nd ref='-15352' />
+    <nd ref='-15242' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Martínez Campos' />
+  </way>
+  <way id='-15221' visible='true'>
+    <nd ref='-15355' />
+    <nd ref='-15114' />
+    <nd ref='-15218' />
+    <nd ref='-15062' />
+    <nd ref='-15356' />
+    <nd ref='-15142' />
+    <nd ref='-15215' />
+    <nd ref='-15043' />
+    <nd ref='-15076' />
+    <nd ref='-15355' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Casa de los Telamones' />
+  </way>
+  <way id='-15220' visible='true'>
+    <nd ref='-15251' />
+    <nd ref='-15256' />
+    <nd ref='-15063' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lachambre' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15203' visible='true'>
+    <nd ref='-15355' />
+    <nd ref='-15076' />
+    <nd ref='-15043' />
+    <nd ref='-15159' />
+    <nd ref='-15050' />
+    <nd ref='-15149' />
+    <nd ref='-15189' />
+    <nd ref='-15355' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-15201' visible='true'>
+    <nd ref='-15242' />
+    <nd ref='-15243' />
+    <nd ref='-15257' />
+    <nd ref='-15053' />
+    <nd ref='-15293' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='motor_vehicle' v='no' />
+    <tag k='name' v='Calle Poeta Villaespesa' />
+  </way>
+  <way id='-15200' visible='true'>
+    <nd ref='-15132' />
+    <nd ref='-15354' />
+    <nd ref='-15141' />
+    <nd ref='-15028' />
+    <nd ref='-15278' />
+    <nd ref='-15058' />
+    <nd ref='-15172' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Arapiles' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15198' visible='true'>
+    <nd ref='-15244' />
+    <nd ref='-15112' />
+    <nd ref='-15106' />
+    <nd ref='-15155' />
+    <nd ref='-15178' />
+    <nd ref='-15244' />
+    <tag k='amenity' v='theatre' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Teatro Cervantes' />
+  </way>
+  <way id='-15190' visible='true'>
+    <nd ref='-15352' />
+    <nd ref='-15151' />
+    <nd ref='-15279' />
+    <nd ref='-15353' />
+    <nd ref='-15150' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Martínez Campos' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15188' visible='true'>
+    <nd ref='-15058' />
+    <nd ref='-15294' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle General Segura' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15186' visible='true'>
+    <nd ref='-15252' />
+    <nd ref='-15071' />
+    <nd ref='-15044' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Rueda López' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15183' visible='true'>
+    <nd ref='-15137' />
+    <nd ref='-15351' />
+    <nd ref='-15177' />
+    <nd ref='-15324' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Dalia' />
+  </way>
+  <way id='-15173' visible='true'>
+    <nd ref='-15275' />
+    <nd ref='-15231' />
+    <nd ref='-15036' />
+    <nd ref='-15130' />
+    <nd ref='-15119' />
+    <nd ref='-15137' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Dalia' />
+  </way>
+  <way id='-15171' visible='true'>
+    <nd ref='-15233' />
+    <nd ref='-15255' />
+    <nd ref='-15071' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Marqués de Comillas' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15170' visible='true'>
+    <nd ref='-15088' />
+    <nd ref='-15126' />
+    <nd ref='-15081' />
+    <nd ref='-15022' />
+    <nd ref='-15347' />
+    <nd ref='-15038' />
+    <nd ref='-15078' />
+    <nd ref='-15156' />
+    <nd ref='-15348' />
+    <nd ref='-15158' />
+    <nd ref='-15349' />
+    <nd ref='-15101' />
+    <nd ref='-15032' />
+    <nd ref='-15027' />
+    <nd ref='-15014' />
+    <nd ref='-15232' />
+    <nd ref='-15233' />
+    <nd ref='-15234' />
+    <nd ref='-15350' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida de Federico García Lorca' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15165' visible='true'>
+    <nd ref='-15254' />
+    <nd ref='-15252' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Reyes Católicos' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15153' visible='true'>
+    <nd ref='-15108' />
+    <nd ref='-15073' />
+    <nd ref='-15338' />
+    <nd ref='-15339' />
+    <nd ref='-15340' />
+    <nd ref='-15341' />
+    <nd ref='-15055' />
+    <nd ref='-15342' />
+    <nd ref='-15045' />
+    <nd ref='-15131' />
+    <nd ref='-15068' />
+    <nd ref='-15099' />
+    <nd ref='-15343' />
+    <nd ref='-15120' />
+    <nd ref='-15344' />
+    <nd ref='-15143' />
+    <nd ref='-15345' />
+    <nd ref='-15079' />
+    <nd ref='-15346' />
+    <nd ref='-15118' />
+    <nd ref='-15108' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-15148' visible='true'>
+    <nd ref='-15334' />
+    <nd ref='-15069' />
+    <nd ref='-15087' />
+    <nd ref='-15335' />
+    <nd ref='-15139' />
+    <nd ref='-15336' />
+    <nd ref='-15041' />
+    <nd ref='-15337' />
+    <nd ref='-15334' />
+    <tag k='addr:city' v='Almería' />
+    <tag k='addr:postcode' v='04001' />
+    <tag k='addr:street' v='Plaza Pablo Cazard' />
+    <tag k='amenity' v='college' />
+    <tag k='building' v='school' />
+    <tag k='name' v='Escuela de Bellas Artes' />
+    <tag k='phone' v='+34950156158' />
+    <tag k='website' v='http://www.andalucia.org/es/turismo-cultural/visitas/almeria/otras-visitas/escuela-de-arte-de-almeria/' />
+  </way>
+  <way id='-15147' visible='true'>
+    <nd ref='-15332' />
+    <nd ref='-15324' />
+    <nd ref='-15333' />
+    <nd ref='-15146' />
+    <nd ref='-15246' />
+    <nd ref='-15230' />
+    <nd ref='-15063' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Trajano' />
+  </way>
+  <way id='-15136' visible='true'>
+    <nd ref='-15325' />
+    <nd ref='-15326' />
+    <nd ref='-15107' />
+    <nd ref='-15327' />
+    <nd ref='-15111' />
+    <nd ref='-15029' />
+    <nd ref='-15328' />
+    <nd ref='-15329' />
+    <nd ref='-15133' />
+    <nd ref='-15080' />
+    <nd ref='-15330' />
+    <nd ref='-15331' />
+    <nd ref='-15325' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='church' />
+    <tag k='denomination' v='catholic' />
+    <tag k='name' v='Parroquia Virgen del Mar' />
+    <tag k='religion' v='christian' />
+  </way>
+  <way id='-15134' visible='true'>
+    <nd ref='-15323' />
+    <nd ref='-15324' />
+    <tag k='highway' v='residential' />
+    <tag k='motor_vehicle' v='no' />
+    <tag k='name' v='Calle San Pedro' />
+  </way>
+  <way id='-15125' visible='true'>
+    <nd ref='-15293' />
+    <nd ref='-15053' />
+    <nd ref='-15257' />
+    <tag k='name' v='Paseo de la Fama de Almería' />
+    <tag k='tourism' v='attraction' />
+  </way>
+  <way id='-15117' visible='true'>
+    <nd ref='-15320' />
+    <nd ref='-15059' />
+    <nd ref='-15321' />
+    <nd ref='-15322' />
+    <nd ref='-15258' />
+    <nd ref='-15252' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Reyes Católicos' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-15100' visible='true'>
+    <nd ref='-15296' />
+    <nd ref='-15297' />
+    <nd ref='-15298' />
+    <nd ref='-15049' />
+    <nd ref='-15035' />
+    <nd ref='-15299' />
+    <nd ref='-15300' />
+    <nd ref='-15301' />
+    <nd ref='-15302' />
+    <nd ref='-15303' />
+    <nd ref='-15304' />
+    <nd ref='-15305' />
+    <nd ref='-15306' />
+    <nd ref='-15307' />
+    <nd ref='-15308' />
+    <nd ref='-15309' />
+    <nd ref='-15310' />
+    <nd ref='-15311' />
+    <nd ref='-15312' />
+    <nd ref='-15048' />
+    <nd ref='-15037' />
+    <nd ref='-15093' />
+    <nd ref='-15313' />
+    <nd ref='-15084' />
+    <nd ref='-15314' />
+    <nd ref='-15315' />
+    <nd ref='-15316' />
+    <nd ref='-15317' />
+    <nd ref='-15018' />
+    <nd ref='-15061' />
+    <nd ref='-15318' />
+    <nd ref='-15030' />
+    <nd ref='-15066' />
+    <nd ref='-15054' />
+    <nd ref='-15042' />
+    <tag k='culvert' v='yes' />
+    <tag k='layer' v='-5' />
+    <tag k='name' v='Rambla de Belén' />
+    <tag k='waterway' v='stream' />
+    <tag k='wikipedia' v='es:Rambla de Belén' />
+  </way>
+  <way id='-15097' visible='true'>
+    <nd ref='-15284' />
+    <nd ref='-15285' />
+    <nd ref='-15286' />
+    <nd ref='-15024' />
+    <nd ref='-15287' />
+    <nd ref='-15288' />
+    <nd ref='-15070' />
+    <nd ref='-15289' />
+    <nd ref='-15290' />
+    <nd ref='-15291' />
+    <nd ref='-15292' />
+    <nd ref='-15251' />
+    <nd ref='-15293' />
+    <nd ref='-15253' />
+    <nd ref='-15294' />
+    <nd ref='-15295' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Paseo de Almería' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15096' visible='true'>
+    <nd ref='-15276' />
+    <nd ref='-15277' />
+    <nd ref='-15278' />
+    <nd ref='-15279' />
+    <nd ref='-15280' />
+    <nd ref='-15281' />
+    <nd ref='-15282' />
+    <nd ref='-15283' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Gerona' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15095' visible='true'>
+    <nd ref='-15274' />
+    <nd ref='-15256' />
+    <nd ref='-15257' />
+    <nd ref='-15243' />
+    <nd ref='-15242' />
+    <nd ref='-15275' />
+    <nd ref='-15274' />
+    <tag k='area' v='yes' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Plaza Marqués de Heredia' />
+  </way>
+  <way id='-15094' visible='true'>
+    <nd ref='-15260' />
+    <nd ref='-15261' />
+    <nd ref='-15262' />
+    <nd ref='-15263' />
+    <nd ref='-15264' />
+    <nd ref='-15051' />
+    <nd ref='-15265' />
+    <nd ref='-15266' />
+    <nd ref='-15267' />
+    <nd ref='-15268' />
+    <nd ref='-15052' />
+    <nd ref='-15269' />
+    <nd ref='-15270' />
+    <nd ref='-15271' />
+    <nd ref='-15272' />
+    <nd ref='-15273' />
+    <nd ref='-15260' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-15092' visible='true'>
+    <nd ref='-15258' />
+    <nd ref='-15259' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Padre Santaella' />
+  </way>
+  <way id='-15091' visible='true'>
+    <nd ref='-15256' />
+    <nd ref='-15257' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Martínez Campos' />
+  </way>
+  <way id='-15077' visible='true'>
+    <nd ref='-15253' />
+    <nd ref='-15254' />
+    <nd ref='-15255' />
+    <nd ref='-15232' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle General Tamayo' />
+    <tag k='oneway' v='-1' />
+  </way>
+  <way id='-15075' visible='true'>
+    <nd ref='-15251' />
+    <nd ref='-15252' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Rueda López' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15074' visible='true'>
+    <nd ref='-15063' />
+    <nd ref='-15249' />
+    <nd ref='-15250' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Conde Ofalia' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-15064' visible='true'>
+    <nd ref='-15246' />
+    <nd ref='-15247' />
+    <nd ref='-15248' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Calle Sócrates' />
+  </way>
+  <way id='-15057' visible='true'>
+    <nd ref='-15242' />
+    <nd ref='-15243' />
+    <nd ref='-15244' />
+    <nd ref='-15015' />
+    <nd ref='-15245' />
+    <nd ref='-15242' />
+    <tag k='area' v='yes' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='name' v='Plaza Pablo Lázaro' />
+  </way>
+  <way id='-15046' visible='true'>
+    <nd ref='-15032' />
+    <nd ref='-15027' />
+    <nd ref='-15014' />
+    <nd ref='-15232' />
+    <nd ref='-15233' />
+    <nd ref='-15234' />
+    <nd ref='-15235' />
+    <nd ref='-15236' />
+    <nd ref='-15237' />
+    <nd ref='-15026' />
+    <nd ref='-15238' />
+    <nd ref='-15239' />
+    <nd ref='-15240' />
+    <nd ref='-15241' />
+    <nd ref='-15032' />
+    <tag k='leisure' v='common' />
+  </way>
+  <way id='-15031' visible='true'>
+    <nd ref='-15230' />
+    <nd ref='-15231' />
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <relation id='-15202' visible='true'>
+    <member type='node' ref='-15319' role='platform' />
+    <member type='way' ref='-15097' role='forward' />
+    <tag k='name' v='Zapillo - Universidad - Nueva Andalucía' />
+    <tag k='ref' v='11' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-15102' visible='true'>
+    <member type='node' ref='-15319' role='stop' />
+    <member type='way' ref='-15097' role='forward' />
+    <tag k='colour' v='black' />
+    <tag k='name' v='Casco Histórico' />
+    <tag k='operator' v='SURBUS' />
+    <tag k='ref' v='1' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+    <tag k='wheelchair' v='yes' />
+  </relation>
+</osm>

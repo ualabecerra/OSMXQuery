@@ -1,0 +1,718 @@
+<osm version="0.6" upload="true" generator="JOSM">
+  <node id="-794" visible="true" lat="36.8395896" lon="-2.4512581"/>
+  <node id="-792" visible="true" lat="36.8404835" lon="-2.4514186"/>
+  <way id="-1922" visible="true">
+    <nd ref="-794"/>
+    <nd ref="-792"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Calle Poeta Blas Otero"/>
+  </way>
+  <node id="-1052" visible="true" lat="36.8409571" lon="-2.4532755"/>
+  <node id="-1236" visible="true" lat="36.8409231" lon="-2.4534691"/>
+  <node id="-944" visible="true" lat="36.8408513" lon="-2.4536155"/>
+  <node id="-1132" visible="true" lat="36.8407303" lon="-2.4537241"/>
+  <node id="-928" visible="true" lat="36.8403456" lon="-2.4538975"/>
+  <node id="-1344" visible="true" lat="36.8404351" lon="-2.4528856"/>
+  <node id="-154" visible="true" lat="36.8404968" lon="-2.4521883"/>
+  <node id="-1066" visible="true" lat="36.8406321" lon="-2.4506594"/>
+  <node id="-1548" visible="true" lat="36.8407681" lon="-2.450683"/>
+  <node id="-58" visible="true" lat="36.8408303" lon="-2.450173"/>
+  <node id="-1026" visible="true" lat="36.8408815" lon="-2.4497528"/>
+  <node id="-1418" visible="true" lat="36.841146" lon="-2.4498"/>
+  <node id="-1008" visible="true" lat="36.8410138" lon="-2.4510041"/>
+  <node id="-1366" visible="true" lat="36.8409155" lon="-2.4509947"/>
+  <node id="-980" visible="true" lat="36.8408664" lon="-2.4514575"/>
+  <node id="-1264" visible="true" lat="36.8409609" lon="-2.4514622"/>
+  <node id="-952" visible="true" lat="36.8408437" lon="-2.4525672"/>
+  <node id="-1154" visible="true" lat="36.8407795" lon="-2.452553"/>
+  <node id="-932" visible="true" lat="36.8407001" lon="-2.453233"/>
+  <node id="-1052" visible="true" lat="36.8409571" lon="-2.4532755"/>
+  <way id="-1680" visible="true">
+    <nd ref="-1052"/>
+    <nd ref="-1236"/>
+    <nd ref="-944"/>
+    <nd ref="-1132"/>
+    <nd ref="-928"/>
+    <nd ref="-1344"/>
+    <nd ref="-154"/>
+    <nd ref="-1066"/>
+    <nd ref="-1548"/>
+    <nd ref="-58"/>
+    <nd ref="-1026"/>
+    <nd ref="-1418"/>
+    <nd ref="-1008"/>
+    <nd ref="-1366"/>
+    <nd ref="-980"/>
+    <nd ref="-1264"/>
+    <nd ref="-952"/>
+    <nd ref="-1154"/>
+    <nd ref="-932"/>
+    <nd ref="-1052"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Parque de San Isidro"/>
+  </way>
+  <node id="-2321" action="modify" visible="true" lat="36.84120964233" lon="-2.45120945173">
+    <tag k="addr:housename" v="Blas Infante"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="04005"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="NUEVA ANDALUCIA"/>
+  </node>
+  <node id="-1006" visible="true" lat="36.8395965" lon="-2.4505854"/>
+  <node id="-1296" visible="true" lat="36.8398502" lon="-2.4506289"/>
+  <node id="-438" visible="true" lat="36.8399573" lon="-2.4506472"/>
+  <node id="-1274" visible="true" lat="36.8403517" lon="-2.450712"/>
+  <node id="-1534" visible="true" lat="36.8404513" lon="-2.4507306">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <way id="-1764" visible="true">
+    <nd ref="-1006"/>
+    <nd ref="-1296"/>
+    <nd ref="-438"/>
+    <nd ref="-1274"/>
+    <nd ref="-1534"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Catedrático Ignacio Cubillas"/>
+  </way>
+  <node id="-1416" visible="true" lat="36.8410435" lon="-2.4536619"/>
+  <node id="-1546" visible="true" lat="36.8412079" lon="-2.4522582"/>
+  <node id="-568" visible="true" lat="36.8413017" lon="-2.4514147"/>
+  <node id="-474" visible="true" lat="36.841385" lon="-2.4506663"/>
+  <node id="-1246" visible="true" lat="36.841428" lon="-2.4502789"/>
+  <node id="-472" visible="true" lat="36.8414807" lon="-2.4498055"/>
+  <way id="-1876" visible="true">
+    <nd ref="-1416"/>
+    <nd ref="-1546"/>
+    <nd ref="-568"/>
+    <nd ref="-474"/>
+    <nd ref="-1246"/>
+    <nd ref="-472"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Blas Infante"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-1632" visible="true" lat="36.849285" lon="-2.4530232"/>
+  <node id="-1634" visible="true" lat="36.8491013" lon="-2.4530405"/>
+  <node id="-1636" visible="true" lat="36.8488285" lon="-2.4530322"/>
+  <node id="-1638" visible="true" lat="36.8485811" lon="-2.4529746"/>
+  <node id="-1640" visible="true" lat="36.8483568" lon="-2.4529097"/>
+  <node id="-1642" visible="true" lat="36.8481136" lon="-2.4528206"/>
+  <node id="-1644" visible="true" lat="36.847621" lon="-2.4526489"/>
+  <node id="-1646" visible="true" lat="36.8475065" lon="-2.452611"/>
+  <node id="-1648" visible="true" lat="36.8474205" lon="-2.4525917"/>
+  <node id="-1650" visible="true" lat="36.8470783" lon="-2.452574"/>
+  <node id="-1652" visible="true" lat="36.8468114" lon="-2.4526091"/>
+  <node id="-1654" visible="true" lat="36.8463883" lon="-2.4526911"/>
+  <node id="-1656" visible="true" lat="36.8461595" lon="-2.4527171"/>
+  <node id="-1658" visible="true" lat="36.8459533" lon="-2.4527047"/>
+  <node id="-1660" visible="true" lat="36.8456245" lon="-2.4525807"/>
+  <node id="-1662" visible="true" lat="36.8456101" lon="-2.4525671"/>
+  <node id="-1664" visible="true" lat="36.8453586" lon="-2.4524722"/>
+  <node id="-1666" visible="true" lat="36.8452578" lon="-2.452442"/>
+  <node id="-1668" visible="true" lat="36.8451405" lon="-2.4524039"/>
+  <node id="-1670" visible="true" lat="36.8448211" lon="-2.4523463"/>
+  <node id="-1672" visible="true" lat="36.8445295" lon="-2.4523401"/>
+  <node id="-764" visible="true" lat="36.8445295" lon="-2.4523401"/>
+  <node id="-762" visible="true" lat="36.8442886" lon="-2.4523673"/>
+  <node id="-1460" visible="true" lat="36.844138" lon="-2.4524049"/>
+  <node id="-760" visible="true" lat="36.8440093" lon="-2.452427"/>
+  <node id="-758" visible="true" lat="36.8437509" lon="-2.4524767"/>
+  <node id="-756" visible="true" lat="36.843439" lon="-2.4525623"/>
+  <node id="-754" visible="true" lat="36.8430819" lon="-2.4526838"/>
+  <node id="-752" visible="true" lat="36.8429366" lon="-2.4527379"/>
+  <node id="-750" visible="true" lat="36.8425099" lon="-2.4529168"/>
+  <node id="-748" visible="true" lat="36.8422133" lon="-2.4530412"/>
+  <node id="-746" visible="true" lat="36.8417431" lon="-2.4532817"/>
+  <node id="-1416" visible="true" lat="36.8410435" lon="-2.4536619"/>
+  <node id="-744" visible="true" lat="36.84091" lon="-2.4537503"/>
+  <node id="-742" visible="true" lat="36.8405641" lon="-2.4539678"/>
+  <node id="-740" visible="true" lat="36.8402032" lon="-2.4541732"/>
+  <node id="-738" visible="true" lat="36.8397242" lon="-2.4544423"/>
+  <node id="-736" visible="true" lat="36.8396764" lon="-2.4544749"/>
+  <node id="-734" visible="true" lat="36.8387685" lon="-2.4550117"/>
+  <node id="-732" visible="true" lat="36.8382084" lon="-2.45535"/>
+  <node id="-730" visible="true" lat="36.8377069" lon="-2.4556232"/>
+  <node id="-728" visible="true" lat="36.8374545" lon="-2.4557743"/>
+  <node id="-726" visible="true" lat="36.8367762" lon="-2.4561739"/>
+  <way id="-1946" visible="true">
+    <nd ref="-1632"/>
+    <nd ref="-1634"/>
+    <nd ref="-1636"/>
+    <nd ref="-1638"/>
+    <nd ref="-1640"/>
+    <nd ref="-1642"/>
+    <nd ref="-1644"/>
+    <nd ref="-1646"/>
+    <nd ref="-1648"/>
+    <nd ref="-1650"/>
+    <nd ref="-1652"/>
+    <nd ref="-1654"/>
+    <nd ref="-1656"/>
+    <nd ref="-1658"/>
+    <nd ref="-1660"/>
+    <nd ref="-1662"/>
+    <nd ref="-1664"/>
+    <nd ref="-1666"/>
+    <nd ref="-1668"/>
+    <nd ref="-1670"/>
+    <nd ref="-1672"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carretera de Ronda"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="-1914" visible="true">
+    <nd ref="-764"/>
+    <nd ref="-762"/>
+    <nd ref="-1460"/>
+    <nd ref="-760"/>
+    <nd ref="-758"/>
+    <nd ref="-756"/>
+    <nd ref="-754"/>
+    <nd ref="-752"/>
+    <nd ref="-750"/>
+    <nd ref="-748"/>
+    <nd ref="-746"/>
+    <nd ref="-1416"/>
+    <nd ref="-744"/>
+    <nd ref="-742"/>
+    <nd ref="-740"/>
+    <nd ref="-738"/>
+    <nd ref="-736"/>
+    <nd ref="-734"/>
+    <nd ref="-732"/>
+    <nd ref="-730"/>
+    <nd ref="-728"/>
+    <nd ref="-726"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carretera de Ronda"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <node id="-2291" action="modify" visible="true" lat="36.84186326623" lon="-2.4557899573">
+    <tag k="addr:housename" v="Doctor Carracido"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="04005"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="DOCTOR CARRACIDO"/>
+  </node>
+  <node id="-42" visible="true" lat="36.8409512" lon="-2.4574724"/>
+  <node id="-1328" visible="true" lat="36.8406801" lon="-2.4568447"/>
+  <node id="-988" visible="true" lat="36.8401437" lon="-2.4555718"/>
+  <node id="-736" visible="true" lat="36.8396764" lon="-2.4544749"/>
+  <way id="-1746" visible="true">
+    <nd ref="-42"/>
+    <nd ref="-1328"/>
+    <nd ref="-988"/>
+    <nd ref="-736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Poeta Paco Aquino"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-1002" visible="true" lat="36.8420997" lon="-2.4542997"/>
+  <node id="-1484" visible="true" lat="36.8413659" lon="-2.4547769"/>
+  <node id="-214" visible="true" lat="36.841009" lon="-2.4550091"/>
+  <node id="-1314" visible="true" lat="36.8406516" lon="-2.4552415"/>
+  <node id="-988" visible="true" lat="36.8401437" lon="-2.4555718"/>
+  <node id="-1424" visible="true" lat="36.8394419" lon="-2.4560283"/>
+  <node id="-1032" visible="true" lat="36.8391957" lon="-2.4561884"/>
+  <node id="-1558" visible="true" lat="36.8386916" lon="-2.4565162"/>
+  <node id="-1016" visible="true" lat="36.8379747" lon="-2.4569825"/>
+  <way id="-1710" visible="true">
+    <nd ref="-1002"/>
+    <nd ref="-1484"/>
+    <nd ref="-214"/>
+    <nd ref="-1314"/>
+    <nd ref="-988"/>
+    <nd ref="-1424"/>
+    <nd ref="-1032"/>
+    <nd ref="-1558"/>
+    <nd ref="-1016"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Hermanos Pinzón"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-742" visible="true" lat="36.8405641" lon="-2.4539678"/>
+  <node id="-214" visible="true" lat="36.841009" lon="-2.4550091"/>
+  <node id="-212" visible="true" lat="36.8415756" lon="-2.4562504"/>
+  <way id="-1814" visible="true">
+    <nd ref="-742"/>
+    <nd ref="-214"/>
+    <nd ref="-212"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Doctor Barraquer"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-104" visible="true" lat="36.8411956" lon="-2.4565026"/>
+  <node id="-1314" visible="true" lat="36.8406516" lon="-2.4552415"/>
+  <node id="-740" visible="true" lat="36.8402032" lon="-2.4541732"/>
+  <way id="-1788" visible="true">
+    <nd ref="-104"/>
+    <nd ref="-1314"/>
+    <nd ref="-740"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Cardenal Herrera Oria"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-1090" visible="true" lat="36.8424744" lon="-2.4574174"/>
+  <node id="-1024" visible="true" lat="36.8424259" lon="-2.4572307"/>
+  <node id="-1176" visible="true" lat="36.8419131" lon="-2.4560264"/>
+  <node id="-1484" visible="true" lat="36.8413659" lon="-2.4547769"/>
+  <node id="-40" visible="true" lat="36.8411578" lon="-2.4543321"/>
+  <node id="-744" visible="true" lat="36.84091" lon="-2.4537503"/>
+  <way id="-1734" visible="true">
+    <nd ref="-1090"/>
+    <nd ref="-1024"/>
+    <nd ref="-1176"/>
+    <nd ref="-1484"/>
+    <nd ref="-40"/>
+    <nd ref="-744"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Doctor Carracido"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-1632" visible="true" lat="36.849285" lon="-2.4530232"/>
+  <node id="-1634" visible="true" lat="36.8491013" lon="-2.4530405"/>
+  <node id="-1636" visible="true" lat="36.8488285" lon="-2.4530322"/>
+  <node id="-1638" visible="true" lat="36.8485811" lon="-2.4529746"/>
+  <node id="-1640" visible="true" lat="36.8483568" lon="-2.4529097"/>
+  <node id="-1642" visible="true" lat="36.8481136" lon="-2.4528206"/>
+  <node id="-1644" visible="true" lat="36.847621" lon="-2.4526489"/>
+  <node id="-1646" visible="true" lat="36.8475065" lon="-2.452611"/>
+  <node id="-1648" visible="true" lat="36.8474205" lon="-2.4525917"/>
+  <node id="-1650" visible="true" lat="36.8470783" lon="-2.452574"/>
+  <node id="-1652" visible="true" lat="36.8468114" lon="-2.4526091"/>
+  <node id="-1654" visible="true" lat="36.8463883" lon="-2.4526911"/>
+  <node id="-1656" visible="true" lat="36.8461595" lon="-2.4527171"/>
+  <node id="-1658" visible="true" lat="36.8459533" lon="-2.4527047"/>
+  <node id="-1660" visible="true" lat="36.8456245" lon="-2.4525807"/>
+  <node id="-1662" visible="true" lat="36.8456101" lon="-2.4525671"/>
+  <node id="-1664" visible="true" lat="36.8453586" lon="-2.4524722"/>
+  <node id="-1666" visible="true" lat="36.8452578" lon="-2.452442"/>
+  <node id="-1668" visible="true" lat="36.8451405" lon="-2.4524039"/>
+  <node id="-1670" visible="true" lat="36.8448211" lon="-2.4523463"/>
+  <node id="-1672" visible="true" lat="36.8445295" lon="-2.4523401"/>
+  <node id="-764" visible="true" lat="36.8445295" lon="-2.4523401"/>
+  <node id="-762" visible="true" lat="36.8442886" lon="-2.4523673"/>
+  <node id="-1460" visible="true" lat="36.844138" lon="-2.4524049"/>
+  <node id="-760" visible="true" lat="36.8440093" lon="-2.452427"/>
+  <node id="-758" visible="true" lat="36.8437509" lon="-2.4524767"/>
+  <node id="-756" visible="true" lat="36.843439" lon="-2.4525623"/>
+  <node id="-754" visible="true" lat="36.8430819" lon="-2.4526838"/>
+  <node id="-752" visible="true" lat="36.8429366" lon="-2.4527379"/>
+  <node id="-750" visible="true" lat="36.8425099" lon="-2.4529168"/>
+  <node id="-748" visible="true" lat="36.8422133" lon="-2.4530412"/>
+  <node id="-746" visible="true" lat="36.8417431" lon="-2.4532817"/>
+  <node id="-1416" visible="true" lat="36.8410435" lon="-2.4536619"/>
+  <node id="-744" visible="true" lat="36.84091" lon="-2.4537503"/>
+  <node id="-742" visible="true" lat="36.8405641" lon="-2.4539678"/>
+  <node id="-740" visible="true" lat="36.8402032" lon="-2.4541732"/>
+  <node id="-738" visible="true" lat="36.8397242" lon="-2.4544423"/>
+  <node id="-736" visible="true" lat="36.8396764" lon="-2.4544749"/>
+  <node id="-734" visible="true" lat="36.8387685" lon="-2.4550117"/>
+  <node id="-732" visible="true" lat="36.8382084" lon="-2.45535"/>
+  <node id="-730" visible="true" lat="36.8377069" lon="-2.4556232"/>
+  <node id="-728" visible="true" lat="36.8374545" lon="-2.4557743"/>
+  <node id="-726" visible="true" lat="36.8367762" lon="-2.4561739"/>
+  <way id="-1946" visible="true">
+    <nd ref="-1632"/>
+    <nd ref="-1634"/>
+    <nd ref="-1636"/>
+    <nd ref="-1638"/>
+    <nd ref="-1640"/>
+    <nd ref="-1642"/>
+    <nd ref="-1644"/>
+    <nd ref="-1646"/>
+    <nd ref="-1648"/>
+    <nd ref="-1650"/>
+    <nd ref="-1652"/>
+    <nd ref="-1654"/>
+    <nd ref="-1656"/>
+    <nd ref="-1658"/>
+    <nd ref="-1660"/>
+    <nd ref="-1662"/>
+    <nd ref="-1664"/>
+    <nd ref="-1666"/>
+    <nd ref="-1668"/>
+    <nd ref="-1670"/>
+    <nd ref="-1672"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carretera de Ronda"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="-1914" visible="true">
+    <nd ref="-764"/>
+    <nd ref="-762"/>
+    <nd ref="-1460"/>
+    <nd ref="-760"/>
+    <nd ref="-758"/>
+    <nd ref="-756"/>
+    <nd ref="-754"/>
+    <nd ref="-752"/>
+    <nd ref="-750"/>
+    <nd ref="-748"/>
+    <nd ref="-746"/>
+    <nd ref="-1416"/>
+    <nd ref="-744"/>
+    <nd ref="-742"/>
+    <nd ref="-740"/>
+    <nd ref="-738"/>
+    <nd ref="-736"/>
+    <nd ref="-734"/>
+    <nd ref="-732"/>
+    <nd ref="-730"/>
+    <nd ref="-728"/>
+    <nd ref="-726"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Carretera de Ronda"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <node id="-1324" visible="true" lat="36.8371669" lon="-2.4529891"/>
+  <node id="-1306" visible="true" lat="36.8371582" lon="-2.4532407"/>
+  <node id="-48" visible="true" lat="36.8365659" lon="-2.4561704"/>
+  <node id="-46" visible="true" lat="36.8365715" lon="-2.456001"/>
+  <node id="-44" visible="true" lat="36.8366023" lon="-2.4558209"/>
+  <node id="-1320" visible="true" lat="36.8366895" lon="-2.4555074"/>
+  <node id="-1186" visible="true" lat="36.8369125" lon="-2.4550318"/>
+  <node id="-224" visible="true" lat="36.8370107" lon="-2.4547381"/>
+  <node id="-998" visible="true" lat="36.8370703" lon="-2.4545008"/>
+  <node id="-1474" visible="true" lat="36.8370984" lon="-2.4542806"/>
+  <node id="-1060" visible="true" lat="36.8371152" lon="-2.4539978"/>
+  <node id="-1064" visible="true" lat="36.8371347" lon="-2.4535568"/>
+  <node id="-1306" visible="true" lat="36.8371582" lon="-2.4532407"/>
+  <way id="-1888" visible="true">
+    <nd ref="-1324"/>
+    <nd ref="-1306"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Avenida de Nuestra Señora de Montserrat"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="-1748" visible="true">
+    <nd ref="-48"/>
+    <nd ref="-46"/>
+    <nd ref="-44"/>
+    <nd ref="-1320"/>
+    <nd ref="-1186"/>
+    <nd ref="-224"/>
+    <nd ref="-998"/>
+    <nd ref="-1474"/>
+    <nd ref="-1060"/>
+    <nd ref="-1064"/>
+    <nd ref="-1306"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Avenida de Nuestra Señora de Montserrat"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-1306" visible="true" lat="36.8371582" lon="-2.4532407"/>
+  <node id="-1278" visible="true" lat="36.8379405" lon="-2.4533034"/>
+  <node id="-282" visible="true" lat="36.8396123" lon="-2.4535124"/>
+  <node id="-280" visible="true" lat="36.8383646" lon="-2.4533564"/>
+  <node id="-1278" visible="true" lat="36.8379405" lon="-2.4533034"/>
+  <way id="-1878" visible="true">
+    <nd ref="-1306"/>
+    <nd ref="-1278"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carrera de los Limoneros"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="-1844" visible="true">
+    <nd ref="-282"/>
+    <nd ref="-280"/>
+    <nd ref="-1278"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carrera de los Limoneros"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-374" visible="true" lat="36.8394784" lon="-2.4527948"/>
+  <node id="-372" visible="true" lat="36.8389592" lon="-2.452719"/>
+  <node id="-830" visible="true" lat="36.8389461" lon="-2.4528277"/>
+  <node id="-828" visible="true" lat="36.8388116" lon="-2.4528112"/>
+  <node id="-1226" visible="true" lat="36.8388354" lon="-2.4524852"/>
+  <node id="-1354" visible="true" lat="36.8394916" lon="-2.452561"/>
+  <node id="-374" visible="true" lat="36.8394784" lon="-2.4527948"/>
+  <way id="-1868" visible="true">
+    <nd ref="-374"/>
+    <nd ref="-372"/>
+    <nd ref="-830"/>
+    <nd ref="-828"/>
+    <nd ref="-1226"/>
+    <nd ref="-1354"/>
+    <nd ref="-374"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Real Conservatorio Profesional de Música"/>
+    <tag k="website" v="http://www.conservatoriodealmeria.es/"/>
+  </way>
+  <node id="-1118" visible="true" lat="36.8395487" lon="-2.45245"/>
+  <node id="-222" visible="true" lat="36.838279" lon="-2.4522988"/>
+  <node id="-220" visible="true" lat="36.8383496" lon="-2.4516099"/>
+  <node id="-1386" visible="true" lat="36.8389716" lon="-2.4517038"/>
+  <node id="-218" visible="true" lat="36.8389215" lon="-2.4518291"/>
+  <node id="-1286" visible="true" lat="36.8395587" lon="-2.4519199"/>
+  <node id="-1118" visible="true" lat="36.8395487" lon="-2.45245"/>
+  <way id="-1820" visible="true">
+    <nd ref="-1118"/>
+    <nd ref="-222"/>
+    <nd ref="-220"/>
+    <nd ref="-1386"/>
+    <nd ref="-218"/>
+    <nd ref="-1286"/>
+    <nd ref="-1118"/>
+    <tag k="amenity" v="high school"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IES Alborán"/>
+  </way>
+  <node id="-1110" visible="true" lat="36.8379046" lon="-2.4528582">
+    <tag k="addr:housename" v="Calzada de Castro"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="04006"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="ACUYO IRIARTE"/>
+  </node>
+  <node id="-850" visible="true" lat="36.8384662" lon="-2.452359"/>
+  <node id="-280" visible="true" lat="36.8383646" lon="-2.4533564"/>
+  <way id="-1836" visible="true">
+    <nd ref="-850"/>
+    <nd ref="-280"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Hermanos Calatrava"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-1282" visible="true" lat="36.8379838" lon="-2.4528201"/>
+  <node id="-498" visible="true" lat="36.8371583" lon="-2.4527384"/>
+  <way id="-1832" visible="true">
+    <nd ref="-1282"/>
+    <nd ref="-498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Azahar"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-658" visible="true" lat="36.836606" lon="-2.4535074"/>
+  <node id="-656" visible="true" lat="36.836622" lon="-2.4533993"/>
+  <node id="-654" visible="true" lat="36.8366136" lon="-2.4533171"/>
+  <node id="-652" visible="true" lat="36.8365673" lon="-2.4531135"/>
+  <node id="-1446" visible="true" lat="36.8365488" lon="-2.4530357"/>
+  <node id="-650" visible="true" lat="36.8364813" lon="-2.4527511"/>
+  <node id="-766" visible="true" lat="36.8362645" lon="-2.4519827"/>
+  <node id="-766" visible="true" lat="36.8362645" lon="-2.4519827"/>
+  <node id="-1402" visible="true" lat="36.8361728" lon="-2.4516253"/>
+  <node id="-616" visible="true" lat="36.8361573" lon="-2.4515047"/>
+  <node id="-614" visible="true" lat="36.8361988" lon="-2.4509368"/>
+  <node id="-612" visible="true" lat="36.8362265" lon="-2.4507862"/>
+  <node id="-610" visible="true" lat="36.8362734" lon="-2.4506028"/>
+  <node id="-1502" visible="true" lat="36.8368309" lon="-2.4484577"/>
+  <node id="-608" visible="true" lat="36.8369483" lon="-2.4480197"/>
+  <node id="-1620" visible="true" lat="36.8370383" lon="-2.4476839"/>
+  <way id="-1896" visible="true">
+    <nd ref="-658"/>
+    <nd ref="-656"/>
+    <nd ref="-654"/>
+    <nd ref="-652"/>
+    <nd ref="-1446"/>
+    <nd ref="-650"/>
+    <nd ref="-766"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Elio Antonio de Nebrija"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="-1766" visible="true">
+    <nd ref="-766"/>
+    <nd ref="-1402"/>
+    <nd ref="-616"/>
+    <nd ref="-614"/>
+    <nd ref="-612"/>
+    <nd ref="-610"/>
+    <nd ref="-1502"/>
+    <nd ref="-608"/>
+    <nd ref="-1620"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Elio Antonio de Nebrija"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <node id="-1022" visible="true" lat="36.8376583" lon="-2.4485548"/>
+  <node id="-1258" visible="true" lat="36.8375094" lon="-2.4490818"/>
+  <node id="-964" visible="true" lat="36.8374191" lon="-2.449511"/>
+  <node id="-1200" visible="true" lat="36.8373588" lon="-2.4499696"/>
+  <node id="-72" visible="true" lat="36.8373494" lon="-2.4501782"/>
+  <node id="-926" visible="true" lat="36.8372808" lon="-2.4511991"/>
+  <node id="-1232" visible="true" lat="36.8372354" lon="-2.4517682"/>
+  <node id="-770" visible="true" lat="36.8372036" lon="-2.4522051"/>
+  <node id="-1172" visible="true" lat="36.8371731" lon="-2.452561"/>
+  <node id="-478" visible="true" lat="36.8371504" lon="-2.4526671"/>
+  <node id="-1600" visible="true" lat="36.8370387" lon="-2.452636"/>
+  <node id="-532" visible="true" lat="36.8370808" lon="-2.4524966"/>
+  <node id="-1594" visible="true" lat="36.8371025" lon="-2.4524258"/>
+  <node id="-530" visible="true" lat="36.8371261" lon="-2.4522649"/>
+  <node id="-528" visible="true" lat="36.837158" lon="-2.4519972"/>
+  <node id="-526" visible="true" lat="36.8371673" lon="-2.4518544"/>
+  <node id="-524" visible="true" lat="36.837207" lon="-2.4514155"/>
+  <node id="-1442" visible="true" lat="36.8372617" lon="-2.4507465"/>
+  <node id="-1276" visible="true" lat="36.8373037" lon="-2.4500646"/>
+  <node id="-522" visible="true" lat="36.8373398" lon="-2.4496155"/>
+  <node id="-1374" visible="true" lat="36.8373969" lon="-2.4493355"/>
+  <node id="-520" visible="true" lat="36.8374528" lon="-2.4490654"/>
+  <node id="-518" visible="true" lat="36.8375365" lon="-2.4487427"/>
+  <node id="-772" visible="true" lat="36.8377628" lon="-2.4480448"/>
+  <node id="-516" visible="true" lat="36.8379885" lon="-2.4473768"/>
+  <way id="-1724" visible="true">
+    <nd ref="-1022"/>
+    <nd ref="-1258"/>
+    <nd ref="-964"/>
+    <nd ref="-1200"/>
+    <nd ref="-72"/>
+    <nd ref="-926"/>
+    <nd ref="-1232"/>
+    <nd ref="-770"/>
+    <nd ref="-1172"/>
+    <nd ref="-478"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Avenida Nuestra Señora de Montserrat"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="-1678" visible="true">
+    <nd ref="-1600"/>
+    <nd ref="-532"/>
+    <nd ref="-1594"/>
+    <nd ref="-530"/>
+    <nd ref="-528"/>
+    <nd ref="-526"/>
+    <nd ref="-524"/>
+    <nd ref="-1442"/>
+    <nd ref="-1276"/>
+    <nd ref="-522"/>
+    <nd ref="-1374"/>
+    <nd ref="-520"/>
+    <nd ref="-518"/>
+    <nd ref="-772"/>
+    <nd ref="-516"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Avenida Nuestra Señora de Montserrat"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-850" visible="true" lat="36.8384662" lon="-2.452359"/>
+  <node id="-848" visible="true" lat="36.8396083" lon="-2.4525018"/>
+  <node id="-770" visible="true" lat="36.8372036" lon="-2.4522051"/>
+  <node id="-768" visible="true" lat="36.8380309" lon="-2.452298"/>
+  <node id="-768" visible="true" lat="36.8380309" lon="-2.452298"/>
+  <node id="-850" visible="true" lat="36.8384662" lon="-2.452359"/>
+  <way id="-1938" visible="true">
+    <nd ref="-850"/>
+    <nd ref="-848"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="Calle Guadarrama"/>
+  </way>
+  <way id="-1918" visible="true">
+    <nd ref="-770"/>
+    <nd ref="-768"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Guadarrama"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="-1850" visible="true">
+    <nd ref="-768"/>
+    <nd ref="-850"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Guadarrama"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <node id="-832" visible="true" lat="36.8389087" lon="-2.4533422"/>
+  <node id="-830" visible="true" lat="36.8389461" lon="-2.4528277"/>
+  <node id="-828" visible="true" lat="36.8388116" lon="-2.4528112"/>
+  <node id="-826" visible="true" lat="36.8386188" lon="-2.452783"/>
+  <node id="-824" visible="true" lat="36.8385898" lon="-2.4533015"/>
+  <node id="-832" visible="true" lat="36.8389087" lon="-2.4533422"/>
+  <way id="-1932" action="modify" visible="true">
+    <nd ref="-832"/>
+    <nd ref="-830"/>
+    <nd ref="-828"/>
+    <nd ref="-826"/>
+    <nd ref="-824"/>
+    <nd ref="-832"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Escuela Infantil Los Ángeles"/>
+  </way>
+  <node id="-346" visible="true" lat="36.838004" lon="-2.4533469"/>
+  <node id="-1438" visible="true" lat="36.8379159" lon="-2.4542427"/>
+  <node id="-344" visible="true" lat="36.8385192" lon="-2.4543585"/>
+  <node id="-342" visible="true" lat="36.8384977" lon="-2.4545941"/>
+  <node id="-1578" visible="true" lat="36.83862" lon="-2.4546263"/>
+  <node id="-1152" visible="true" lat="36.838751" lon="-2.453548"/>
+  <node id="-340" visible="true" lat="36.8386136" lon="-2.4535266"/>
+  <node id="-338" visible="true" lat="36.8386115" lon="-2.4534251"/>
+  <node id="-346" visible="true" lat="36.838004" lon="-2.4533469"/>
+  <way id="-1858" action="modify" visible="true">
+    <nd ref="-346"/>
+    <nd ref="-1438"/>
+    <nd ref="-344"/>
+    <nd ref="-342"/>
+    <nd ref="-1578"/>
+    <nd ref="-1152"/>
+    <nd ref="-340"/>
+    <nd ref="-338"/>
+    <nd ref="-346"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Madre de la Luz"/>
+  </way>
+  <node id="-1278" visible="true" lat="36.8379405" lon="-2.4533034"/>
+  <node id="-1282" visible="true" lat="36.8379838" lon="-2.4528201"/>
+  <node id="-768" visible="true" lat="36.8380309" lon="-2.452298"/>
+  <node id="-768" visible="true" lat="36.8380309" lon="-2.452298"/>
+  <node id="-1482" visible="true" lat="36.8380785" lon="-2.4518482"/>
+  <node id="-922" visible="true" lat="36.8381393" lon="-2.4512729"/>
+  <node id="-570" visible="true" lat="36.8381949" lon="-2.4507477"/>
+  <node id="-70" visible="true" lat="36.8382443" lon="-2.4502809"/>
+  <node id="-350" visible="true" lat="36.8382964" lon="-2.4497878"/>
+  <node id="-1472" visible="true" lat="36.8383474" lon="-2.4493058"/>
+  <node id="-724" visible="true" lat="36.8383591" lon="-2.4491952"/>
+  <node id="-798" visible="true" lat="36.8383995" lon="-2.4488139"/>
+  <node id="-1358" visible="true" lat="36.8384498" lon="-2.4483377"/>
+  <node id="-56" visible="true" lat="36.8385271" lon="-2.4476073"/>
+  <node id="-730" visible="true" lat="36.8377069" lon="-2.4556232"/>
+  <node id="-1278" visible="true" lat="36.8379405" lon="-2.4533034"/>
+  <way id="-1838" visible="true">
+    <nd ref="-1278"/>
+    <nd ref="-1282"/>
+    <nd ref="-768"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Calzada de Castro"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="-1758" visible="true">
+    <nd ref="-768"/>
+    <nd ref="-1482"/>
+    <nd ref="-922"/>
+    <nd ref="-570"/>
+    <nd ref="-70"/>
+    <nd ref="-350"/>
+    <nd ref="-1472"/>
+    <nd ref="-724"/>
+    <nd ref="-798"/>
+    <nd ref="-1358"/>
+    <nd ref="-56"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Calzada de Castro"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="-1752" visible="true">
+    <nd ref="-730"/>
+    <nd ref="-1278"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Calle Calzada de Castro"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+</osm>

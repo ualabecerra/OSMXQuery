@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-2073' visible='true' lat='36.8382919' lon='-2.4491153' />
+  <node id='-2071' visible='true' lat='36.8384292' lon='-2.4476476' />
+  <node id='-2069' visible='true' lat='36.8381064' lon='-2.4476905' />
+  <node id='-2067' visible='true' lat='36.8380102' lon='-2.447742' />
+  <node id='-2065' visible='true' lat='36.8379484' lon='-2.4478621' />
+  <node id='-2063' visible='true' lat='36.8377973' lon='-2.4483342' />
+  <node id='-2061' visible='true' lat='36.8377629' lon='-2.4483342' />
+  <node id='-2059' visible='true' lat='36.8377148' lon='-2.4484973' />
+  <node id='-2057' visible='true' lat='36.8379346' lon='-2.4486003' />
+  <node id='-2055' visible='true' lat='36.8378934' lon='-2.4490552' />
+  <node id='-2049' visible='true' lat='36.838943' lon='-2.4518178' />
+  <node id='-2047' visible='true' lat='36.8395616' lon='-2.4518987' />
+  <node id='-2045' visible='true' lat='36.8395599' lon='-2.4514625' />
+  <node id='-2043' visible='true' lat='36.8391169' lon='-2.4514318' />
+  <node id='-2037' visible='true' lat='36.8394784' lon='-2.4527948' />
+  <node id='-2035' visible='true' lat='36.8394916' lon='-2.452561' />
+  <node id='-2033' visible='true' lat='36.8388354' lon='-2.4524852' />
+  <node id='-2031' visible='true' lat='36.8388116' lon='-2.4528112' />
+  <node id='-2029' visible='true' lat='36.8389461' lon='-2.4528277' />
+  <node id='-2027' visible='true' lat='36.8389592' lon='-2.452719' />
+  <node id='-2021' visible='true' lat='36.838004' lon='-2.4533469' />
+  <node id='-2019' visible='true' lat='36.8386115' lon='-2.4534251' />
+  <node id='-2017' visible='true' lat='36.8386136' lon='-2.4535266' />
+  <node id='-2015' visible='true' lat='36.838751' lon='-2.453548' />
+  <node id='-2013' visible='true' lat='36.83862' lon='-2.4546263' />
+  <node id='-2011' visible='true' lat='36.8384977' lon='-2.4545941' />
+  <node id='-2009' visible='true' lat='36.8385192' lon='-2.4543585' />
+  <node id='-2007' visible='true' lat='36.8379159' lon='-2.4542427' />
+  <node id='-2001' visible='true' lat='36.8395487' lon='-2.45245' />
+  <node id='-1999' visible='true' lat='36.8395587' lon='-2.4519199' />
+  <node id='-1997' visible='true' lat='36.8389215' lon='-2.4518291' />
+  <node id='-1995' visible='true' lat='36.8389716' lon='-2.4517038' />
+  <node id='-1993' visible='true' lat='36.8383496' lon='-2.4516099' />
+  <node id='-1991' visible='true' lat='36.838279' lon='-2.4522988' />
+  <node id='-1985' visible='true' lat='36.8391146' lon='-2.4546641' />
+  <node id='-1983' visible='true' lat='36.839209' lon='-2.4538219' />
+  <node id='-1981' visible='true' lat='36.8387389' lon='-2.453728' />
+  <node id='-1979' visible='true' lat='36.8386359' lon='-2.4548224' />
+  <node id='-1977' visible='true' lat='36.8387453' lon='-2.4548438' />
+  <node id='-1975' visible='true' lat='36.8387689' lon='-2.4548894' />
+  <node id='-1973' visible='true' lat='36.8390244' lon='-2.4547526' />
+  <node id='-1967' visible='true' lat='36.8389087' lon='-2.4533422' />
+  <node id='-1965' visible='true' lat='36.8385898' lon='-2.4533015' />
+  <node id='-1963' visible='true' lat='36.8386188' lon='-2.452783' />
+  <way id='-2075' action='modify' visible='true'>
+    <nd ref='-2073' />
+    <nd ref='-2055' />
+    <nd ref='-2057' />
+    <nd ref='-2059' />
+    <nd ref='-2061' />
+    <nd ref='-2063' />
+    <nd ref='-2065' />
+    <nd ref='-2067' />
+    <nd ref='-2069' />
+    <nd ref='-2071' />
+    <nd ref='-2073' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='public' />
+    <tag k='created_by' v='Potlatch 0.10f' />
+    <tag k='name' v='CPC Divina Infantita' />
+  </way>
+  <way id='-2051' action='modify' visible='true'>
+    <nd ref='-2049' />
+    <nd ref='-2043' />
+    <nd ref='-2045' />
+    <nd ref='-2047' />
+    <nd ref='-2049' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Colegio Ciudad de Almeria' />
+  </way>
+  <way id='-2039' visible='true'>
+    <nd ref='-2037' />
+    <nd ref='-2027' />
+    <nd ref='-2029' />
+    <nd ref='-2031' />
+    <nd ref='-2033' />
+    <nd ref='-2035' />
+    <nd ref='-2037' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Real Conservatorio Profesional de Música' />
+    <tag k='website' v='http://www.conservatoriodealmeria.es/' />
+  </way>
+  <way id='-2023' action='modify' visible='true'>
+    <nd ref='-2021' />
+    <nd ref='-2007' />
+    <nd ref='-2009' />
+    <nd ref='-2011' />
+    <nd ref='-2013' />
+    <nd ref='-2015' />
+    <nd ref='-2017' />
+    <nd ref='-2019' />
+    <nd ref='-2021' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Madre de la Luz' />
+  </way>
+  <way id='-2003' visible='true'>
+    <nd ref='-2001' />
+    <nd ref='-1991' />
+    <nd ref='-1993' />
+    <nd ref='-1995' />
+    <nd ref='-1997' />
+    <nd ref='-1999' />
+    <nd ref='-2001' />
+    <tag k='amenity' v='high school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='IES Alborán' />
+  </way>
+  <way id='-1987' action='modify' visible='true'>
+    <nd ref='-1985' />
+    <nd ref='-1973' />
+    <nd ref='-1975' />
+    <nd ref='-1977' />
+    <nd ref='-1979' />
+    <nd ref='-1981' />
+    <nd ref='-1983' />
+    <nd ref='-1985' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Colegio Freinet' />
+  </way>
+  <way id='-1969' action='modify' visible='true'>
+    <nd ref='-1967' />
+    <nd ref='-2029' />
+    <nd ref='-2031' />
+    <nd ref='-1963' />
+    <nd ref='-1965' />
+    <nd ref='-1967' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Escuela Infantil Los Ángeles' />
+  </way>
+</osm>

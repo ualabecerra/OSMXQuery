@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-37481' action='modify' visible='true' lat='36.83951988481' lon='-2.46351848347'>
+    <tag k='access' v='delivery' />
+    <tag k='name' v='300 meters w.r.t hotels' />
+  </node>
+  <node id='-37384' action='modify' visible='true' lat='36.83940714845' lon='-2.46761763602' />
+  <node id='-37382' action='modify' visible='true' lat='36.834266194' lon='-2.46767398176' />
+  <node id='-37380' action='modify' visible='true' lat='36.834266194' lon='-2.46058850502' />
+  <node id='-37378' action='modify' visible='true' lat='36.83938460116' lon='-2.4607011965' />
+  <node id='-37377' action='modify' visible='true' lat='36.83939587481' lon='-2.46702600575' />
+  <node id='-37353' visible='true' lat='36.8366848' lon='-2.4632487'>
+    <tag k='name' v='Hotel Costasol' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='-37352' visible='true' lat='36.8383829' lon='-2.4668062'>
+    <tag k='name' v='Hotel Catedral' />
+    <tag k='source' v='survey' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.hotelcatedral.net/' />
+  </node>
+  <node id='-37349' visible='true' lat='36.83451502799' lon='-2.46375966427'>
+    <tag k='name' v='Gran Hotel Almería' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='298019057' timestamp='2008-09-18T22:55:52Z' uid='20587' user='balrog-kun' visible='true' version='1' changeset='660054' lat='36.8383732' lon='-2.4660807'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Bibelot' />
+  </node>
+  <node id='298019060' timestamp='2008-09-18T22:55:53Z' uid='20587' user='balrog-kun' visible='true' version='1' changeset='660054' lat='36.8382463' lon='-2.4650313'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Pizzeria Da Bruno' />
+  </node>
+  <node id='298019071' timestamp='2013-10-26T15:57:28Z' uid='1120480' user='mm81' visible='true' version='2' changeset='18553422' lat='36.8351872' lon='-2.4618817'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Telepizza' />
+    <tag k='operator' v='Telepizza' />
+  </node>
+  <node id='1711194690' timestamp='2012-04-11T09:13:22Z' uid='625069' user='andriu3' visible='true' version='1' changeset='11261569' lat='36.8392169' lon='-2.4643082'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='El Ajolí' />
+  </node>
+  <node id='2509500156' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.838184' lon='-2.462622'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='spanish' />
+    <tag k='name' v='La Tahona' />
+  </node>
+  <node id='2509500157' timestamp='2014-03-19T12:26:02Z' uid='129035' user='jmaties' visible='true' version='2' changeset='21191277' lat='36.8387593' lon='-2.4615813'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='regional' />
+    <tag k='name' v='Cyrano' />
+  </node>
+  <node id='2509500158' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.8361661' lon='-2.4624878'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Cuentavinos' />
+  </node>
+  <node id='2509500160' timestamp='2013-10-26T15:57:27Z' uid='1120480' user='mm81' visible='true' version='1' changeset='18553422' lat='36.8346205' lon='-2.4622733'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='italian' />
+    <tag k='name' v='La Tagliatella' />
+  </node>
+  <way id='-37379' action='modify' visible='true'>
+    <nd ref='-37377' />
+    <nd ref='-37378' />
+    <nd ref='-37380' />
+    <nd ref='-37382' />
+    <nd ref='-37384' />
+    <nd ref='-37377' />
+    <tag k='highway' v='footway' />
+  </way>
+</osm>

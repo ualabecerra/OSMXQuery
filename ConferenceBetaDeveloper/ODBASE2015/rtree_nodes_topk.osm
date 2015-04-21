@@ -1,0 +1,221 @@
+<rtree>
+  <nodes>
+    <node id="-36358" visible="true" lat="36.8387861" lon="-2.4673168"/>
+    <node id="-36357" visible="true" lat="36.8390774" lon="-2.4672866"/>
+    <node id="-36356" visible="true" lat="36.8396227" lon="-2.4672469"/>
+    <node id="-36355" visible="true" lat="36.8404423" lon="-2.4664043"/>
+    <node id="-36354" visible="true" lat="36.8399692" lon="-2.4666332"/>
+    <node id="-36353" visible="true" lat="36.8397711" lon="-2.4667448"/>
+    <node id="-36352" visible="true" lat="36.8396122" lon="-2.4668159"/>
+    <node id="-36351" visible="true" lat="36.8395517" lon="-2.4668359"/>
+    <node id="-36350" visible="true" lat="36.839242" lon="-2.4668513"/>
+    <node id="-36349" visible="true" lat="36.8390761" lon="-2.4668837"/>
+    <node id="-36348" visible="true" lat="36.8387018" lon="-2.4669402"/>
+    <node id="-36347" visible="true" lat="36.8390553" lon="-2.4655189"/>
+    <node id="-36346" visible="true" lat="36.8391509" lon="-2.4660595"/>
+    <node id="-36345" visible="true" lat="36.8392148" lon="-2.4665051"/>
+    <node id="-36322" visible="true" lat="36.838184" lon="-2.462622">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="cuisine" v="spanish"/>
+      <tag k="name" v="La Tahona"/>
+    </node>
+    <node id="-36321" visible="true" lat="36.8387593" lon="-2.4615813">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="cuisine" v="regional"/>
+      <tag k="name" v="Cyrano"/>
+    </node>
+    <node id="-36320" visible="true" lat="36.8361661" lon="-2.4624878">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="name" v="Cuentavinos"/>
+    </node>
+    <node id="-36319" visible="true" lat="36.8392169" lon="-2.4643082">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="cuisine" v="spanish"/>
+      <tag k="name" v="El Ajolí"/>
+    </node>
+    <node id="-36318" visible="true" lat="36.8351872" lon="-2.4618817">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="name" v="Telepizza"/>
+      <tag k="operator" v="Telepizza"/>
+    </node>
+    <node id="-36317" visible="true" lat="36.8382463" lon="-2.4650313">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="name" v="Pizzeria Da Bruno"/>
+    </node>
+    <node id="-36316" visible="true" lat="36.8346205" lon="-2.4622733">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="cuisine" v="italian"/>
+      <tag k="name" v="La Tagliatella"/>
+    </node>
+    <node id="-36315" visible="true" lat="36.8383732" lon="-2.4660807">
+      <tag k="amenity" v="restaurant"/>
+      <tag k="name" v="Bibelot"/>
+    </node>
+    <node id="-36296" visible="true" lat="36.8383829" lon="-2.4668062">
+      <tag k="name" v="Hotel Catedral"/>
+      <tag k="source" v="survey"/>
+      <tag k="stars" v="4"/>
+      <tag k="tourism" v="hotel"/>
+      <tag k="website" v="http://www.hotelcatedral.net/"/>
+    </node>
+  </nodes>
+  <node x="-2.4673168" y="36.8346205" z="-2.4615813" t="36.8404423">
+    <node x="-2.4673168" y="36.8361661" z="-2.4615813" t="36.8404423">
+      <node x="-2.4665051" y="36.8361661" z="-2.4615813" t="36.8392148">
+        <leaf x="-2.4665051" y="36.838184" z="-2.462622" t="36.8392148">
+          <mbr x="-2.4665051" y="36.8390553" z="-2.4655189" t="36.8392148">
+            <mbr x="-2.4665051" y="36.8390553" z="-2.4655189" t="36.8392148">
+              <way id="-36341" visible="true">
+                <nd ref="-36345"/>
+                <nd ref="-36346"/>
+                <nd ref="-36347"/>
+                <tag k="highway" v="pedestrian"/>
+                <tag k="name" v="Calle Campomanes"/>
+              </way>
+            </mbr>
+          </mbr>
+          <mbr x="-2.462622" y="36.838184" z="-2.462622" t="36.838184">
+            <mbr x="-2.462622" y="36.838184" z="-2.462622" t="36.838184">
+              <node id="-36322" visible="true" lat="36.838184" lon="-2.462622">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="cuisine" v="spanish"/>
+                <tag k="name" v="La Tahona"/>
+              </node>
+            </mbr>
+          </mbr>
+        </leaf>
+        <leaf x="-2.4624878" y="36.8361661" z="-2.4615813" t="36.8387593">
+          <mbr x="-2.4615813" y="36.8387593" z="-2.4615813" t="36.8387593">
+            <mbr x="-2.4615813" y="36.8387593" z="-2.4615813" t="36.8387593">
+              <node id="-36321" visible="true" lat="36.8387593" lon="-2.4615813">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="cuisine" v="regional"/>
+                <tag k="name" v="Cyrano"/>
+              </node>
+            </mbr>
+          </mbr>
+          <mbr x="-2.4624878" y="36.8361661" z="-2.4624878" t="36.8361661">
+            <mbr x="-2.4624878" y="36.8361661" z="-2.4624878" t="36.8361661">
+              <node id="-36320" visible="true" lat="36.8361661" lon="-2.4624878">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="name" v="Cuentavinos"/>
+              </node>
+            </mbr>
+          </mbr>
+        </leaf>
+      </node>
+      <node x="-2.4673168" y="36.8387018" z="-2.4664043" t="36.8404423">
+        <leaf x="-2.4669402" y="36.8387018" z="-2.4664043" t="36.8404423">
+          <mbr x="-2.4669402" y="36.8387018" z="-2.4664043" t="36.8404423">
+            <mbr x="-2.4669402" y="36.8387018" z="-2.4664043" t="36.8404423">
+              <way id="-36342" visible="true">
+                <nd ref="-36348"/>
+                <nd ref="-36349"/>
+                <nd ref="-36350"/>
+                <nd ref="-36351"/>
+                <nd ref="-36352"/>
+                <nd ref="-36353"/>
+                <nd ref="-36354"/>
+                <nd ref="-36355"/>
+                <tag k="highway" v="residential"/>
+                <tag k="name" v="Calle Lope de Vega"/>
+                <tag k="oneway" v="yes"/>
+              </way>
+            </mbr>
+          </mbr>
+        </leaf>
+        <leaf x="-2.4673168" y="36.8387861" z="-2.4668837" t="36.8396227">
+          <mbr x="-2.4672866" y="36.8390761" z="-2.4668837" t="36.8390774">
+            <mbr x="-2.4672866" y="36.8390761" z="-2.4668837" t="36.8390774">
+              <way id="-36344" visible="true">
+                <nd ref="-36349"/>
+                <nd ref="-36357"/>
+                <tag k="highway" v="residential"/>
+                <tag k="name" v="Calle San Indalecio"/>
+                <tag k="oneway" v="yes"/>
+              </way>
+            </mbr>
+          </mbr>
+          <mbr x="-2.4673168" y="36.8387861" z="-2.4672469" t="36.8396227">
+            <mbr x="-2.4673168" y="36.8387861" z="-2.4672469" t="36.8396227">
+              <way id="-36343" visible="true">
+                <nd ref="-36356"/>
+                <nd ref="-36357"/>
+                <nd ref="-36358"/>
+                <tag k="highway" v="residential"/>
+                <tag k="name" v="Calle Cervantes"/>
+                <tag k="oneway" v="yes"/>
+              </way>
+            </mbr>
+          </mbr>
+        </leaf>
+      </node>
+    </node>
+    <node x="-2.4668062" y="36.8346205" z="-2.4618817" t="36.8392169">
+      <node x="-2.4650313" y="36.8346205" z="-2.4618817" t="36.8392169">
+        <leaf x="-2.4643082" y="36.8351872" z="-2.4618817" t="36.8392169">
+          <mbr x="-2.4643082" y="36.8392169" z="-2.4643082" t="36.8392169">
+            <mbr x="-2.4643082" y="36.8392169" z="-2.4643082" t="36.8392169">
+              <node id="-36319" visible="true" lat="36.8392169" lon="-2.4643082">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="cuisine" v="spanish"/>
+                <tag k="name" v="El Ajolí"/>
+              </node>
+            </mbr>
+          </mbr>
+          <mbr x="-2.4618817" y="36.8351872" z="-2.4618817" t="36.8351872">
+            <mbr x="-2.4618817" y="36.8351872" z="-2.4618817" t="36.8351872">
+              <node id="-36318" visible="true" lat="36.8351872" lon="-2.4618817">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="name" v="Telepizza"/>
+                <tag k="operator" v="Telepizza"/>
+              </node>
+            </mbr>
+          </mbr>
+        </leaf>
+        <leaf x="-2.4650313" y="36.8346205" z="-2.4622733" t="36.8382463">
+          <mbr x="-2.4650313" y="36.8382463" z="-2.4650313" t="36.8382463">
+            <mbr x="-2.4650313" y="36.8382463" z="-2.4650313" t="36.8382463">
+              <node id="-36317" visible="true" lat="36.8382463" lon="-2.4650313">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="name" v="Pizzeria Da Bruno"/>
+              </node>
+            </mbr>
+          </mbr>
+          <mbr x="-2.4622733" y="36.8346205" z="-2.4622733" t="36.8346205">
+            <mbr x="-2.4622733" y="36.8346205" z="-2.4622733" t="36.8346205">
+              <node id="-36316" visible="true" lat="36.8346205" lon="-2.4622733">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="cuisine" v="italian"/>
+                <tag k="name" v="La Tagliatella"/>
+              </node>
+            </mbr>
+          </mbr>
+        </leaf>
+      </node>
+      <node x="-2.4668062" y="36.8383732" z="-2.4660807" t="36.8383829">
+        <leaf x="-2.4668062" y="36.8383732" z="-2.4660807" t="36.8383829">
+          <mbr x="-2.4660807" y="36.8383732" z="-2.4660807" t="36.8383732">
+            <mbr x="-2.4660807" y="36.8383732" z="-2.4660807" t="36.8383732">
+              <node id="-36315" visible="true" lat="36.8383732" lon="-2.4660807">
+                <tag k="amenity" v="restaurant"/>
+                <tag k="name" v="Bibelot"/>
+              </node>
+            </mbr>
+          </mbr>
+          <mbr x="-2.4668062" y="36.8383829" z="-2.4668062" t="36.8383829">
+            <mbr x="-2.4668062" y="36.8383829" z="-2.4668062" t="36.8383829">
+              <node id="-36296" visible="true" lat="36.8383829" lon="-2.4668062">
+                <tag k="name" v="Hotel Catedral"/>
+                <tag k="source" v="survey"/>
+                <tag k="stars" v="4"/>
+                <tag k="tourism" v="hotel"/>
+                <tag k="website" v="http://www.hotelcatedral.net/"/>
+              </node>
+            </mbr>
+          </mbr>
+        </leaf>
+      </node>
+    </node>
+  </node>
+</rtree>

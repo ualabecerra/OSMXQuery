@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-11655' visible='true' lat='36.8379885' lon='-2.4473768' />
+  <node id='-11654' visible='true' lat='36.8377628' lon='-2.4480448' />
+  <node id='-11653' visible='true' lat='36.8375365' lon='-2.4487427' />
+  <node id='-11652' visible='true' lat='36.8374528' lon='-2.4490654' />
+  <node id='-11651' visible='true' lat='36.8373969' lon='-2.4493355' />
+  <node id='-11650' visible='true' lat='36.8373398' lon='-2.4496155' />
+  <node id='-11649' visible='true' lat='36.8373037' lon='-2.4500646' />
+  <node id='-11648' visible='true' lat='36.8372617' lon='-2.4507465' />
+  <node id='-11647' visible='true' lat='36.837207' lon='-2.4514155' />
+  <node id='-11646' visible='true' lat='36.8371673' lon='-2.4518544' />
+  <node id='-11645' visible='true' lat='36.837158' lon='-2.4519972' />
+  <node id='-11644' visible='true' lat='36.8371261' lon='-2.4522649' />
+  <node id='-11643' visible='true' lat='36.8371025' lon='-2.4524258' />
+  <node id='-11642' visible='true' lat='36.8370808' lon='-2.4524966' />
+  <node id='-11641' visible='true' lat='36.8370387' lon='-2.452636' />
+  <node id='-11640' visible='true' lat='36.8371504' lon='-2.4526671' />
+  <node id='-11639' visible='true' lat='36.8371731' lon='-2.452561' />
+  <node id='-11638' visible='true' lat='36.8372036' lon='-2.4522051' />
+  <node id='-11637' visible='true' lat='36.8372354' lon='-2.4517682' />
+  <node id='-11636' visible='true' lat='36.8372808' lon='-2.4511991' />
+  <node id='-11635' visible='true' lat='36.8373494' lon='-2.4501782' />
+  <node id='-11634' visible='true' lat='36.8373588' lon='-2.4499696' />
+  <node id='-11633' visible='true' lat='36.8374191' lon='-2.449511' />
+  <node id='-11632' visible='true' lat='36.8375094' lon='-2.4490818' />
+  <node id='-11631' visible='true' lat='36.8376583' lon='-2.4485548' />
+  <node id='-11600' visible='true' lat='36.8385271' lon='-2.4476073' />
+  <node id='-11599' visible='true' lat='36.8377069' lon='-2.4556232' />
+  <node id='-11594' visible='true' lat='36.8395956' lon='-2.4514339' />
+  <node id='-11592' visible='true' lat='36.8390677' lon='-2.4514011' />
+  <node id='-11590' visible='true' lat='36.8386225' lon='-2.4513403' />
+  <node id='-11588' visible='true' lat='36.8381393' lon='-2.4512729' />
+  <node id='-11586' visible='true' lat='36.8376331' lon='-2.4512239' />
+  <node id='-11584' visible='true' lat='36.8372808' lon='-2.4511991' />
+  <node id='-11580' visible='true' lat='36.8396083' lon='-2.4525018' />
+  <node id='-11578' visible='true' lat='36.8372036' lon='-2.4522051' />
+  <node id='-11574' visible='true' lat='36.8391648' lon='-2.4504442' />
+  <node id='-11572' visible='true' lat='36.8387291' lon='-2.450358' />
+  <node id='-11570' visible='true' lat='36.8382443' lon='-2.4502809' />
+  <node id='-11568' visible='true' lat='36.8377349' lon='-2.4502163' />
+  <node id='-11566' visible='true' lat='36.8373494' lon='-2.4501782' />
+  <way id='-11630' visible='true'>
+    <nd ref='-11641' />
+    <nd ref='-11642' />
+    <nd ref='-11643' />
+    <nd ref='-11644' />
+    <nd ref='-11645' />
+    <nd ref='-11646' />
+    <nd ref='-11647' />
+    <nd ref='-11648' />
+    <nd ref='-11649' />
+    <nd ref='-11650' />
+    <nd ref='-11651' />
+    <nd ref='-11652' />
+    <nd ref='-11653' />
+    <nd ref='-11654' />
+    <nd ref='-11655' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida Nuestra Señora de Montserrat' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-11629' visible='true'>
+    <nd ref='-11631' />
+    <nd ref='-11632' />
+    <nd ref='-11633' />
+    <nd ref='-11634' />
+    <nd ref='-11635' />
+    <nd ref='-11636' />
+    <nd ref='-11637' />
+    <nd ref='-11638' />
+    <nd ref='-11639' />
+    <nd ref='-11640' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida Nuestra Señora de Montserrat' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-11598' action='modify' visible='true'>
+    <nd ref='-11599' />
+    <nd ref='-11600' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='Calle Calzada de Castro' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-11582' visible='true'>
+    <nd ref='-11584' />
+    <nd ref='-11586' />
+    <nd ref='-11588' />
+    <nd ref='-11590' />
+    <nd ref='-11592' />
+    <nd ref='-11594' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Alcázar' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-11576' visible='true'>
+    <nd ref='-11578' />
+    <nd ref='-11580' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Guadarrama' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-11564' visible='true'>
+    <nd ref='-11566' />
+    <nd ref='-11568' />
+    <nd ref='-11570' />
+    <nd ref='-11572' />
+    <nd ref='-11574' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Antonio González Vizcaíno' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>
