@@ -7,6 +7,7 @@ The aim of this project is to develop a library for querying OSM maps with XQuer
 
 TEAM:
 
+<<<<<<< HEAD
 * Jesús M. Almendros-Jiménez
 * Antonio Becerra-Terón
 
@@ -14,6 +15,15 @@ TEAM:
 * Dpto. Informática
 * Crta. Sacramento S/N
 * 04120 Almería
+=======
+* Jesus M. Almendros-Jimenez
+* Antonio Becerra-Teron
+
+* Universidad de Almeria
+* Dpto. Informatica
+* Crta. Sacramento S/N
+* 04120 Almeria
+>>>>>>> b1566e76afb2ac1518d0c833361db6d2dfcbe7bf
 
 CONTACT:
 
