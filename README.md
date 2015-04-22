@@ -5,17 +5,8 @@ The aim of this project is to develop a library for querying OSM maps with XQuer
  
 ![Alt text](http://indalog.ual.es/osm/Querying_Open_Street_Map_with_XQuery/Welcome_files/shapeimage_2.png)
 
-TEAM:
+### TEAM:
 
-<<<<<<< HEAD
-* Jesús M. Almendros-Jiménez
-* Antonio Becerra-Terón
-
-* Universidad de Almería
-* Dpto. Informática
-* Crta. Sacramento S/N
-* 04120 Almería
-=======
 * Jesus M. Almendros-Jimenez
 * Antonio Becerra-Teron
 
@@ -23,9 +14,8 @@ TEAM:
 * Dpto. Informatica
 * Crta. Sacramento S/N
 * 04120 Almeria
->>>>>>> b1566e76afb2ac1518d0c833361db6d2dfcbe7bf
 
-CONTACT:
+### CONTACT:
 
 * [jalmen@ual.es](mailto:jalmen@ual.es)
 * [abecerra@ual.es](mailto:abecerra@ual.es)
