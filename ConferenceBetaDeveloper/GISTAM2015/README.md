@@ -91,8 +91,7 @@ fn:filter(rt:getLayerByName(.,"Calle Calzada de Castro"), osm:furtherNorthWays(o
 ## Benchmarks
 Now we would like to show the benchmarks obtained from the previous examples, for datasets of different sizes.
 
-We have used the *BaseX Query* processor in a Mac Core 2 Duo 2.4 GHz. All benchmarking proofs have been tested using a virtual machine running Windows 7 since the *JTS Topology Suite* is not available for *Mac OS* *BaseX* version. 
-Benchmarks are shown in milliseconds in the next Figure.
+We have used the *BaseX Query* processor in a Mac Core 2 Duo 2.4 GHz. All benchmarking proofs have been tested using a virtual machine running Windows 7 since the *JTS Topology Suite* is not available for *Mac OS* *BaseX* version. Benchmarks are shown in milliseconds in the next Figure.
 
 We have tested Examples 1 to 5 with sizes ranging from two hundred to fourteen thousand objects, corresponding to: from a zoom to *Calzada de Castro* street to the whole Almería city map (around 10 square kilometers). From the benchmarks, we can conclude that increasing the map size, does not increase, in a remarkable way, the answer time.
 
