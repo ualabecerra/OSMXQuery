@@ -1,6 +1,6 @@
 # Querying Open Street Map with XQuery
-## Welcome to Project
 
+## Abstract
 In this paper we present a library for querying Open Street Map (OSM) with XQuery. This library is based on the well-known spatial operators defined by Clementini and Egenhofer, providing a repertoire of XQuery functions which encapsulate the search
 on the XML document representing a layer of OSM, and make the definition of queries on top of OSM layers easy. In essence, the library provides a repertoire of OSM Operators for points and lines which, in combination with Higher Order facilities of XQuery, facilitates the composition of queries and
 the definition of keyword based search geo-localized queries. 
@@ -12,7 +12,7 @@ OSM data are indexed by an R-tree structure, in which points and lines are enclo
  
 ![Alt text](http://indalog.ual.es/osm/Querying_Open_Street_Map_with_XQuery/Welcome_files/shapeimage_2.png)
 
-TEAM:
+### TEAM:
 
 * Jesús M. Almendros-Jiménez
 * Antonio Becerra-Terón
@@ -20,9 +20,9 @@ TEAM:
 * Universidad de Almería
 * Dpto. Informática
 * Crta. Sacramento S/N
-* 04120 AlmerÃ­a
+* 04120 Almerí­a
 
-CONTACT:
+### CONTACT:
 
 * [jalmen@ual.es](mailto:jalmen@ual.es)
 * [abecerra@ual.es](mailto:abecerra@ual.es)
