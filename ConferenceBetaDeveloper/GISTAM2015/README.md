@@ -7,8 +7,7 @@ the definition of keyword based search geo-localized queries.
 
 The implementation is also based on the transformation of geometric shapes of OSM into the corresponding GML data. 
 
-Then GML data are handled by the Java Topology Suite, available for most of XQuery processors.
-OSM data are indexed by an R-tree structure, in which points and lines are enclosed by Minimum Bounding Rectangles (MBRs), in order to get shorter answer time.
+Then GML data are handled by the Java Topology Suite, available for most of XQuery processors. OSM data are indexed by an R-tree structure, in which points and lines are enclosed by Minimum Bounding Rectangles (MBRs), in order to get shorter answer time.
  
 ![Alt text](http://indalog.ual.es/osm/Querying_Open_Street_Map_with_XQuery/Welcome_files/shapeimage_2.png)
 
