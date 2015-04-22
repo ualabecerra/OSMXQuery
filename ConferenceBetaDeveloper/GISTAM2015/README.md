@@ -1,6 +1,6 @@
 # Querying Open Street Map with XQuery
-## Welcome to Project
 
+## Abstract
 In this paper we present a library for querying Open Street Map (OSM) with XQuery. This library is based on the well-known spatial operators defined by Clementini and Egenhofer, providing a repertoire of XQuery functions which encapsulate the search
 on the XML document representing a layer of OSM, and make the definition of queries on top of OSM layers easy. In essence, the library provides a repertoire of OSM Operators for points and lines which, in combination with Higher Order facilities of XQuery, facilitates the composition of queries and
 the definition of keyword based search geo-localized queries. 
@@ -12,7 +12,7 @@ OSM data are indexed by an R-tree structure, in which points and lines are enclo
  
 ![Alt text](http://indalog.ual.es/osm/Querying_Open_Street_Map_with_XQuery/Welcome_files/shapeimage_2.png)
 
-TEAM:
+### TEAM:
 
 * Jesús M. Almendros-Jiménez
 * Antonio Becerra-Terón
@@ -20,9 +20,9 @@ TEAM:
 * Universidad de Almería
 * Dpto. Informática
 * Crta. Sacramento S/N
-* 04120 AlmerÃ­a
+* 04120 Almerí­a
 
-CONTACT:
+### CONTACT:
 
 * [jalmen@ual.es](mailto:jalmen@ual.es)
 * [abecerra@ual.es](mailto:abecerra@ual.es)
@@ -42,9 +42,7 @@ MBR enclosing the children nodes, while leaf tag contains the MBR of OSM ways an
 * Example 1. Retrieve the schools and high schools close to  *Calzada de Castro* street:
 
 ```
-fn:filter(
-rt:getLayerByName(.,"Calle Calzada de Castro"), 
-osm:searchTags(?,("high school", "school")))
+fn:filter(rt:getLayerByName(.,"Calle Calzada de Castro"), osm:searchTags(?,("high school", "school")))
 ```
 
 ![Alt text](https://raw.githubusercontent.com/ualabecerra/OSMXQuery/master/ConferenceBetaDeveloper/GISTAM2015/ExampleFigures/FigureExample1.png)
@@ -54,14 +52,10 @@ osm:searchTags(?,("high school", "school")))
 ending to *Avenida Montserrat* street:
 
 ```
-let $waysCrossing :=  
-fn:filter(
-rt:getLayerByName(.,"Calle Calzada de Castro"), 
-osm:isCrossing(?, osm:getOneWay(., "Calle Calzada 
-de Castro")))
+let $waysCrossing :=  fn:filter(rt:getLayerByName(.,"Calle Calzada de Castro"), 
+osm:isCrossing(?, osm:getOneWay(., "Calle Calzada de Castro")))
 return 
-fn:filter($waysCrossing, osm:isEndingTo(?,
-osm:getOneWay(., "Avenida Montserrat")))
+fn:filter($waysCrossing, osm:isEndingTo(?,osm:getOneWay(., "Avenida Montserrat")))
 ```
 
 ![Alt text](https://raw.githubusercontent.com/ualabecerra/OSMXQuery/master/ConferenceBetaDeveloper/GISTAM2015/ExampleFigures/FigureExample2.png)
@@ -69,26 +63,20 @@ osm:getOneWay(., "Avenida Montserrat")))
 * Example 3. Retrieve the schools close to a street, wherein *Calzada de Castro* street ends. 
 
 ```
-let $waysAllEndingTo :=  
-fn:filter(
-rt:getLayerByName(.,"Calle Calzada de 
-Castro"), osm:isEndingTo(osm:getOneWay(., "Calle
-Calzada de Castro"),?))
+let $waysAllEndingTo :=  fn:filter(rt:getLayerByName(.,"Calle Calzada de Castro"),
+osm:isEndingTo(osm:getOneWay(., "Calle Calzada de Castro"),?))
 return 
-fn:filter(fn:for-each($waysAllEndingTo,
-rt:getLayerByOneWay(.,?)), osm:searchTags(?,"school"))
+fn:filter(fn:for-each($waysAllEndingTo, rt:getLayerByOneWay(.,?)), osm:searchTags(?,"school"))
 ```
+
 ![Alt text](https://raw.githubusercontent.com/ualabecerra/OSMXQuery/master/ConferenceBetaDeveloper/GISTAM2015/ExampleFigures/FigureExample3.png)
 
 * Example 4. Retrieve the streets close
 to *Calzada de Castro* street, in which there is a supermarket *El Arbol* and a pharmacy (or chemist's).
 
 ```
-osm:intersectionQuery( 
- osm:unionQuery(
- rt:getLayerByName(.,"El Arbol"), 
- rt:getLayerByName(.,"pharmacy")),
- rt:getLayerByName(.,"Calle Calzada de Castro"))
+osm:intersectionQuery( osm:unionQuery(rt:getLayerByName(.,"El Arbol"),rt:getLayerByName(.,"pharmacy")),
+rt:getLayerByName(.,"Calle Calzada de Castro"))
 ```
 ![Alt text](https://raw.githubusercontent.com/ualabecerra/OSMXQuery/master/ConferenceBetaDeveloper/GISTAM2015/ExampleFigures/FigureExample4.png)
 
@@ -96,10 +84,8 @@ osm:intersectionQuery(
 *Calzada de Castro* street:
 
 ```
-fn:filter(
-rt:getLayerByName(.,"Calle Calzada de Castro"), 
-osm:furtherNorthWays(
-osm:getOneWay(., "Calle Calzada de Castro"),?)) 
+fn:filter(rt:getLayerByName(.,"Calle Calzada de Castro"), osm:furtherNorthWays(osm:getOneWay(., 
+"Calle Calzada de Castro"),?)) 
 ```
 
 ## Benchmarks
