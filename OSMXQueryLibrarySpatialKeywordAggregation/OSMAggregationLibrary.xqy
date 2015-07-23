@@ -86,12 +86,12 @@ declare function osm_aggr:metricSum($document as node()*,$metricOperator as xs:s
 
 declare function osm_aggr:minDistance($document as node()*)
 {
-  fn:sort($document,function($oneway){$oneway/@distance})[1] 
+ fn:sort($document,function($oneway){osm:getDistance($oneway)})[1]
 };
 
 declare function osm_aggr:maxDistance($document as node()*)
 {
-  fn:sort($document,function($oneway){-($oneway/@distance)})[1]
+ fn:sort($document,function($oneway){-osm:getDistance($oneway)})[1]
 };
 
 (: Spatial-Multidimensional Algebraic Operators:)
@@ -114,24 +114,26 @@ declare function osm_aggr:metricAvg($document as node()*,$metricOperator as xs:s
 
 declare function osm_aggr:avgDistance($document as node()*)
 {
- fn:avg(fn:for-each($document,osm:getDistance(?)))    
+  fn:avg(fn:for-each($document,osm:getDistance(?)))    
 };
 
 declare function osm_aggr:metricBottomCount($document as node()*, 
 $metricOperator as xs:string, $k as xs:integer)
 {
   let $list := osm_aggr:metricList($document,$metricOperator)
-  return fn:subsequence(fn:sort($list, function($oneway)
-                {xs:double($oneway/tag[@k=$metricOperator]/@v)}),1,$k) 
+  return fn:subsequence(fn:sort($list, 
+         function($oneway){osm:getTagValue(?,$metricOperator)}),1,$k)             
 };
 
 declare function osm_aggr:metricTopCount($document as node()*, 
 $metricOperator as xs:string, $k as xs:integer)
 {
   let $list := osm_aggr:metricList($document,$metricOperator)
-  return fn:subsequence(fn:sort($list, function($oneway)
-                {-(xs:double($oneway/tag[@k=$metricOperator]/@v))}),1,$k)
+  return fn:subsequence(fn:sort($list, 
+         function($oneway){-osm:getTagValue($oneway,$metricOperator)}),1,$k)
 };
+
+(: ********************************************* Aquí sigo ******************** :)
 
 declare function osm_aggr:bottomCountDistance($document as node()*,$k as xs:integer)
 {

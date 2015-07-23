@@ -81,7 +81,11 @@ declare function osm:searchTag($oneway as node(), $kValue as xs:string, $vValue)
 
 declare function osm:getTagValue($oneway as node(), $kValue as xs:string)
 {
- xs:double($oneway/tag[@k=$kValue]/@v) 
+ (:xs:double($oneway/tag[@k=$kValue]/@v) :)
+ if ($oneway//tag[@k=$kValue]) then
+  $oneway//tag[@k=$kValue]/@v
+ else 
+  xs:string(-1)
 };
 
 (:                           Urban Operators                                :)

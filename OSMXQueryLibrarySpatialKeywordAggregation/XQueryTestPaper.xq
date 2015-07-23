@@ -105,4 +105,13 @@ declare function local:createLayer($x){
 let $hotels := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
                          osm:searchKeyword(?,"hotel"))                  
 return
-osm_aggr:metricMax($hotels,"osm:getHotelStars")
+osm_aggr:metricTopCount($hotels,"osm:getArea",3)
+
+
+
+(:let $restaurants := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
+           osm:searchKeyword(?,"restaurant"))                  
+return
+osm_aggr:metricMin(osm_aggr:metricMode($restaurants,
+          "osm:getRestaurantCuisine"),"osm:getDistance")
+:)
