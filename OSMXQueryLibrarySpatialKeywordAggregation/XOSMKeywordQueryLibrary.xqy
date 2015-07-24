@@ -10,11 +10,11 @@ declare namespace gml='http://www.opengis.net/gml';
 (:                           Keyword Operators                              :)
 (: ************************************************************************ :)
 
-declare function xosm_kw:searchKeywordCollection($oneway as node(), $keywordCollection as xs:string*)
+declare function xosm_kw:searchKeywordSet($oneway as node(), $keywordSet as xs:string*)
 {
   if (some $value in 
   (distinct-values(
-  for $keyword in $keywordCollection
+  for $keyword in $keywordSet
     return xosm_kw:searchKeyword($oneway,$keyword))) satisfies ($value = true()))
     then true()
     else false()

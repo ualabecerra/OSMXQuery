@@ -105,13 +105,11 @@ declare function local:createLayer($x){
   
 :)
 
-(: let $hotels := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
-                         xosm_kw:searchKeyword(?,"hotel"))                  
+let $referenceOneways := rt:getElementsByKeyword(.,"pharmacy")
 return
-xosm_ag:metricMode($hotels,"stars")
-:)
-let $restaurants := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
-           xosm_kw:searchKeyword(?,"restaurant"))                  
-return
-xosm_ag:metricMin(xosm_ag:metricMode($restaurants,
-          "cuisine"),"distance")
+ fn:for-each($referenceOneways,rt:getLayerByElement(., ?, 0.001))
+
+
+
+
+
