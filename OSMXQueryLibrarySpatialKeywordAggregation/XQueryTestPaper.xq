@@ -1,14 +1,17 @@
-import module namespace osm = "osm" at "osmXQueryLibrary.xqy";
+import module namespace xosm_gml = "xosm_gml" at "XOSM2GmlQueryLibrary.xqy";
+
+import module namespace xosm_sp = "xosm_sp" at "XOSMSpatialQueryLibrary.xqy";
+
+import module namespace xosm_kw = "xosm_kw" at "XOSMKeywordQueryLibrary.xqy";
+
+import module namespace xosm_ag = "xosm_ag" at "XOSMAggregationQueryLibrary.xqy";
 
 import module namespace geo = "http://expath.org/ns/geo";
-
-import module namespace osm_gml = "osm_gml" at "osm2GmlLibrary.xqy";
 
 declare namespace gml='http://www.opengis.net/gml';
 
 import module namespace rt = "rtree" at "rtree_library.xq";
-
-import module namespace osm_aggr = "osm_aggr" at "OSMAggregationLibrary.xqy"; 
+ 
 
 (: let $indexName := "C:/Users/Administrator/Desktop/HitoOctubre2014/HitoOctubre2014/rtree_50meters.osm" :)
 
@@ -103,9 +106,9 @@ declare function local:createLayer($x){
 :)
 
 let $hotels := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
-                         osm:searchKeyword(?,"hotel"))                  
+                         xosm_kw:searchKeyword(?,"hotel"))                  
 return
-osm_aggr:metricTopCount($hotels,"osm:getArea",3)
+xosm_ag:metricTopCount($hotels,"xosm_sp:getArea",3)
 
 
 
