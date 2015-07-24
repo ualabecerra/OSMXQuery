@@ -1,5 +1,7 @@
 module namespace xosm_kw = "xosm_kw";
 
+import module namespace xosm_gml = "xosm_gml" at "XOSM2GmlQueryLibrary.xqy";
+
 import module namespace geo = "http://expath.org/ns/geo";
 
 declare namespace gml='http://www.opengis.net/gml';
@@ -35,11 +37,13 @@ declare function xosm_kw:searchTag($oneway as node(), $kValue as xs:string, $vVa
 
 declare function xosm_kw:getTagValue($oneway as node(), $kValue as xs:string)
 {
-(: Hacer un switch para controlar todos los casos :)  
-  
- (:xs:double($oneway/tag[@k=$kValue]/@v) :)
- if ($oneway//tag[@k=$kValue]) then
-  $oneway//tag[@k=$kValue]/@v
- else 
-  xs:string(-1)
+ switch ($kValue)
+  case "length" return (geo:length(xosm_gml:_osm2GmlLine($oneway))) * 10000
+  case "area"  return (geo:area(xosm_gml:_osm2GmlPolygon($oneway)) * (3.14 div 180) * 6378137) * 10000
+  case "distance" return $oneway/@distance
+  default return 
+    if ($oneway//tag[@k=$kValue]) then
+      $oneway//tag[@k=$kValue]/@v
+    else 
+      xs:string(-1)
 };

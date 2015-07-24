@@ -460,34 +460,3 @@ declare function xosm_sp:isAway($oneway1 as node(), $oneway2 as node())
    else -1
     
 };
-
-declare function xosm_sp:getLength($oneway as node())
-{
- (geo:length(xosm_gml:_osm2GmlLine($oneway))) * 10000
-};
-
-declare function xosm_sp:getArea($oneway as node())
-{
- (geo:area(xosm_gml:_osm2GmlPolygon($oneway)) * (3.14 div 180) * 6378137) * 10000
-};
-
-declare function xosm_sp:getHotelStars($oneway as node())
-{
- if ($oneway//tag[@k="stars"]) then
-  $oneway//tag[@k="stars"]/@v
- else 
-  xs:string(-1)
-};
-
-declare function xosm_sp:getDistance($oneway as node())
-{
- $oneway/@distance
-};
-
-declare function xosm_sp:getRestaurantCuisine($oneway as node())
-{
- if ($oneway//tag[@k="cuisine"]) then
-  $oneway//tag[@k="cuisine"]/@v
- else 
-  xs:string(-1)
-};

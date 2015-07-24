@@ -105,16 +105,13 @@ declare function local:createLayer($x){
   
 :)
 
-let $hotels := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
+(: let $hotels := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
                          xosm_kw:searchKeyword(?,"hotel"))                  
 return
-xosm_ag:metricTopCount($hotels,"xosm_sp:getArea",3)
-
-
-
-(:let $restaurants := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
-           osm:searchKeyword(?,"restaurant"))                  
-return
-osm_aggr:metricMin(osm_aggr:metricMode($restaurants,
-          "osm:getRestaurantCuisine"),"osm:getDistance")
+xosm_ag:metricMode($hotels,"stars")
 :)
+let $restaurants := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
+           xosm_kw:searchKeyword(?,"restaurant"))                  
+return
+xosm_ag:metricMin(xosm_ag:metricMode($restaurants,
+          "cuisine"),"distance")
