@@ -13,7 +13,7 @@ import module namespace osm_aggr = "osm_aggr" at "OSMAggregationLibrary.xqy";
 **************************************************************
 
 (: Example 1 :)
-(: Dame todas las calles que están más el norte de Calzada de Castro :)
+(: This query requests the streets to the north of the street Calzada de Castro :)
 
 (: 
 let $referenceWay := rt:getElementByName(., "Calle Calzada de Castro"),
@@ -26,8 +26,8 @@ return
 **************************************************************
 
 (: Example 2 :)
-(: Dame todas las calles que cruzan Calzada de Castro y terminan en 
-   Avenida Nuestra Señora de Monsterrat :)
+(: This query request the streets crossing Calzada de Castro and ending 
+   to street Avenida Montserrat :)
 
 (: 
 let $referenceWay1 := rt:getElementByName(., "Calle Calzada de Castro"),
@@ -42,7 +42,7 @@ return
 **************************************************************
 
 (: Example 3 :)
-(: Dame todos los colegios proximos a una calle que finaliza en Calzada de Castro :)
+(: This query request the schools close to an street, wherein Calzada de Castro ends. :)
 
 (: 
 let $referenceWay := rt:getElementByName(., "Calle Calzada de Castro"),
@@ -57,8 +57,8 @@ return
 **************************************************************
 
 (: Example 4 :)
-(: Dame todas las calles en las que hay una farmacia o un Supermercado El Arbol
-   proximas a Calzada de Castro :)
+(: This query requests the streets close to Calzada de Castro, 
+   in which there is a supermarket El Arbol” and a pharmacy :)
 
 (: 
 xosm_sp:intersectionQuery( 
@@ -70,7 +70,7 @@ xosm_sp:intersectionQuery(
 **************************************************************
 
 (: Example 5 :)
-(: Dame todos los edificios que hay en cruces de Calzada de Castro :)
+(: This query requests the buildings in the intersections of Calzada de Castro :)
 
 (: 
 let $referenceWay := rt:getElementByName(., "Calle Calzada de Castro"),
@@ -88,7 +88,7 @@ fn:filter(
 **************************************************************
 
 (: Example 6 :)
-(: Dame todos los colegios e institutos cerca de Calzada de Castro :)
+(: This query requests the schools and high schools close to Calzada de Castro :)
 
 (:
 let $referenceLayer := rt:getLayerByName(.,"Calle Calzada de Castro",0.001)
@@ -100,7 +100,7 @@ return
 **************************************************************
 
 (: Example 7 :)
-(: Dame las calles cercanas a farmacias :)
+(: This query requests the areas of the city in which there is a pharmacy :)
 
 (:
 let $referenceOneways := rt:getElementsByKeyword(.,"pharmacy")
@@ -111,22 +111,7 @@ return
 **************************************************************
 
 (: Example 8 :)
-(: Dame las zonas de ocio próximas a hoteles :)
-
-(: 
-
-declare function local:hotelLayer($hotel){
- <hotelLayer>{rt:getLayerByElement(collection(),$hotel,0.002)}</hotelLayer>
-};
-
-let $layerHotels := rt:getElementsByKeyword(.,"hotel")
-return
-   fn:filter(fn:for-each($layerHotels,local:hotelLayer(?)),
-           function($hotelLayer)
-           {count(fn:filter($hotelLayer/*, 
-           xosm_kw:searchKeywordSet(?,("bar", "restaurant", "cafe")))) >= 3})
-:)
-
+(: This query requests the food areas close to hotels of the city :)
 
 (: let $layerHotels := rt:getElementsByKeyword(.,"hotel")
 return
@@ -143,7 +128,7 @@ return
 **************************************************************
 
 (: Example 9 :)
-(: Dame una zona cercana a hoteles donde hay más monumentos religiosos :)
+(: This query requests the hotel with the greatest number of churches around :)
 
 (: 
 let $layerHotels := rt:getElementsByKeyword(.,"hotel")
@@ -159,7 +144,8 @@ fn:sort($layerHotels,
 (: Example 10 :)
 (: This query requests the size of park areas close to the street Paseo de Almeria :)
 
-(: let $referenceLayer := rt:getLayerByName(.,"Paseo de Almería",0.003),
+(: 
+let $referenceLayer := rt:getLayerByName(.,"Paseo de Almería",0.003),
     $parkAreas := fn:filter($referenceLayer,xosm_kw:searchKeyword(?,"park"))          
 return
 xosm_ag:metricSum($parkAreas,"area")
@@ -168,22 +154,35 @@ xosm_ag:metricSum($parkAreas,"area")
 **************************************************************
 
 (: Example 11 :)
+(: This query requests the most frequent star rating of hotels close to Paseo de Almeria :)
 
+(: 
 let $hotels := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
                xosm_kw:searchKeyword(?,"hotel"))                  
 return
     xosm_ag:metricMode($hotels,"stars")
+:)
+
+**************************************************************
     
 (: Example 12 :)
+(: This query requests the biggest hotels of top star ratings close to Paseo de Almeria :)
 
+(: 
 let $hotels := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
                          xosm_kw:searchKeyword(?,"hotel"))                  
 return
    xosm_ag:metricMax(xosm_ag:metricMax($hotels,"stars"), "area"
-   
-(: Example 13 :)
+:)
 
+**************************************************************
+
+(: Example 13 :)
+(: This query requests the closest restaurant to Paseo de Almeria having the most typical cuisine :)
+
+(: 
 let $restaurants := fn:filter(rt:getLayerByName(.,"Paseo de Almería",0.003), 
                     xosm_kw:searchKeyword(?,"restaurant"))                  
 return
-   xosm_ag:metricMin(xosm_ag:metricMode($restaurants,"cuisine"),"distance")    
+   xosm_ag:metricMin(xosm_ag:metricMode($restaurants,"cuisine"),"distance")
+:)
