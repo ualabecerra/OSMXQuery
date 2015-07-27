@@ -105,11 +105,20 @@ declare function local:createLayer($x){
   
 :)
 
-let $referenceOneways := rt:getElementsByKeyword(.,"pharmacy")
+declare function local:hotelLayer($osmElement){
+ <hotelLayer>{rt:getLayerByElement(collection(),$osmElement,0.002)}</hotelLayer>
+};
+
+let $layerHotels := rt:getElementsByKeyword(.,"hotel")
 return
- fn:for-each($referenceOneways,rt:getLayerByElement(., ?, 0.001))
-
-
-
-
+xosm_gml:_result2Osm(
+ fn:filter(fn:for-each($layerHotels,
+  function($hotel)
+  {<hotelLayer>
+     {rt:getLayerByElement(collection(),$hotel,0.002)}
+  </hotelLayer>}),
+     function($hotelLayer)
+     {count(fn:filter($hotelLayer/*, 
+     xosm_kw:searchKeywordSet(?,("bar","restaurant")))) >= 3})
+)
 

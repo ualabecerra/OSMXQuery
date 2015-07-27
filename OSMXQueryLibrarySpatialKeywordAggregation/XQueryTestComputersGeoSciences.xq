@@ -113,17 +113,31 @@ return
 (: Example 8 :)
 (: Dame las zonas de ocio próximas a hoteles :)
 
-(: declare function local:amenitySite($x){
-  count(fn:filter($x, osm:searchTags(?,("bar", "restaurant")))) >= 3
+(: 
+
+declare function local:hotelLayer($hotel){
+ <hotelLayer>{rt:getLayerByElement(collection(),$hotel,0.002)}</hotelLayer>
 };
- 
- osm_gml:_result2Osm(
-    fn:filter(
-      fn:for-each(rt:getElementsByKeyword(.,”hotel”), rt:getLayerByElement(.,?,0.001))
-      ,
-      local:amenitySite(?)
-    )
-)
+
+let $layerHotels := rt:getElementsByKeyword(.,"hotel")
+return
+   fn:filter(fn:for-each($layerHotels,local:hotelLayer(?)),
+           function($hotelLayer)
+           {count(fn:filter($hotelLayer/*, 
+           xosm_kw:searchKeywordSet(?,("bar", "restaurant", "cafe")))) >= 3})
+:)
+
+
+(: let $layerHotels := rt:getElementsByKeyword(.,"hotel")
+return
+ fn:filter(fn:for-each($layerHotels,
+  function($hotel)
+  {<hotelLayer>
+     {rt:getLayerByElement(collection(),$hotel,0.002)}
+  </hotelLayer>}),
+     function($hotelLayer)
+     {count(fn:filter($hotelLayer/*, 
+     xosm_kw:searchKeywordSet(?,("bar","restaurant","cafe")))) >= 3})
 :)
 
 **************************************************************
@@ -132,17 +146,12 @@ return
 (: Dame una zona cercana a hoteles donde hay más monumentos religiosos :)
 
 (: 
-for $oneLayer in 
-    fn:for-each(
-      (fn:for-each(rt:getElementsByKeyword(.,"hotel"), 
-                   rt:getLayerByElement(.,?,0.001)))
-       ,
-       osm:addTag(?, "numChurch", 
-             count(fn:filter(?, osm:searchOneTag(?,"church"))))
-        ) 
- order by $oneLayer/tag/@numChurch
- return 
-     osm_gml:_result2Osm($oneLayer[1])  
+let $layerHotels := rt:getElementsByKeyword(.,"hotel")
+return
+fn:sort($layerHotels,
+      function($hotel) 
+      {-(count(fn:filter(rt:getLayerByElement(collection(),$hotel ,0.001),
+      xosm_kw:searchKeyword(?,("church")))))})[1]
 :)
 
 **************************************************************
